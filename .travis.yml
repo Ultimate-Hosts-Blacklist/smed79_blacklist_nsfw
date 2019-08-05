@@ -1,42 +1,35 @@
-env:
-  global:
-    - GIT_NAME: Travis CI
-    - GIT_EMAIL: dead-hosts@funilrys.com
-    - TRAVIS_REPO_SLUG: [repository-slug]
-    - GIT_BRANCH: master
-    - UPDATE_LOCATION: https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/repository-structure/master/update.py
-    - ADMINISTATION_LOCATION: https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/repository-structure/master/administration.py
-
-dist: xenial
-sudo: required
-language: python
-
-python:
-  - "3.7"
-
-matrix:
-  fast_finish: true
-
-cache:
-  - pip
-
 addons:
-  apt:
-    packages:
-      - dos2unix
-
+    apt:
+        packages:
+        - dos2unix
+cache:
+- pip
+dist: xenial
+env:
+    global:
+    -   GIT_NAME: Travis CI
+    -   GIT_EMAIL: dead-hosts@funilrys.com
+    -   TRAVIS_REPO_SLUG: Ultimate-Hosts-Blacklist/smed79_blacklist_nsfw
+    -   GIT_BRANCH: master
+    -   UPDATE_LOCATION: https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/repository-structure/master/update.py
+    -   ADMINISTATION_LOCATION: https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/repository-structure/master/administration.py
+    -   secure: RYuDvpJnjOirFBJMgXtFwck4Kyp6l0zTPUznzBoumEMqOvnO1tENjIWqFTedwfu5jffC9+I8WS8OlUgZLWbuGoUUYflfeqDaxYnh2yGYWgnmzrXzo+fgKsy/hZpPy/mzx52SYsnpEZ2KcXnvjK8bLkxFf6Zk93YR7HNplU7EetT+aNA6sdO23bNtuX/DWdgztzP/tf6EiBKza+j9GxcX9rW21eBF6hYyofepHa8rNs77XtTJnrB4v4Y+A85AB+26vHiMOvQKWpRP42GhLkZZsmrfAgWvRNX4BGunV0B1dxCqj2kdzxjzX8lXnHwLal0lOE97O9hGWpNmTMF3AczSNCX8n+EvJMVcSXzPqP+xLYM6tvk1EOxBZPbmEfylhbum/z9Le2XJJ40mgIDL1cvlFaH7Jb2jvop0ufqyAqOaahNpvEfBsuK5R9iSxuUJ/qGpVjQXGOS/3eVaPlh43nM9qsMgqJ0uc+sBizgw9uBsBba6+VKnQ3UYvL+Guh18dNLGgm45DbYK8RJoPDlj+P/gmszbjEOWxPqBcXs55nRjbsPi3RgN4JUe6vQNDIUgism6b9msEsMmjEdkqAcucTuP85UFl5Q/Au+ffi9dyC9WxQY3zjn6C/PhlpCYdxQaIUW6ejMEdU5L4/7YJc9McDdoYk7gQwn9w8gaZX6Ft+zYM6I=
 install:
-  - pip3 install --upgrade pip
-  - pip3 install ultimate-hosts-blacklist-input-repo-updater
-
-script:
-  - ultimate-hosts-blacklist-input-repo-updater --version
-  - ultimate-hosts-blacklist-input-repo-updater -m -p 25
-
+- pip3 install --upgrade pip
+- pip3 install ultimate-hosts-blacklist-input-repo-updater
+language: python
+matrix:
+    fast_finish: true
 notifications:
-  email:
-    recipients:
-      - dead-hosts@funilrys.com
-      - mitchellkrogza+ultimatehostsblacklist@gmail.com
-    on_success: never
-    on_failure: always
+    email:
+        on_failure: always
+        on_success: never
+        recipients:
+        - dead-hosts@funilrys.com
+        - mitchellkrogza+ultimatehostsblacklist@gmail.com
+python:
+- '3.7'
+script:
+- ultimate-hosts-blacklist-input-repo-updater --version
+- ultimate-hosts-blacklist-input-repo-updater -m -p 25
+sudo: required
