@@ -1,10 +1,19 @@
-# About [repository-name]
+# About smed79_blacklist_nsfw
 
-[![Build Status](https://travis-ci.org/[repository-slug].svg?branch=master)](https://travis-ci.org/[repository-slug])
+[![Build Status](https://travis-ci.org/Ultimate-Hosts-Blacklist/smed79_blacklist_nsfw.svg?branch=master)](https://travis-ci.org/Ultimate-Hosts-Blacklist/smed79_blacklist_nsfw)
 
 
 ```
-[description]
+# [INFO] --------------------------------------------------------------------- #
+# smed79 NSFW HOSTS list
+# HOSTS file list, designed to block NSFW Adult domains
+#
+# Homepage: https://github.com/smed79/blacklist
+# Licence: (CC BY-NC-SA) http://creativecommons.org/licenses/by-nc-sa/3.0/
+#
+# In order to use this list, please use the following address:
+# https://raw.githubusercontent.com/smed79/blacklist/master/extra/nsfw.txt
+#
 ```
 
 --------------------------------------------------------------------------------
