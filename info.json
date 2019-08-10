@@ -1,17 +1,17 @@
 {
     "current_stats": {
-        "builds": 6,
+        "builds": 7,
         "counter": {
-            "down": 2199,
-            "invalid": 8,
-            "tested": 18367,
-            "up": 16160
+            "down": 2565,
+            "invalid": 9,
+            "tested": 21633,
+            "up": 19059
         }
     },
     "currently_under_test": "1",
     "days_until_next_test": 2,
-    "last_autosave_datetime": "Sat Aug 10 22:48:39 2019",
-    "last_autosave_epoch": 1565477319.784911,
+    "last_autosave_datetime": "Sat Aug 10 23:00:00 2019",
+    "last_autosave_epoch": 1565478000.262119,
     "name": "smed79_blacklist_nsfw",
     "raw_link": "https://raw.githubusercontent.com/smed79/blacklist/master/extra/nsfw.txt",
     "start_datetime": "Sat Aug 10 21:41:35 2019",
