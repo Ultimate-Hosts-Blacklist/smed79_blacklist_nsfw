@@ -1469,6 +1469,11 @@
         "expiration_date": "01-sep-2020",
         "state": "future"
     },
+    "pecadooriginal.pt": {
+        "epoch": 1565222400,
+        "expiration_date": "08-aug-2019",
+        "state": "past"
+    },
     "penix.fr": {
         "epoch": 1580515200,
         "expiration_date": "01-feb-2020",
