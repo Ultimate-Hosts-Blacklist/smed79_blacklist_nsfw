@@ -894,6 +894,11 @@
         "expiration_date": "16-mar-2020",
         "state": "future"
     },
+    "allevaangelina.com": {
+        "epoch": 1563753600,
+        "expiration_date": "22-jul-2019",
+        "state": "past"
+    },
     "allfreegay.com": {
         "epoch": 1572220800,
         "expiration_date": "28-oct-2019",
@@ -22439,6 +22444,11 @@
         "expiration_date": "23-aug-2020",
         "state": "future"
     },
+    "jerrcotch.com": {
+        "epoch": 1598659200,
+        "expiration_date": "29-aug-2020",
+        "state": "future"
+    },
     "jerseysnfljerseys.com": {
         "epoch": 1578960000,
         "expiration_date": "14-jan-2020",
@@ -28179,6 +28189,11 @@
         "expiration_date": "07-oct-2019",
         "state": "future"
     },
+    "scootloor.com": {
+        "epoch": 1588377600,
+        "expiration_date": "02-may-2020",
+        "state": "future"
+    },
     "scoreadate.com": {
         "epoch": 1588204800,
         "expiration_date": "30-apr-2020",
@@ -30892,6 +30907,11 @@
     "tuboff.com": {
         "epoch": 1594944000,
         "expiration_date": "17-jul-2020",
+        "state": "future"
+    },
+    "tubporn.tv": {
+        "epoch": 1601251200,
+        "expiration_date": "28-sep-2020",
         "state": "future"
     },
     "tukbangkok.com": {
