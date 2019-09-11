@@ -179,6 +179,11 @@
         "expiration_date": "08-apr-2020",
         "state": "future"
     },
+    "anamuel-careslie.com": {
+        "epoch": 1579996800,
+        "expiration_date": "26-jan-2020",
+        "state": "future"
+    },
     "angel-search.com": {
         "epoch": 1592006400,
         "expiration_date": "13-jun-2020",
