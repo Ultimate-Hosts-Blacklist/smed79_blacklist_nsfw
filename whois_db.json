@@ -227,7 +227,7 @@
     "arstube.com": {
         "epoch": 1568160000,
         "expiration_date": "11-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "asiangfssex.com": {
         "epoch": 1583366400,
@@ -452,7 +452,7 @@
     "clubvirgins.com": {
         "epoch": 1568160000,
         "expiration_date": "11-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "cochoncoquin.com": {
         "epoch": 1574035200,
@@ -967,6 +967,11 @@
     "highschoolvirgin.com": {
         "epoch": 1589328000,
         "expiration_date": "13-may-2020",
+        "state": "future"
+    },
+    "hogtie.me": {
+        "epoch": 1574899200,
+        "expiration_date": "28-nov-2019",
         "state": "future"
     },
     "holdthemoan.net": {
