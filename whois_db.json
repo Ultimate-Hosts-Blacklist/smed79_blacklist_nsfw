@@ -2174,6 +2174,11 @@
         "expiration_date": "28-jun-2020",
         "state": "future"
     },
+    "x-love.ru": {
+        "epoch": 1589846400,
+        "expiration_date": "19-may-2020",
+        "state": "future"
+    },
     "xcams.net": {
         "epoch": 1593216000,
         "expiration_date": "27-jun-2020",
