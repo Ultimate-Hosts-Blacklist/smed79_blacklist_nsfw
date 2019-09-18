@@ -744,6 +744,11 @@
         "expiration_date": "20-dec-2019",
         "state": "future"
     },
+    "gentleshot.site": {
+        "epoch": 1565136000,
+        "expiration_date": "07-aug-2019",
+        "state": "past"
+    },
     "giffies.com": {
         "epoch": 1571270400,
         "expiration_date": "17-oct-2019",
@@ -894,6 +899,11 @@
         "expiration_date": "13-jul-2019",
         "state": "past"
     },
+    "images4full.pw": {
+        "epoch": 1563148800,
+        "expiration_date": "15-jul-2019",
+        "state": "past"
+    },
     "imageuploads.co.uk": {
         "epoch": 1564531200,
         "expiration_date": "31-jul-2019",
@@ -905,6 +915,11 @@
         "state": "future"
     },
     "img2018beauty.pw": {
+        "epoch": 1563321600,
+        "expiration_date": "17-jul-2019",
+        "state": "past"
+    },
+    "img2018world.pw": {
         "epoch": 1563321600,
         "expiration_date": "17-jul-2019",
         "state": "past"
@@ -1022,6 +1037,11 @@
     "la-mature.com": {
         "epoch": 1592956800,
         "expiration_date": "24-jun-2020",
+        "state": "future"
+    },
+    "latinasheat.online": {
+        "epoch": 1600214400,
+        "expiration_date": "16-sep-2020",
         "state": "future"
     },
     "leahgotti.org": {
@@ -1364,12 +1384,22 @@
         "expiration_date": "30-apr-2020",
         "state": "future"
     },
+    "pichotgallery2018d.pw": {
+        "epoch": 1600300800,
+        "expiration_date": "17-sep-2020",
+        "state": "future"
+    },
     "pichotgallery2018e.pw": {
         "epoch": 1600300800,
         "expiration_date": "17-sep-2020",
         "state": "future"
     },
     "pichotgallery2018g.pw": {
+        "epoch": 1600300800,
+        "expiration_date": "17-sep-2020",
+        "state": "future"
+    },
+    "pichotgallery2018j.pw": {
         "epoch": 1600300800,
         "expiration_date": "17-sep-2020",
         "state": "future"
@@ -1552,6 +1582,11 @@
     "pornpicsmovies.net": {
         "epoch": 1564444800,
         "expiration_date": "30-jul-2019",
+        "state": "past"
+    },
+    "pornripped.xyz": {
+        "epoch": 1564012800,
+        "expiration_date": "25-jul-2019",
         "state": "past"
     },
     "porns.mobi": {
@@ -1939,6 +1974,11 @@
         "expiration_date": "01-oct-2019",
         "state": "future"
     },
+    "thepornvideos.xyz": {
+        "epoch": 1591747200,
+        "expiration_date": "10-jun-2020",
+        "state": "future"
+    },
     "theteenz.com": {
         "epoch": 1582761600,
         "expiration_date": "27-feb-2020",
@@ -2038,6 +2078,11 @@
         "epoch": 1586736000,
         "expiration_date": "13-apr-2020",
         "state": "future"
+    },
+    "video-one.pw": {
+        "epoch": 1564012800,
+        "expiration_date": "25-jul-2019",
+        "state": "past"
     },
     "videochatsex.xyz": {
         "epoch": 1583280000,
