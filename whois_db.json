@@ -84,6 +84,11 @@
         "expiration_date": "03-dec-2019",
         "state": "future"
     },
+    "adsx.site": {
+        "epoch": 1562457600,
+        "expiration_date": "07-jul-2019",
+        "state": "past"
+    },
     "adult-adv.com": {
         "epoch": 1589414400,
         "expiration_date": "14-may-2020",
@@ -904,6 +909,11 @@
         "expiration_date": "15-jul-2019",
         "state": "past"
     },
+    "images4pix.pw": {
+        "epoch": 1563148800,
+        "expiration_date": "15-jul-2019",
+        "state": "past"
+    },
     "imageuploads.co.uk": {
         "epoch": 1564531200,
         "expiration_date": "31-jul-2019",
@@ -919,7 +929,17 @@
         "expiration_date": "17-jul-2019",
         "state": "past"
     },
+    "img2018nice.pw": {
+        "epoch": 1563321600,
+        "expiration_date": "17-jul-2019",
+        "state": "past"
+    },
     "img2018world.pw": {
+        "epoch": 1563321600,
+        "expiration_date": "17-jul-2019",
+        "state": "past"
+    },
+    "img2018wow.pw": {
         "epoch": 1563321600,
         "expiration_date": "17-jul-2019",
         "state": "past"
@@ -1594,6 +1614,11 @@
         "expiration_date": "26-sep-2019",
         "state": "future"
     },
+    "pornsiterips.xyz": {
+        "epoch": 1563926400,
+        "expiration_date": "24-jul-2019",
+        "state": "past"
+    },
     "pornstardump.com": {
         "epoch": 1596240000,
         "expiration_date": "01-aug-2020",
@@ -1982,6 +2007,11 @@
     "theteenz.com": {
         "epoch": 1582761600,
         "expiration_date": "27-feb-2020",
+        "state": "future"
+    },
+    "thumbrush.pw": {
+        "epoch": 1580342400,
+        "expiration_date": "30-jan-2020",
         "state": "future"
     },
     "tinyweene.com": {
