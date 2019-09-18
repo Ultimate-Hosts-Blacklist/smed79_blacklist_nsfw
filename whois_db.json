@@ -599,6 +599,11 @@
         "expiration_date": "12-jul-2019",
         "state": "past"
     },
+    "extremeforbiddentube.com": {
+        "epoch": 1578528000,
+        "expiration_date": "09-jan-2020",
+        "state": "future"
+    },
     "fa-pro.com": {
         "epoch": 1582070400,
         "expiration_date": "19-feb-2020",
@@ -722,6 +727,11 @@
     "gatewayinterface.com": {
         "epoch": 1575158400,
         "expiration_date": "01-dec-2019",
+        "state": "future"
+    },
+    "gay-webcams.com": {
+        "epoch": 1584403200,
+        "expiration_date": "17-mar-2020",
         "state": "future"
     },
     "gazoup.net": {
@@ -1132,6 +1142,11 @@
     "maxisexy.com": {
         "epoch": 1591660800,
         "expiration_date": "09-jun-2020",
+        "state": "future"
+    },
+    "maxjizz.com": {
+        "epoch": 1593302400,
+        "expiration_date": "28-jun-2020",
         "state": "future"
     },
     "mediagra.com": {
