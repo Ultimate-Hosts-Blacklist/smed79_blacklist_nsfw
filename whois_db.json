@@ -369,6 +369,11 @@
         "expiration_date": "03-jul-2020",
         "state": "future"
     },
+    "legendarylars.com": {
+        "epoch": 1609977600,
+        "expiration_date": "07-jan-2021",
+        "state": "future"
+    },
     "lemmecheckvideo.com": {
         "epoch": 1575072000,
         "expiration_date": "30-nov-2019",
@@ -492,6 +497,11 @@
     "pomfpomf.moe": {
         "epoch": 1581465600,
         "expiration_date": "12-feb-2020",
+        "state": "future"
+    },
+    "pornnerdnetwork.com": {
+        "epoch": 1597276800,
+        "expiration_date": "13-aug-2020",
         "state": "future"
     },
     "pornokk.com": {
@@ -667,6 +677,11 @@
     "voicehentai.com": {
         "epoch": 1615075200,
         "expiration_date": "07-mar-2021",
+        "state": "future"
+    },
+    "vreviews.com": {
+        "epoch": 1588377600,
+        "expiration_date": "02-may-2020",
         "state": "future"
     },
     "watchmygf.me": {
