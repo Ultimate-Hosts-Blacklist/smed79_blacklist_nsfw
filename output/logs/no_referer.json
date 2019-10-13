@@ -1,8 +1,9 @@
 {
-    "1570237040.736005": {
-        "domain": "static.jav24.us",
+    "1570930231.755669": {
+        "domain": "priva.us",
         "extension": "us"
-    },
+    }
+}    },
     "1570265274.509832": {
         "domain": "www.l-virgin.us",
         "extension": "us"
@@ -245,6 +246,10 @@
     },
     "1570923859.488783": {
         "domain": "danbooru.donmai.us",
+        "extension": "us"
+    },
+    "1570930231.754464": {
+        "domain": "www.priva.us",
         "extension": "us"
     }
 }
