@@ -1,19 +1,19 @@
 {
     "current_stats": {
-        "builds": 17,
+        "builds": 18,
         "counter": {
-            "down": 5659,
+            "down": 6142,
             "invalid": 0,
-            "tested": 41374,
-            "up": 35715
+            "tested": 42704,
+            "up": 36562
         }
     },
     "currently_under_test": "1",
     "days_until_next_test": 2,
     "end_datetime": "Wed Oct 23 00:57:33 2019",
     "end_epoch": 1571792253.258523,
-    "last_autosave_datetime": "Sat Oct 26 04:05:15 2019",
-    "last_autosave_epoch": 1572062715.925649,
+    "last_autosave_datetime": "Sat Oct 26 04:24:47 2019",
+    "last_autosave_epoch": 1572063887.674006,
     "name": "smed79_blacklist_nsfw",
     "previous_stats": {
         "builds": 18,
