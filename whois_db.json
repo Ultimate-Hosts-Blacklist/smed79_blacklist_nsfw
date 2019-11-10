@@ -684,6 +684,11 @@
         "expiration_date": "10-jun-2025",
         "state": "future"
     },
+    "imglnkc.com": {
+        "epoch": 1579392000.0,
+        "expiration_date": "19-jan-2020",
+        "state": "future"
+    },
     "imgsay.com": {
         "epoch": 1588636800.0,
         "expiration_date": "05-may-2020",
@@ -1029,6 +1034,11 @@
         "expiration_date": "16-sep-2020",
         "state": "future"
     },
+    "nubilesgallery.com": {
+        "epoch": 1590624000.0,
+        "expiration_date": "28-may-2020",
+        "state": "future"
+    },
     "nudesonline.com": {
         "epoch": 1586476800.0,
         "expiration_date": "10-apr-2020",
@@ -1124,6 +1134,11 @@
         "expiration_date": "09-feb-2021",
         "state": "future"
     },
+    "porn5.com": {
+        "epoch": 1576195200.0,
+        "expiration_date": "13-dec-2019",
+        "state": "future"
+    },
     "porncomixonline.com": {
         "epoch": 1639008000.0,
         "expiration_date": "09-dec-2021",
@@ -1182,6 +1197,11 @@
     "pornolike.net": {
         "epoch": 1577577600.0,
         "expiration_date": "29-dec-2019",
+        "state": "future"
+    },
+    "pornotrack.ru": {
+        "epoch": 1606435200.0,
+        "expiration_date": "27-nov-2020",
         "state": "future"
     },
     "pornotransexuelle.com": {
@@ -1469,6 +1489,11 @@
         "expiration_date": "05-mar-2020",
         "state": "future"
     },
+    "themaxtube.com": {
+        "epoch": 1569283200.0,
+        "expiration_date": "24-sep-2019",
+        "state": "past"
+    },
     "thepornvideos.xyz": {
         "epoch": 1591747200.0,
         "expiration_date": "10-jun-2020",
@@ -1554,6 +1579,11 @@
         "expiration_date": "05-may-2020",
         "state": "future"
     },
+    "tubeshake.com": {
+        "epoch": 1573689600.0,
+        "expiration_date": "14-nov-2019",
+        "state": "future"
+    },
     "tubporn.tv": {
         "epoch": 1601251200.0,
         "expiration_date": "28-sep-2020",
@@ -1587,6 +1617,11 @@
     "vacheries.fr": {
         "epoch": 1583107200.0,
         "expiration_date": "02-mar-2020",
+        "state": "future"
+    },
+    "veronikapartner.com": {
+        "epoch": 1607385600.0,
+        "expiration_date": "08-dec-2020",
         "state": "future"
     },
     "video-hentai.tv": {
