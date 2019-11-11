@@ -534,6 +534,11 @@
         "expiration_date": "29-oct-2020",
         "state": "future"
     },
+    "domai.com": {
+        "epoch": 1588809600.0,
+        "expiration_date": "07-may-2020",
+        "state": "future"
+    },
     "dontbuyporn.com": {
         "epoch": 1585180800.0,
         "expiration_date": "26-mar-2020",
@@ -813,6 +818,11 @@
         "epoch": 1697500800.0,
         "expiration_date": "17-oct-2023",
         "state": "future"
+    },
+    "fotokoma.com": {
+        "epoch": 1567728000.0,
+        "expiration_date": "06-sep-2019",
+        "state": "past"
     },
     "fox3.com": {
         "epoch": 1581724800.0,
