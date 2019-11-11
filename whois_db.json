@@ -34,6 +34,11 @@
         "expiration_date": "14-jan-2020",
         "state": "future"
     },
+    "9taxi.com": {
+        "epoch": 1599436800.0,
+        "expiration_date": "07-sep-2020",
+        "state": "future"
+    },
     "abbeysorchids.com": {
         "epoch": 1608249600.0,
         "expiration_date": "18-dec-2020",
@@ -559,6 +564,11 @@
         "expiration_date": "13-sep-2019",
         "state": "past"
     },
+    "eroerozip.com": {
+        "epoch": 1589155200.0,
+        "expiration_date": "11-may-2020",
+        "state": "future"
+    },
     "erofreeporn.net": {
         "epoch": 1589155200.0,
         "expiration_date": "11-may-2020",
@@ -1028,6 +1038,11 @@
         "epoch": 1598054400.0,
         "expiration_date": "22-aug-2020",
         "state": "future"
+    },
+    "iwantpix.com": {
+        "epoch": 1566604800.0,
+        "expiration_date": "24-aug-2019",
+        "state": "past"
     },
     "jackboxharddrive.com": {
         "epoch": 1600041600.0,
@@ -1544,6 +1559,11 @@
         "expiration_date": "29-jul-2020",
         "state": "future"
     },
+    "petsexfree.com": {
+        "epoch": 1584403200.0,
+        "expiration_date": "17-mar-2020",
+        "state": "future"
+    },
     "pewker.com": {
         "epoch": 1588204800.0,
         "expiration_date": "30-apr-2020",
@@ -1648,6 +1668,11 @@
         "epoch": 1576454400.0,
         "expiration_date": "16-dec-2019",
         "state": "future"
+    },
+    "pornmofo.com": {
+        "epoch": 1567555200.0,
+        "expiration_date": "04-sep-2019",
+        "state": "past"
     },
     "porno-fou.com": {
         "epoch": 1577318400.0,
@@ -2477,6 +2502,11 @@
     "xxxtube.net": {
         "epoch": 1599523200.0,
         "expiration_date": "08-sep-2020",
+        "state": "future"
+    },
+    "yesporn.co": {
+        "epoch": 1574640000.0,
+        "expiration_date": "25-nov-2019",
         "state": "future"
     },
     "youloveteens.com": {
