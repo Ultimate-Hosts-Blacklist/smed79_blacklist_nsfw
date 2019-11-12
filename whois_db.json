@@ -1490,9 +1490,9 @@
         "state": "future"
     },
     "netnet50.com": {
-        "epoch": 1566691200.0,
-        "expiration_date": "25-aug-2019",
-        "state": "past"
+        "epoch": 1605139200.0,
+        "expiration_date": "12-nov-2020",
+        "state": "future"
     },
     "netplayground.com": {
         "epoch": 1587168000.0,
