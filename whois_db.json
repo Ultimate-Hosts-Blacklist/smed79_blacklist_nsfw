@@ -1,7 +1,17 @@
 {
+    "0bat.com": {
+        "epoch": 1581120000.0,
+        "expiration_date": "08-feb-2020",
+        "state": "future"
+    },
     "0xxx.in": {
         "epoch": 1575331200.0,
         "expiration_date": "03-dec-2019",
+        "state": "future"
+    },
+    "1001xxx.com": {
+        "epoch": 1576108800.0,
+        "expiration_date": "12-dec-2019",
         "state": "future"
     },
     "181st.net": {
@@ -19,6 +29,11 @@
         "expiration_date": "29-aug-2020",
         "state": "future"
     },
+    "1zoom.net": {
+        "epoch": 1584230400.0,
+        "expiration_date": "15-mar-2020",
+        "state": "future"
+    },
     "24sobre7.com": {
         "epoch": 1597017600.0,
         "expiration_date": "10-aug-2020",
@@ -27,6 +42,26 @@
     "24video.tube": {
         "epoch": 1588896000.0,
         "expiration_date": "08-may-2020",
+        "state": "future"
+    },
+    "321jav.com": {
+        "epoch": 1577750400.0,
+        "expiration_date": "31-dec-2019",
+        "state": "future"
+    },
+    "3xse.com": {
+        "epoch": 1579478400.0,
+        "expiration_date": "20-jan-2020",
+        "state": "future"
+    },
+    "420chan.org": {
+        "epoch": 1587427200.0,
+        "expiration_date": "21-apr-2020",
+        "state": "future"
+    },
+    "4porn.com": {
+        "epoch": 1590537600.0,
+        "expiration_date": "27-may-2020",
         "state": "future"
     },
     "5pee.com": {
@@ -39,10 +74,25 @@
         "expiration_date": "21-apr-2020",
         "state": "future"
     },
+    "69teensex.com": {
+        "epoch": 1599782400.0,
+        "expiration_date": "11-sep-2020",
+        "state": "future"
+    },
+    "7avenue.com": {
+        "epoch": 1647561600.0,
+        "expiration_date": "18-mar-2022",
+        "state": "future"
+    },
     "91jav.com": {
         "epoch": 1602892800.0,
         "expiration_date": "17-oct-2020",
         "state": "future"
+    },
+    "9xrockers.co": {
+        "epoch": 1570665600.0,
+        "expiration_date": "10-oct-2019",
+        "state": "past"
     },
     "abigtits.net": {
         "epoch": 1605398400.0,
@@ -52,6 +102,31 @@
     "acmexxx.com": {
         "epoch": 1602028800.0,
         "expiration_date": "07-oct-2020",
+        "state": "future"
+    },
+    "adqueen.com": {
+        "epoch": 1578528000.0,
+        "expiration_date": "09-jan-2020",
+        "state": "future"
+    },
+    "adultdumper.com": {
+        "epoch": 1591315200.0,
+        "expiration_date": "05-jun-2020",
+        "state": "future"
+    },
+    "adultempire.com": {
+        "epoch": 1578700800.0,
+        "expiration_date": "11-jan-2020",
+        "state": "future"
+    },
+    "adultstream.xxx": {
+        "epoch": 1584576000.0,
+        "expiration_date": "19-mar-2020",
+        "state": "future"
+    },
+    "adultvalleycash.com": {
+        "epoch": 1599523200.0,
+        "expiration_date": "08-sep-2020",
         "state": "future"
     },
     "ah-me.com": {
@@ -69,14 +144,59 @@
         "expiration_date": "22-feb-2020",
         "state": "future"
     },
+    "allkarups.com": {
+        "epoch": 1597363200.0,
+        "expiration_date": "14-aug-2020",
+        "state": "future"
+    },
+    "allthumbshost.com": {
+        "epoch": 1595030400.0,
+        "expiration_date": "18-jul-2020",
+        "state": "future"
+    },
+    "alsscanangels.com": {
+        "epoch": 1580774400.0,
+        "expiration_date": "04-feb-2020",
+        "state": "future"
+    },
     "altingramfiyati.org": {
         "epoch": 1594857600.0,
         "expiration_date": "16-jul-2020",
         "state": "future"
     },
+    "altplayground.net": {
+        "epoch": 1596844800.0,
+        "expiration_date": "08-aug-2020",
+        "state": "future"
+    },
+    "amaporn.com": {
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
+        "state": "future"
+    },
     "amateurbusters.com": {
         "epoch": 1605312000.0,
         "expiration_date": "14-nov-2020",
+        "state": "future"
+    },
+    "amateurcommunity.com": {
+        "epoch": 1584835200.0,
+        "expiration_date": "22-mar-2020",
+        "state": "future"
+    },
+    "amateurtubeporn.com": {
+        "epoch": 1591488000.0,
+        "expiration_date": "07-jun-2020",
+        "state": "future"
+    },
+    "amybrookexxx.com": {
+        "epoch": 1605830400.0,
+        "expiration_date": "20-nov-2020",
+        "state": "future"
+    },
+    "angela.nu": {
+        "epoch": 1602806400.0,
+        "expiration_date": "16-oct-2020",
         "state": "future"
     },
     "angelartnet.net": {
@@ -87,6 +207,36 @@
     "angelchic.com": {
         "epoch": 1601942400.0,
         "expiration_date": "06-oct-2020",
+        "state": "future"
+    },
+    "angelinarossi.com": {
+        "epoch": 1691020800.0,
+        "expiration_date": "03-aug-2023",
+        "state": "future"
+    },
+    "angelsofamsterdam.com": {
+        "epoch": 1582848000.0,
+        "expiration_date": "28-feb-2020",
+        "state": "future"
+    },
+    "angelsofmemphis.com": {
+        "epoch": 1595030400.0,
+        "expiration_date": "18-jul-2020",
+        "state": "future"
+    },
+    "angelsordevils.com": {
+        "epoch": 1592438400.0,
+        "expiration_date": "18-jun-2020",
+        "state": "future"
+    },
+    "angelstolove.com": {
+        "epoch": 1579737600.0,
+        "expiration_date": "23-jan-2020",
+        "state": "future"
+    },
+    "antarvasnapornvideos.com": {
+        "epoch": 1586822400.0,
+        "expiration_date": "14-apr-2020",
         "state": "future"
     },
     "anyjav.com": {
@@ -114,9 +264,24 @@
         "expiration_date": "22-sep-2019",
         "state": "past"
     },
+    "asianporndump.com": {
+        "epoch": 1578873600.0,
+        "expiration_date": "13-jan-2020",
+        "state": "future"
+    },
+    "auschan.org": {
+        "epoch": 1588809600.0,
+        "expiration_date": "07-may-2020",
+        "state": "future"
+    },
     "aussiespeedoguy.org": {
         "epoch": 1600300800.0,
         "expiration_date": "17-sep-2020",
+        "state": "future"
+    },
+    "av01.tv": {
+        "epoch": 1584489600.0,
+        "expiration_date": "18-mar-2020",
         "state": "future"
     },
     "aweporn.com": {
@@ -124,9 +289,19 @@
         "expiration_date": "14-apr-2020",
         "state": "future"
     },
+    "axelleparker.com": {
+        "epoch": 1604620800.0,
+        "expiration_date": "06-nov-2020",
+        "state": "future"
+    },
     "azblowjobtube.com": {
         "epoch": 1583971200.0,
         "expiration_date": "12-mar-2020",
+        "state": "future"
+    },
+    "babes6.com": {
+        "epoch": 1621296000.0,
+        "expiration_date": "18-may-2021",
         "state": "future"
     },
     "baeb.com": {
@@ -134,9 +309,19 @@
         "expiration_date": "08-may-2021",
         "state": "future"
     },
+    "bangbrosonline.com": {
+        "epoch": 1769299200.0,
+        "expiration_date": "25-jan-2026",
+        "state": "future"
+    },
     "bangporn.org": {
         "epoch": 1598313600.0,
         "expiration_date": "25-aug-2020",
+        "state": "future"
+    },
+    "bannedcelebs.com": {
+        "epoch": 1649894400.0,
+        "expiration_date": "14-apr-2022",
         "state": "future"
     },
     "basiltube.com": {
@@ -149,6 +334,16 @@
         "expiration_date": "09-oct-2020",
         "state": "future"
     },
+    "bdsmtubeporn.org": {
+        "epoch": 1598227200.0,
+        "expiration_date": "24-aug-2020",
+        "state": "future"
+    },
+    "beauty4k.com": {
+        "epoch": 1585872000.0,
+        "expiration_date": "03-apr-2020",
+        "state": "future"
+    },
     "beaverbattle.com": {
         "epoch": 1590969600.0,
         "expiration_date": "01-jun-2020",
@@ -157,6 +352,11 @@
     "beaverscripts.com": {
         "epoch": 1603411200.0,
         "expiration_date": "23-oct-2020",
+        "state": "future"
+    },
+    "bedroomsports.com": {
+        "epoch": 1637280000.0,
+        "expiration_date": "19-nov-2021",
         "state": "future"
     },
     "beegifs.com": {
@@ -174,6 +374,16 @@
         "expiration_date": "21-jul-2020",
         "state": "future"
     },
+    "bgtop.net": {
+        "epoch": 1611014400.0,
+        "expiration_date": "19-jan-2021",
+        "state": "future"
+    },
+    "bigasspictures.net": {
+        "epoch": 1593129600.0,
+        "expiration_date": "26-jun-2020",
+        "state": "future"
+    },
     "bigbangempire.com": {
         "epoch": 1587859200.0,
         "expiration_date": "26-apr-2020",
@@ -184,9 +394,24 @@
         "expiration_date": "07-jun-2020",
         "state": "future"
     },
+    "bigseekpro.com": {
+        "epoch": 1583280000.0,
+        "expiration_date": "04-mar-2020",
+        "state": "future"
+    },
+    "blackgirlslust.com": {
+        "epoch": 1599868800.0,
+        "expiration_date": "12-sep-2020",
+        "state": "future"
+    },
     "blacktube.com": {
         "epoch": 1582329600.0,
         "expiration_date": "22-feb-2020",
+        "state": "future"
+    },
+    "blackystars.com": {
+        "epoch": 1596758400.0,
+        "expiration_date": "07-aug-2020",
         "state": "future"
     },
     "bonetoob.com": {
@@ -199,6 +424,16 @@
         "expiration_date": "14-nov-2020",
         "state": "future"
     },
+    "bookmarklinks.com": {
+        "epoch": 1592179200.0,
+        "expiration_date": "15-jun-2020",
+        "state": "future"
+    },
+    "booloo.com": {
+        "epoch": 1641340800.0,
+        "expiration_date": "05-jan-2022",
+        "state": "future"
+    },
     "borfos.com": {
         "epoch": 1594944000.0,
         "expiration_date": "17-jul-2020",
@@ -207,6 +442,11 @@
     "bottomclips.com": {
         "epoch": 1584748800.0,
         "expiration_date": "21-mar-2020",
+        "state": "future"
+    },
+    "brandytalorevip.com": {
+        "epoch": 1594512000.0,
+        "expiration_date": "12-jul-2020",
         "state": "future"
     },
     "break.com": {
@@ -224,9 +464,19 @@
         "expiration_date": "06-sep-2020",
         "state": "future"
     },
+    "bulldoglist.com": {
+        "epoch": 1589068800.0,
+        "expiration_date": "10-may-2020",
+        "state": "future"
+    },
     "bustysirens.com": {
         "epoch": 1589414400.0,
         "expiration_date": "14-may-2020",
+        "state": "future"
+    },
+    "callgirlsbg.com": {
+        "epoch": 1618617600.0,
+        "expiration_date": "17-apr-2021",
         "state": "future"
     },
     "camboystube.net": {
@@ -244,14 +494,49 @@
         "expiration_date": "04-aug-2020",
         "state": "future"
     },
+    "camwithher.com": {
+        "epoch": 1602806400.0,
+        "expiration_date": "16-oct-2020",
+        "state": "future"
+    },
+    "candidbeachangels.com": {
+        "epoch": 1582070400.0,
+        "expiration_date": "19-feb-2020",
+        "state": "future"
+    },
+    "caramelbbw.com": {
+        "epoch": 1611532800.0,
+        "expiration_date": "25-jan-2021",
+        "state": "future"
+    },
+    "carmenvalentina.com": {
+        "epoch": 1610841600.0,
+        "expiration_date": "17-jan-2021",
+        "state": "future"
+    },
     "carnedeprimeira.org": {
         "epoch": 1582934400.0,
         "expiration_date": "29-feb-2020",
         "state": "future"
     },
+    "ccgals.com": {
+        "epoch": 1607904000.0,
+        "expiration_date": "14-dec-2020",
+        "state": "future"
+    },
     "cdgirls.com": {
         "epoch": 1581206400.0,
         "expiration_date": "09-feb-2020",
+        "state": "future"
+    },
+    "cdn19tube.pro": {
+        "epoch": 1575763200.0,
+        "expiration_date": "08-dec-2019",
+        "state": "future"
+    },
+    "cdnpics.com": {
+        "epoch": 1595289600.0,
+        "expiration_date": "21-jul-2020",
         "state": "future"
     },
     "cheesecaketube.com": {
@@ -269,9 +554,24 @@
         "expiration_date": "25-feb-2020",
         "state": "future"
     },
+    "chubby-teen.com": {
+        "epoch": 1579305600.0,
+        "expiration_date": "18-jan-2020",
+        "state": "future"
+    },
+    "citronnemoi.com": {
+        "epoch": 1590710400.0,
+        "expiration_date": "29-may-2020",
+        "state": "future"
+    },
     "classificadosx.com": {
         "epoch": 1781568000.0,
         "expiration_date": "16-jun-2026",
+        "state": "future"
+    },
+    "cleanladyboys.com": {
+        "epoch": 1595289600.0,
+        "expiration_date": "21-jul-2020",
         "state": "future"
     },
     "cleantubeporn.com": {
@@ -279,9 +579,34 @@
         "expiration_date": "05-feb-2020",
         "state": "future"
     },
+    "club-flank.com": {
+        "epoch": 1625875200.0,
+        "expiration_date": "10-jul-2021",
+        "state": "future"
+    },
+    "cockhero.org": {
+        "epoch": 1591920000.0,
+        "expiration_date": "12-jun-2020",
+        "state": "future"
+    },
+    "cosplayfeet.com": {
+        "epoch": 1586908800.0,
+        "expiration_date": "15-apr-2020",
+        "state": "future"
+    },
     "cougarplancul.com": {
         "epoch": 1593648000.0,
         "expiration_date": "02-jul-2020",
+        "state": "future"
+    },
+    "cozyxxx.com": {
+        "epoch": 1604188800.0,
+        "expiration_date": "01-nov-2020",
+        "state": "future"
+    },
+    "crazydumper.com": {
+        "epoch": 1583107200.0,
+        "expiration_date": "02-mar-2020",
         "state": "future"
     },
     "cricfree.org": {
@@ -289,9 +614,29 @@
         "expiration_date": "15-oct-2020",
         "state": "future"
     },
+    "crocporn.fr": {
+        "epoch": 1592524800.0,
+        "expiration_date": "19-jun-2020",
+        "state": "future"
+    },
+    "cutemodels.biz": {
+        "epoch": 1586736000.0,
+        "expiration_date": "13-apr-2020",
+        "state": "future"
+    },
     "cyberkatz.com": {
         "epoch": 1606435200.0,
         "expiration_date": "27-nov-2020",
+        "state": "future"
+    },
+    "czechstreets.com": {
+        "epoch": 1595116800.0,
+        "expiration_date": "19-jul-2020",
+        "state": "future"
+    },
+    "danskpornofilm.com": {
+        "epoch": 1603497600.0,
+        "expiration_date": "24-oct-2020",
         "state": "future"
     },
     "dansmovies.com": {
@@ -309,6 +654,16 @@
         "expiration_date": "19-mar-2020",
         "state": "future"
     },
+    "dbestporn.com": {
+        "epoch": 1599350400.0,
+        "expiration_date": "06-sep-2020",
+        "state": "future"
+    },
+    "deepmindy.com": {
+        "epoch": 1716422400.0,
+        "expiration_date": "23-may-2024",
+        "state": "future"
+    },
     "demontemoi.com": {
         "epoch": 1580601600.0,
         "expiration_date": "02-feb-2020",
@@ -319,14 +674,44 @@
         "expiration_date": "09-apr-2020",
         "state": "future"
     },
+    "digital2cloud.com": {
+        "epoch": 1596931200.0,
+        "expiration_date": "09-aug-2020",
+        "state": "future"
+    },
+    "digitalangelblog.com": {
+        "epoch": 1576454400.0,
+        "expiration_date": "16-dec-2019",
+        "state": "future"
+    },
+    "dildoxxxtube.com": {
+        "epoch": 1597190400.0,
+        "expiration_date": "12-aug-2020",
+        "state": "future"
+    },
+    "diplodocul.com": {
+        "epoch": 1580428800.0,
+        "expiration_date": "31-jan-2020",
+        "state": "future"
+    },
     "direkfullizle.net": {
         "epoch": 1576368000.0,
         "expiration_date": "15-dec-2019",
         "state": "future"
     },
+    "dirtyaly.com": {
+        "epoch": 1574640000.0,
+        "expiration_date": "25-nov-2019",
+        "state": "future"
+    },
     "dirtyamateurtube.com": {
         "epoch": 1580601600.0,
         "expiration_date": "02-feb-2020",
+        "state": "future"
+    },
+    "dirtydirtyangels.com": {
+        "epoch": 1603843200.0,
+        "expiration_date": "28-oct-2020",
         "state": "future"
     },
     "dirtyrottenwhore.com": {
@@ -344,9 +729,19 @@
         "expiration_date": "11-sep-2020",
         "state": "future"
     },
+    "dorceltv.com": {
+        "epoch": 1576627200.0,
+        "expiration_date": "18-dec-2019",
+        "state": "future"
+    },
     "dreamangelsny.com": {
         "epoch": 1603584000.0,
         "expiration_date": "25-oct-2020",
+        "state": "future"
+    },
+    "duckgay.com": {
+        "epoch": 1597536000.0,
+        "expiration_date": "16-aug-2020",
         "state": "future"
     },
     "dvdempire.com": {
@@ -359,9 +754,29 @@
         "expiration_date": "28-oct-2020",
         "state": "future"
     },
+    "elitmersinescort.com": {
+        "epoch": 1585612800.0,
+        "expiration_date": "31-mar-2020",
+        "state": "future"
+    },
     "emilysplayground.com": {
         "epoch": 1592524800.0,
         "expiration_date": "19-jun-2020",
+        "state": "future"
+    },
+    "enaturist.com": {
+        "epoch": 1680739200.0,
+        "expiration_date": "06-apr-2023",
+        "state": "future"
+    },
+    "ero-kawa.com": {
+        "epoch": 1596153600.0,
+        "expiration_date": "31-jul-2020",
+        "state": "future"
+    },
+    "eros-chicago.com": {
+        "epoch": 1586131200.0,
+        "expiration_date": "06-apr-2020",
         "state": "future"
     },
     "erotic-blog.com": {
@@ -394,9 +809,29 @@
         "expiration_date": "12-aug-2020",
         "state": "future"
     },
+    "evangelio.com": {
+        "epoch": 1585440000.0,
+        "expiration_date": "29-mar-2020",
+        "state": "future"
+    },
     "everydayporn.co": {
         "epoch": 1587686400.0,
         "expiration_date": "24-apr-2020",
+        "state": "future"
+    },
+    "excitemii.com": {
+        "epoch": 1586217600.0,
+        "expiration_date": "07-apr-2020",
+        "state": "future"
+    },
+    "exclusiveindianporn.com": {
+        "epoch": 1593993600.0,
+        "expiration_date": "06-jul-2020",
+        "state": "future"
+    },
+    "extrasmallbigdicks.com": {
+        "epoch": 1593388800.0,
+        "expiration_date": "29-jun-2020",
         "state": "future"
     },
     "extreme-thumbz.com": {
@@ -414,6 +849,16 @@
         "expiration_date": "19-jan-2020",
         "state": "future"
     },
+    "eztzvuzvuz.info": {
+        "epoch": 1588723200.0,
+        "expiration_date": "06-may-2020",
+        "state": "future"
+    },
+    "facialslam.com": {
+        "epoch": 1593129600.0,
+        "expiration_date": "26-jun-2020",
+        "state": "future"
+    },
     "famousnipple.com": {
         "epoch": 1584316800.0,
         "expiration_date": "16-mar-2020",
@@ -424,14 +869,34 @@
         "expiration_date": "21-oct-2020",
         "state": "future"
     },
+    "fantasies.com": {
+        "epoch": 1585612800.0,
+        "expiration_date": "31-mar-2020",
+        "state": "future"
+    },
+    "fantasy8.com": {
+        "epoch": 1601424000.0,
+        "expiration_date": "30-sep-2020",
+        "state": "future"
+    },
     "fapsrc.com": {
         "epoch": 1586390400.0,
         "expiration_date": "09-apr-2020",
         "state": "future"
     },
+    "faptitans.com": {
+        "epoch": 1649030400.0,
+        "expiration_date": "04-apr-2022",
+        "state": "future"
+    },
     "fapulike.com": {
         "epoch": 1590451200.0,
         "expiration_date": "26-may-2020",
+        "state": "future"
+    },
+    "fatpichunter.com": {
+        "epoch": 1587081600.0,
+        "expiration_date": "17-apr-2020",
         "state": "future"
     },
     "feljack.com": {
@@ -449,9 +914,19 @@
         "expiration_date": "28-aug-2020",
         "state": "future"
     },
+    "femme-volage.com": {
+        "epoch": 1601251200.0,
+        "expiration_date": "28-sep-2020",
+        "state": "future"
+    },
     "filefactory.com": {
         "epoch": 1596672000.0,
         "expiration_date": "06-aug-2020",
+        "state": "future"
+    },
+    "filmpornoita.net": {
+        "epoch": 1578096000.0,
+        "expiration_date": "04-jan-2020",
         "state": "future"
     },
     "fine-art-nude.org": {
@@ -459,9 +934,19 @@
         "expiration_date": "31-mar-2020",
         "state": "future"
     },
+    "finevids.xxx": {
+        "epoch": 1588377600.0,
+        "expiration_date": "02-may-2020",
+        "state": "future"
+    },
     "first-mature.com": {
         "epoch": 1592265600.0,
         "expiration_date": "16-jun-2020",
+        "state": "future"
+    },
+    "fitting-room.com": {
+        "epoch": 1593216000.0,
+        "expiration_date": "27-jun-2020",
         "state": "future"
     },
     "flash-screen.com": {
@@ -469,9 +954,24 @@
         "expiration_date": "15-apr-2020",
         "state": "future"
     },
+    "fleshed.net": {
+        "epoch": 1582416000.0,
+        "expiration_date": "23-feb-2020",
+        "state": "future"
+    },
+    "flirt4free.com": {
+        "epoch": 1632960000.0,
+        "expiration_date": "30-sep-2021",
+        "state": "future"
+    },
     "flixiator.com": {
         "epoch": 1594857600.0,
         "expiration_date": "16-jul-2020",
+        "state": "future"
+    },
+    "fncash.com": {
+        "epoch": 1627171200.0,
+        "expiration_date": "25-jul-2021",
         "state": "future"
     },
     "forhertube.com": {
@@ -494,6 +994,11 @@
         "expiration_date": "26-jul-2020",
         "state": "future"
     },
+    "free-strip-games.com": {
+        "epoch": 1606608000.0,
+        "expiration_date": "29-nov-2020",
+        "state": "future"
+    },
     "free-xvideo.com": {
         "epoch": 1599177600.0,
         "expiration_date": "04-sep-2020",
@@ -509,9 +1014,24 @@
         "expiration_date": "05-jun-2020",
         "state": "future"
     },
+    "freesexetc.com": {
+        "epoch": 1584576000.0,
+        "expiration_date": "19-mar-2020",
+        "state": "future"
+    },
+    "freesexyindians.com": {
+        "epoch": 1609372800.0,
+        "expiration_date": "31-dec-2020",
+        "state": "future"
+    },
     "freeuseporn.com": {
         "epoch": 1581379200.0,
         "expiration_date": "11-feb-2020",
+        "state": "future"
+    },
+    "freexporn.org": {
+        "epoch": 1580256000.0,
+        "expiration_date": "29-jan-2020",
         "state": "future"
     },
     "freexxxteeny.com": {
@@ -522,6 +1042,11 @@
     "freshxxxtubes.com": {
         "epoch": 1584921600.0,
         "expiration_date": "23-mar-2020",
+        "state": "future"
+    },
+    "fuck-journey.com": {
+        "epoch": 1623110400.0,
+        "expiration_date": "08-jun-2021",
         "state": "future"
     },
     "fuckbook.cm": {
@@ -544,9 +1069,34 @@
         "expiration_date": "23-sep-2020",
         "state": "future"
     },
+    "fuckmaturevideos.com": {
+        "epoch": 1589760000.0,
+        "expiration_date": "18-may-2020",
+        "state": "future"
+    },
+    "fucktonite.com": {
+        "epoch": 1599868800.0,
+        "expiration_date": "12-sep-2020",
+        "state": "future"
+    },
+    "fullasiantube.com": {
+        "epoch": 1596240000.0,
+        "expiration_date": "01-aug-2020",
+        "state": "future"
+    },
     "fulltubemovies.com": {
         "epoch": 1581811200.0,
         "expiration_date": "16-feb-2020",
+        "state": "future"
+    },
+    "fullxxxmovies.net": {
+        "epoch": 1598572800.0,
+        "expiration_date": "28-aug-2020",
+        "state": "future"
+    },
+    "funchatline.com": {
+        "epoch": 1592006400.0,
+        "expiration_date": "13-jun-2020",
         "state": "future"
     },
     "fux.com": {
@@ -559,9 +1109,24 @@
         "expiration_date": "25-oct-2020",
         "state": "future"
     },
+    "gandalfporn.com": {
+        "epoch": 1597104000.0,
+        "expiration_date": "11-aug-2020",
+        "state": "future"
+    },
+    "gay-live-webcams.com": {
+        "epoch": 1597536000.0,
+        "expiration_date": "16-aug-2020",
+        "state": "future"
+    },
     "gaybarebacks.com": {
         "epoch": 1579046400.0,
         "expiration_date": "15-jan-2020",
+        "state": "future"
+    },
+    "gaypornmasters.com": {
+        "epoch": 1589414400.0,
+        "expiration_date": "14-may-2020",
         "state": "future"
     },
     "gayyoungporn.com": {
@@ -579,6 +1144,11 @@
         "expiration_date": "04-may-2021",
         "state": "future"
     },
+    "gfjizz.com": {
+        "epoch": 1602892800.0,
+        "expiration_date": "17-oct-2020",
+        "state": "future"
+    },
     "gifsfor.com": {
         "epoch": 1603843200.0,
         "expiration_date": "28-oct-2020",
@@ -587,6 +1157,16 @@
     "girlsbcn.fr": {
         "epoch": 1606608000.0,
         "expiration_date": "29-nov-2020",
+        "state": "future"
+    },
+    "girlscontrolled.com": {
+        "epoch": 1590192000.0,
+        "expiration_date": "23-may-2020",
+        "state": "future"
+    },
+    "gonegf.com": {
+        "epoch": 1583452800.0,
+        "expiration_date": "06-mar-2020",
         "state": "future"
     },
     "good-gay.com": {
@@ -604,9 +1184,29 @@
         "expiration_date": "11-apr-2020",
         "state": "future"
     },
+    "guy.fr": {
+        "epoch": 1604534400.0,
+        "expiration_date": "05-nov-2020",
+        "state": "future"
+    },
+    "hakihome.com": {
+        "epoch": 1588291200.0,
+        "expiration_date": "01-may-2020",
+        "state": "future"
+    },
     "handjob-hd.net": {
         "epoch": 1624233600.0,
         "expiration_date": "21-jun-2021",
+        "state": "future"
+    },
+    "handjobjapan.com": {
+        "epoch": 1611014400.0,
+        "expiration_date": "19-jan-2021",
+        "state": "future"
+    },
+    "handsonhardcore.com": {
+        "epoch": 1584144000.0,
+        "expiration_date": "14-mar-2020",
         "state": "future"
     },
     "happynights.org": {
@@ -617,6 +1217,16 @@
     "hardlatinavideos.com": {
         "epoch": 1591833600.0,
         "expiration_date": "11-jun-2020",
+        "state": "future"
+    },
+    "hardmaturesfuck.com": {
+        "epoch": 1604361600.0,
+        "expiration_date": "03-nov-2020",
+        "state": "future"
+    },
+    "hardvirgins.com": {
+        "epoch": 1590105600.0,
+        "expiration_date": "22-may-2020",
         "state": "future"
     },
     "hardwomen.com": {
@@ -634,6 +1244,11 @@
         "expiration_date": "03-mar-2020",
         "state": "future"
     },
+    "hbrowse.com": {
+        "epoch": 1609459200.0,
+        "expiration_date": "01-jan-2021",
+        "state": "future"
+    },
     "hdpornclub.org": {
         "epoch": 1591747200.0,
         "expiration_date": "10-jun-2020",
@@ -649,6 +1264,26 @@
         "expiration_date": "06-aug-2020",
         "state": "future"
     },
+    "hdreelz.com": {
+        "epoch": 1587859200.0,
+        "expiration_date": "26-apr-2020",
+        "state": "future"
+    },
+    "hdteenass.com": {
+        "epoch": 1595030400.0,
+        "expiration_date": "18-jul-2020",
+        "state": "future"
+    },
+    "hentai.xxx": {
+        "epoch": 1580688000.0,
+        "expiration_date": "03-feb-2020",
+        "state": "future"
+    },
+    "hentaibox.fr": {
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
     "hentaiplay.net": {
         "epoch": 1589932800.0,
         "expiration_date": "20-may-2020",
@@ -657,6 +1292,26 @@
     "hentairules.net": {
         "epoch": 1586563200.0,
         "expiration_date": "11-apr-2020",
+        "state": "future"
+    },
+    "hentaiweeb.com": {
+        "epoch": 1586131200.0,
+        "expiration_date": "06-apr-2020",
+        "state": "future"
+    },
+    "herflesh.com": {
+        "epoch": 1586304000.0,
+        "expiration_date": "08-apr-2020",
+        "state": "future"
+    },
+    "hesporn.com": {
+        "epoch": 1591142400.0,
+        "expiration_date": "03-jun-2020",
+        "state": "future"
+    },
+    "hiqqu.xxx": {
+        "epoch": 1607212800.0,
+        "expiration_date": "06-dec-2020",
         "state": "future"
     },
     "homeprivatevids.com": {
@@ -669,9 +1324,29 @@
         "expiration_date": "10-oct-2020",
         "state": "future"
     },
+    "hotchyx.com": {
+        "epoch": 1592956800.0,
+        "expiration_date": "24-jun-2020",
+        "state": "future"
+    },
+    "hotdamnsam.com": {
+        "epoch": 1580083200.0,
+        "expiration_date": "27-jan-2020",
+        "state": "future"
+    },
+    "hotnakedmoms.com": {
+        "epoch": 1594684800.0,
+        "expiration_date": "14-jul-2020",
+        "state": "future"
+    },
     "hotshemalewebcams.com": {
         "epoch": 1601337600.0,
         "expiration_date": "29-sep-2020",
+        "state": "future"
+    },
+    "hotteensexpics.com": {
+        "epoch": 1590537600.0,
+        "expiration_date": "27-may-2020",
         "state": "future"
     },
     "hottux.fr": {
@@ -689,9 +1364,24 @@
         "expiration_date": "28-jan-2020",
         "state": "future"
     },
+    "hq69.com": {
+        "epoch": 1597795200.0,
+        "expiration_date": "19-aug-2020",
+        "state": "future"
+    },
     "huge-boobs.info": {
         "epoch": 1604793600.0,
         "expiration_date": "08-nov-2020",
+        "state": "future"
+    },
+    "hugeassgirls.com": {
+        "epoch": 1600992000.0,
+        "expiration_date": "25-sep-2020",
+        "state": "future"
+    },
+    "hugevideostube.com": {
+        "epoch": 1580860800.0,
+        "expiration_date": "05-feb-2020",
         "state": "future"
     },
     "i0p.org": {
@@ -704,6 +1394,11 @@
         "expiration_date": "25-aug-2020",
         "state": "future"
     },
+    "icoonet.com": {
+        "epoch": 1602201600.0,
+        "expiration_date": "09-oct-2020",
+        "state": "future"
+    },
     "ihookup.com": {
         "epoch": 1598745600.0,
         "expiration_date": "30-aug-2020",
@@ -712,6 +1407,11 @@
     "ilodejaneiro.com": {
         "epoch": 1605052800.0,
         "expiration_date": "11-nov-2020",
+        "state": "future"
+    },
+    "imageweb.ws": {
+        "epoch": 1602892800.0,
+        "expiration_date": "17-oct-2020",
         "state": "future"
     },
     "imgdew.com": {
@@ -729,6 +1429,21 @@
         "expiration_date": "06-jul-2020",
         "state": "future"
     },
+    "indianescortguide.co.uk": {
+        "epoch": 1634947200.0,
+        "expiration_date": "23-oct-2021",
+        "state": "future"
+    },
+    "inhumanity.com": {
+        "epoch": 1672012800.0,
+        "expiration_date": "26-dec-2022",
+        "state": "future"
+    },
+    "ipinkvisual.com": {
+        "epoch": 1599004800.0,
+        "expiration_date": "02-sep-2020",
+        "state": "future"
+    },
     "iron-jawed-angels.com": {
         "epoch": 1577232000.0,
         "expiration_date": "25-dec-2019",
@@ -737,6 +1452,11 @@
     "italiaerotica.com": {
         "epoch": 1585353600.0,
         "expiration_date": "28-mar-2020",
+        "state": "future"
+    },
+    "jacquieetmichel-contact.com": {
+        "epoch": 1584057600.0,
+        "expiration_date": "13-mar-2020",
         "state": "future"
     },
     "jacquieetmicheltv.net": {
@@ -764,6 +1484,21 @@
         "expiration_date": "07-jul-2020",
         "state": "future"
     },
+    "jasmin.com": {
+        "epoch": 1610323200.0,
+        "expiration_date": "11-jan-2021",
+        "state": "future"
+    },
+    "jav.guru": {
+        "epoch": 1693094400.0,
+        "expiration_date": "27-aug-2023",
+        "state": "future"
+    },
+    "jav.sex": {
+        "epoch": 1580342400.0,
+        "expiration_date": "30-jan-2020",
+        "state": "future"
+    },
     "javblow.com": {
         "epoch": 1585526400.0,
         "expiration_date": "30-mar-2020",
@@ -772,6 +1507,11 @@
     "javdude.com": {
         "epoch": 1585353600.0,
         "expiration_date": "28-mar-2020",
+        "state": "future"
+    },
+    "javhelp.com": {
+        "epoch": 1599782400.0,
+        "expiration_date": "11-sep-2020",
         "state": "future"
     },
     "jenporno.cz": {
@@ -789,9 +1529,29 @@
         "expiration_date": "25-jan-2020",
         "state": "future"
     },
+    "jipcams.com": {
+        "epoch": 1596931200.0,
+        "expiration_date": "09-aug-2020",
+        "state": "future"
+    },
+    "jlist.com": {
+        "epoch": 1599436800.0,
+        "expiration_date": "07-sep-2020",
+        "state": "future"
+    },
     "joyreactor.com": {
         "epoch": 1585612800.0,
         "expiration_date": "31-mar-2020",
+        "state": "future"
+    },
+    "joysexymii.com": {
+        "epoch": 1598227200.0,
+        "expiration_date": "24-aug-2020",
+        "state": "future"
+    },
+    "jumptovids.com": {
+        "epoch": 1583020800.0,
+        "expiration_date": "01-mar-2020",
         "state": "future"
     },
     "just-beurette.com": {
@@ -804,14 +1564,39 @@
         "expiration_date": "06-nov-2021",
         "state": "future"
     },
+    "karendreams.com": {
+        "epoch": 1574812800.0,
+        "expiration_date": "27-nov-2019",
+        "state": "future"
+    },
     "karupsdreams.com": {
         "epoch": 1601856000.0,
         "expiration_date": "05-oct-2020",
         "state": "future"
     },
+    "keezlive.com": {
+        "epoch": 1596067200.0,
+        "expiration_date": "30-jul-2020",
+        "state": "future"
+    },
     "kidsinsandbox.info": {
         "epoch": 1627344000.0,
         "expiration_date": "27-jul-2021",
+        "state": "future"
+    },
+    "kill-porn.com": {
+        "epoch": 1614038400.0,
+        "expiration_date": "23-feb-2021",
+        "state": "future"
+    },
+    "kissdoujin.com": {
+        "epoch": 1599436800.0,
+        "expiration_date": "07-sep-2020",
+        "state": "future"
+    },
+    "knowporn.com": {
+        "epoch": 1591401600.0,
+        "expiration_date": "06-jun-2020",
         "state": "future"
     },
     "kowalskypage.com": {
@@ -824,6 +1609,26 @@
         "expiration_date": "04-sep-2022",
         "state": "future"
     },
+    "ladyboytube.tv": {
+        "epoch": 1582156800.0,
+        "expiration_date": "20-feb-2020",
+        "state": "future"
+    },
+    "largesexhd.com": {
+        "epoch": 1581638400.0,
+        "expiration_date": "14-feb-2020",
+        "state": "future"
+    },
+    "latexangel.com": {
+        "epoch": 1647475200.0,
+        "expiration_date": "17-mar-2022",
+        "state": "future"
+    },
+    "latexgirls.org": {
+        "epoch": 1590710400.0,
+        "expiration_date": "29-may-2020",
+        "state": "future"
+    },
     "latexheaven.com": {
         "epoch": 1604361600.0,
         "expiration_date": "03-nov-2020",
@@ -832,6 +1637,11 @@
     "lauraangelonline.com": {
         "epoch": 1585440000.0,
         "expiration_date": "29-mar-2020",
+        "state": "future"
+    },
+    "lauradore.com": {
+        "epoch": 1672272000.0,
+        "expiration_date": "29-dec-2022",
         "state": "future"
     },
     "lesbian8.com": {
@@ -844,9 +1654,44 @@
         "expiration_date": "28-may-2020",
         "state": "future"
     },
+    "lethalcougars.net": {
+        "epoch": 1587859200.0,
+        "expiration_date": "26-apr-2020",
+        "state": "future"
+    },
     "letsjav.com": {
         "epoch": 1586044800.0,
         "expiration_date": "05-apr-2020",
+        "state": "future"
+    },
+    "letsjerk.is": {
+        "epoch": 1581897600.0,
+        "expiration_date": "17-feb-2020",
+        "state": "future"
+    },
+    "lexidona.com": {
+        "epoch": 1607558400.0,
+        "expiration_date": "10-dec-2020",
+        "state": "future"
+    },
+    "liens-vip.com": {
+        "epoch": 1606176000.0,
+        "expiration_date": "24-nov-2020",
+        "state": "future"
+    },
+    "lingeriefreesex.com": {
+        "epoch": 1597190400.0,
+        "expiration_date": "12-aug-2020",
+        "state": "future"
+    },
+    "livewebcams.com": {
+        "epoch": 1631836800.0,
+        "expiration_date": "17-sep-2021",
+        "state": "future"
+    },
+    "lookvirgin.com": {
+        "epoch": 1580342400.0,
+        "expiration_date": "30-jan-2020",
         "state": "future"
     },
     "lotzawebcams.com": {
@@ -854,14 +1699,44 @@
         "expiration_date": "30-oct-2020",
         "state": "future"
     },
+    "lovatube.com": {
+        "epoch": 1603238400.0,
+        "expiration_date": "21-oct-2020",
+        "state": "future"
+    },
+    "lovefuns.com": {
+        "epoch": 1592956800.0,
+        "expiration_date": "24-jun-2020",
+        "state": "future"
+    },
+    "lovelytera.com": {
+        "epoch": 1597363200.0,
+        "expiration_date": "14-aug-2020",
+        "state": "future"
+    },
     "lpsg.com": {
         "epoch": 1608854400.0,
         "expiration_date": "25-dec-2020",
         "state": "future"
     },
+    "lubedfan.com": {
+        "epoch": 1585612800.0,
+        "expiration_date": "31-mar-2020",
+        "state": "future"
+    },
+    "lucyvanangel.com": {
+        "epoch": 1605139200.0,
+        "expiration_date": "12-nov-2020",
+        "state": "future"
+    },
     "lukeford.com": {
         "epoch": 1599264000.0,
         "expiration_date": "05-sep-2020",
+        "state": "future"
+    },
+    "lustcase.com": {
+        "epoch": 1644364800.0,
+        "expiration_date": "09-feb-2022",
         "state": "future"
     },
     "machinasexe.com": {
@@ -879,6 +1754,16 @@
         "expiration_date": "23-feb-2020",
         "state": "future"
     },
+    "marrion-av.com": {
+        "epoch": 1605571200.0,
+        "expiration_date": "17-nov-2020",
+        "state": "future"
+    },
+    "massivegalleries.com": {
+        "epoch": 1585094400.0,
+        "expiration_date": "25-mar-2020",
+        "state": "future"
+    },
     "masterwanker.com": {
         "epoch": 1607731200.0,
         "expiration_date": "12-dec-2020",
@@ -894,9 +1779,34 @@
         "expiration_date": "19-feb-2021",
         "state": "future"
     },
+    "mcfucker.com": {
+        "epoch": 1599696000.0,
+        "expiration_date": "10-sep-2020",
+        "state": "future"
+    },
     "meetmadden.com": {
         "epoch": 1588982400.0,
         "expiration_date": "09-may-2020",
+        "state": "future"
+    },
+    "megaporndump.com": {
+        "epoch": 1603497600.0,
+        "expiration_date": "24-oct-2020",
+        "state": "future"
+    },
+    "merryangels.info": {
+        "epoch": 1598572800.0,
+        "expiration_date": "28-aug-2020",
+        "state": "future"
+    },
+    "met-art-gratuit.com": {
+        "epoch": 1594598400.0,
+        "expiration_date": "13-jul-2020",
+        "state": "future"
+    },
+    "metmodels.com": {
+        "epoch": 1606089600.0,
+        "expiration_date": "23-nov-2020",
         "state": "future"
     },
     "mignonne.com": {
@@ -914,6 +1824,11 @@
         "expiration_date": "17-jan-2020",
         "state": "future"
     },
+    "milfcumsuckers.com": {
+        "epoch": 1603497600.0,
+        "expiration_date": "24-oct-2020",
+        "state": "future"
+    },
     "milflessons.com": {
         "epoch": 1666742400.0,
         "expiration_date": "26-oct-2022",
@@ -929,9 +1844,44 @@
         "expiration_date": "12-sep-2024",
         "state": "future"
     },
+    "missasianporn.com": {
+        "epoch": 1586217600.0,
+        "expiration_date": "07-apr-2020",
+        "state": "future"
+    },
+    "missax.com": {
+        "epoch": 1581292800.0,
+        "expiration_date": "10-feb-2020",
+        "state": "future"
+    },
+    "missionofexhibition.net": {
+        "epoch": 1612396800.0,
+        "expiration_date": "04-feb-2021",
+        "state": "future"
+    },
     "missislam.com": {
         "epoch": 1604448000.0,
         "expiration_date": "04-nov-2020",
+        "state": "future"
+    },
+    "modelting.com": {
+        "epoch": 1574553600.0,
+        "expiration_date": "24-nov-2019",
+        "state": "future"
+    },
+    "momsextube.xxx": {
+        "epoch": 1682899200.0,
+        "expiration_date": "01-may-2023",
+        "state": "future"
+    },
+    "monikaforever.com": {
+        "epoch": 1578873600.0,
+        "expiration_date": "13-jan-2020",
+        "state": "future"
+    },
+    "moviegator.com": {
+        "epoch": 1581206400.0,
+        "expiration_date": "09-feb-2020",
         "state": "future"
     },
     "movies-porn-xxx.com": {
@@ -939,9 +1889,29 @@
         "expiration_date": "20-may-2020",
         "state": "future"
     },
+    "msales.com": {
+        "epoch": 1593129600.0,
+        "expiration_date": "26-jun-2020",
+        "state": "future"
+    },
     "myfemdomclips.com": {
         "epoch": 1604793600.0,
         "expiration_date": "08-nov-2020",
+        "state": "future"
+    },
+    "myhiddencamtape.com": {
+        "epoch": 1602979200.0,
+        "expiration_date": "18-oct-2020",
+        "state": "future"
+    },
+    "mypornstarbook.net": {
+        "epoch": 1590278400.0,
+        "expiration_date": "24-may-2020",
+        "state": "future"
+    },
+    "myreadingmanga.info": {
+        "epoch": 1608854400.0,
+        "expiration_date": "25-dec-2020",
         "state": "future"
     },
     "mytrannycams.com": {
@@ -954,9 +1924,34 @@
         "expiration_date": "10-jul-2020",
         "state": "future"
     },
+    "nakedbabesphotos.com": {
+        "epoch": 1598054400.0,
+        "expiration_date": "22-aug-2020",
+        "state": "future"
+    },
+    "nakedebonybeauties.com": {
+        "epoch": 1595635200.0,
+        "expiration_date": "25-jul-2020",
+        "state": "future"
+    },
+    "nakedkombat.com": {
+        "epoch": 1586736000.0,
+        "expiration_date": "13-apr-2020",
+        "state": "future"
+    },
+    "naughtyamericavr.com": {
+        "epoch": 1581897600.0,
+        "expiration_date": "17-feb-2020",
+        "state": "future"
+    },
     "neblotech.com": {
         "epoch": 1598400000.0,
         "expiration_date": "26-aug-2020",
+        "state": "future"
+    },
+    "networkwestvirginia.com": {
+        "epoch": 1714867200.0,
+        "expiration_date": "05-may-2024",
         "state": "future"
     },
     "newsextv.com": {
@@ -969,6 +1964,21 @@
         "expiration_date": "29-oct-2021",
         "state": "future"
     },
+    "niceasianporn.com": {
+        "epoch": 1574553600.0,
+        "expiration_date": "24-nov-2019",
+        "state": "future"
+    },
+    "nikkysdreams.com": {
+        "epoch": 1597968000.0,
+        "expiration_date": "21-aug-2020",
+        "state": "future"
+    },
+    "nina.com": {
+        "epoch": 1619913600.0,
+        "expiration_date": "02-may-2021",
+        "state": "future"
+    },
     "ninfetasgratis.net": {
         "epoch": 1594512000.0,
         "expiration_date": "12-jul-2020",
@@ -979,14 +1989,39 @@
         "expiration_date": "13-jan-2020",
         "state": "future"
     },
+    "nonudechan.org": {
+        "epoch": 1584489600.0,
+        "expiration_date": "18-mar-2020",
+        "state": "future"
+    },
     "novinhasdozapzap.com": {
         "epoch": 1597795200.0,
         "expiration_date": "19-aug-2020",
         "state": "future"
     },
+    "nsfw-pics.com": {
+        "epoch": 1583366400.0,
+        "expiration_date": "05-mar-2020",
+        "state": "future"
+    },
     "nubilescash.com": {
         "epoch": 1658707200.0,
         "expiration_date": "25-jul-2022",
+        "state": "future"
+    },
+    "nude-gals.com": {
+        "epoch": 1669420800.0,
+        "expiration_date": "26-nov-2022",
+        "state": "future"
+    },
+    "nude-muse.com": {
+        "epoch": 1599350400.0,
+        "expiration_date": "06-sep-2020",
+        "state": "future"
+    },
+    "nudeandhairy.com": {
+        "epoch": 1597190400.0,
+        "expiration_date": "12-aug-2020",
         "state": "future"
     },
     "nurlesben.com": {
@@ -1004,14 +2039,64 @@
         "expiration_date": "07-apr-2020",
         "state": "future"
     },
+    "ohfree.net": {
+        "epoch": 1603324800.0,
+        "expiration_date": "22-oct-2020",
+        "state": "future"
+    },
+    "oldwomanfuck.net": {
+        "epoch": 1586131200.0,
+        "expiration_date": "06-apr-2020",
+        "state": "future"
+    },
+    "oncesearch.com": {
+        "epoch": 1608595200.0,
+        "expiration_date": "22-dec-2020",
+        "state": "future"
+    },
     "onionbooty.com": {
         "epoch": 1588982400.0,
         "expiration_date": "09-may-2020",
         "state": "future"
     },
+    "onlyindianporn.net": {
+        "epoch": 1583280000.0,
+        "expiration_date": "04-mar-2020",
+        "state": "future"
+    },
+    "operation-sexe.com": {
+        "epoch": 1588377600.0,
+        "expiration_date": "02-may-2020",
+        "state": "future"
+    },
+    "orgasmsoundlibrary.com": {
+        "epoch": 1586563200.0,
+        "expiration_date": "11-apr-2020",
+        "state": "future"
+    },
+    "originalindianporn.com": {
+        "epoch": 1589500800.0,
+        "expiration_date": "15-may-2020",
+        "state": "future"
+    },
+    "outinpublic.com": {
+        "epoch": 1696550400.0,
+        "expiration_date": "06-oct-2023",
+        "state": "future"
+    },
+    "oxotube.com": {
+        "epoch": 1597190400.0,
+        "expiration_date": "12-aug-2020",
+        "state": "future"
+    },
     "palevo.com": {
         "epoch": 1581033600.0,
         "expiration_date": "07-feb-2020",
+        "state": "future"
+    },
+    "pbay-secure.com": {
+        "epoch": 1604275200.0,
+        "expiration_date": "02-nov-2020",
         "state": "future"
     },
     "pentasex.io": {
@@ -1024,6 +2109,16 @@
         "expiration_date": "07-nov-2020",
         "state": "future"
     },
+    "perezhilton.com": {
+        "epoch": 1644192000.0,
+        "expiration_date": "07-feb-2022",
+        "state": "future"
+    },
+    "performance-angel.com": {
+        "epoch": 1576713600.0,
+        "expiration_date": "19-dec-2019",
+        "state": "future"
+    },
     "pervmom.com": {
         "epoch": 1582243200.0,
         "expiration_date": "21-feb-2020",
@@ -1034,6 +2129,11 @@
         "expiration_date": "26-nov-2024",
         "state": "future"
     },
+    "petrafeet.com": {
+        "epoch": 1576627200.0,
+        "expiration_date": "18-dec-2019",
+        "state": "future"
+    },
     "picturelol.com": {
         "epoch": 1591833600.0,
         "expiration_date": "11-jun-2020",
@@ -1042,6 +2142,11 @@
     "pinkhen.com": {
         "epoch": 1577664000.0,
         "expiration_date": "30-dec-2019",
+        "state": "future"
+    },
+    "pinkytoy.com": {
+        "epoch": 1579132800.0,
+        "expiration_date": "16-jan-2020",
         "state": "future"
     },
     "placelibertine.com": {
@@ -1064,14 +2169,34 @@
         "expiration_date": "13-aug-2022",
         "state": "future"
     },
+    "porn-cdn.com": {
+        "epoch": 1589414400.0,
+        "expiration_date": "14-may-2020",
+        "state": "future"
+    },
     "porn-magazine.net": {
         "epoch": 1580169600.0,
         "expiration_date": "28-jan-2020",
         "state": "future"
     },
+    "porn-o-rama.com": {
+        "epoch": 1590192000.0,
+        "expiration_date": "23-may-2020",
+        "state": "future"
+    },
+    "porn-sm.com": {
+        "epoch": 1588550400.0,
+        "expiration_date": "04-may-2020",
+        "state": "future"
+    },
     "porn40.com": {
         "epoch": 1580083200.0,
         "expiration_date": "27-jan-2020",
+        "state": "future"
+    },
+    "porn8.com": {
+        "epoch": 1583625600.0,
+        "expiration_date": "08-mar-2020",
         "state": "future"
     },
     "pornbestmovies.com": {
@@ -1089,6 +2214,16 @@
         "expiration_date": "26-mar-2020",
         "state": "future"
     },
+    "porndude.me": {
+        "epoch": 1590105600.0,
+        "expiration_date": "22-may-2020",
+        "state": "future"
+    },
+    "porngifmag.com": {
+        "epoch": 1595376000.0,
+        "expiration_date": "22-jul-2020",
+        "state": "future"
+    },
     "porngsm.com": {
         "epoch": 1593475200.0,
         "expiration_date": "30-jun-2020",
@@ -1097,6 +2232,11 @@
     "porngun.net": {
         "epoch": 1574553600.0,
         "expiration_date": "24-nov-2019",
+        "state": "future"
+    },
+    "pornheed.com": {
+        "epoch": 1580947200.0,
+        "expiration_date": "06-feb-2020",
         "state": "future"
     },
     "pornhub.net": {
@@ -1124,6 +2264,11 @@
         "expiration_date": "14-apr-2020",
         "state": "future"
     },
+    "porno-francais.net": {
+        "epoch": 1600041600.0,
+        "expiration_date": "14-sep-2020",
+        "state": "future"
+    },
     "porno365.sex": {
         "epoch": 1577059200.0,
         "expiration_date": "23-dec-2019",
@@ -1134,6 +2279,21 @@
         "expiration_date": "30-dec-2020",
         "state": "future"
     },
+    "pornohotvideos.com": {
+        "epoch": 1592611200.0,
+        "expiration_date": "20-jun-2020",
+        "state": "future"
+    },
+    "pornokk.com": {
+        "epoch": 1596153600.0,
+        "expiration_date": "31-jul-2020",
+        "state": "future"
+    },
+    "pornolab.net": {
+        "epoch": 1617926400.0,
+        "expiration_date": "09-apr-2021",
+        "state": "future"
+    },
     "pornolandia.xxx": {
         "epoch": 1592870400.0,
         "expiration_date": "23-jun-2020",
@@ -1142,6 +2302,16 @@
     "pornoorgie.cz": {
         "epoch": 1598313600.0,
         "expiration_date": "25-aug-2020",
+        "state": "future"
+    },
+    "pornopizza.it": {
+        "epoch": 1578787200.0,
+        "expiration_date": "12-jan-2020",
+        "state": "future"
+    },
+    "pornorake.com": {
+        "epoch": 1583193600.0,
+        "expiration_date": "03-mar-2020",
         "state": "future"
     },
     "pornoroulette.net": {
@@ -1169,9 +2339,34 @@
         "expiration_date": "04-apr-2023",
         "state": "future"
     },
+    "pornstargals.com": {
+        "epoch": 1583020800.0,
+        "expiration_date": "01-mar-2020",
+        "state": "future"
+    },
+    "porntracker.com": {
+        "epoch": 1606953600.0,
+        "expiration_date": "03-dec-2020",
+        "state": "future"
+    },
+    "pornvideosk.com": {
+        "epoch": 1585353600.0,
+        "expiration_date": "28-mar-2020",
+        "state": "future"
+    },
     "pornyteen.com": {
         "epoch": 1590192000.0,
         "expiration_date": "23-may-2020",
+        "state": "future"
+    },
+    "pregnant-mary.com": {
+        "epoch": 1606089600.0,
+        "expiration_date": "23-nov-2020",
+        "state": "future"
+    },
+    "premiumhdv.com": {
+        "epoch": 1636502400.0,
+        "expiration_date": "10-nov-2021",
         "state": "future"
     },
     "presspink.com": {
@@ -1187,6 +2382,26 @@
     "putasmanhosas.com": {
         "epoch": 1597795200.0,
         "expiration_date": "19-aug-2020",
+        "state": "future"
+    },
+    "pwpwpoker.com": {
+        "epoch": 1633219200.0,
+        "expiration_date": "03-oct-2021",
+        "state": "future"
+    },
+    "quartzrose.co.uk": {
+        "epoch": 1598745600.0,
+        "expiration_date": "30-aug-2020",
+        "state": "future"
+    },
+    "rainytube.com": {
+        "epoch": 1578528000.0,
+        "expiration_date": "09-jan-2020",
+        "state": "future"
+    },
+    "rapeporn.me": {
+        "epoch": 1602633600.0,
+        "expiration_date": "14-oct-2020",
         "state": "future"
     },
     "rawporn.org": {
@@ -1209,6 +2424,11 @@
         "expiration_date": "22-feb-2021",
         "state": "future"
     },
+    "relatzii.ro": {
+        "epoch": 1596240000.0,
+        "expiration_date": "01-aug-2020",
+        "state": "future"
+    },
     "rencontre-ephemere.fr": {
         "epoch": 1592265600.0,
         "expiration_date": "16-jun-2020",
@@ -1219,9 +2439,44 @@
         "expiration_date": "23-feb-2020",
         "state": "future"
     },
+    "romemajor.com": {
+        "epoch": 1604448000.0,
+        "expiration_date": "04-nov-2020",
+        "state": "future"
+    },
+    "ruedux.com": {
+        "epoch": 1585526400.0,
+        "expiration_date": "30-mar-2020",
+        "state": "future"
+    },
+    "ruf777.com": {
+        "epoch": 1598832000.0,
+        "expiration_date": "31-aug-2020",
+        "state": "future"
+    },
+    "ruschicks.com": {
+        "epoch": 1591574400.0,
+        "expiration_date": "08-jun-2020",
+        "state": "future"
+    },
     "rushporn.com": {
         "epoch": 1623801600.0,
         "expiration_date": "16-jun-2021",
+        "state": "future"
+    },
+    "sambapornobr.com": {
+        "epoch": 1598486400.0,
+        "expiration_date": "27-aug-2020",
+        "state": "future"
+    },
+    "sashafucksdasha.com": {
+        "epoch": 1580860800.0,
+        "expiration_date": "05-feb-2020",
+        "state": "future"
+    },
+    "savannavirgin.com": {
+        "epoch": 1592956800.0,
+        "expiration_date": "24-jun-2020",
         "state": "future"
     },
     "scat-porn-xxx.com": {
@@ -1229,14 +2484,44 @@
         "expiration_date": "12-sep-2020",
         "state": "future"
     },
+    "searchsexblogs.com": {
+        "epoch": 1603584000.0,
+        "expiration_date": "25-oct-2020",
+        "state": "future"
+    },
+    "securitetotale.com": {
+        "epoch": 1590537600.0,
+        "expiration_date": "27-may-2020",
+        "state": "future"
+    },
     "seematureporn.com": {
         "epoch": 1597276800.0,
         "expiration_date": "13-aug-2020",
         "state": "future"
     },
+    "seemomsuck.com": {
+        "epoch": 1601078400.0,
+        "expiration_date": "26-sep-2020",
+        "state": "future"
+    },
     "seventeenvideo.com": {
         "epoch": 1576886400.0,
         "expiration_date": "21-dec-2019",
+        "state": "future"
+    },
+    "sexcamit.com": {
+        "epoch": 1647475200.0,
+        "expiration_date": "17-mar-2022",
+        "state": "future"
+    },
+    "sexeautop.com": {
+        "epoch": 1579564800.0,
+        "expiration_date": "21-jan-2020",
+        "state": "future"
+    },
+    "sexei.net": {
+        "epoch": 1592611200.0,
+        "expiration_date": "20-jun-2020",
         "state": "future"
     },
     "sexfans.org": {
@@ -1264,6 +2549,21 @@
         "expiration_date": "17-aug-2020",
         "state": "future"
     },
+    "sexserver.com": {
+        "epoch": 1679788800.0,
+        "expiration_date": "26-mar-2023",
+        "state": "future"
+    },
+    "sextasytube.com": {
+        "epoch": 1598054400.0,
+        "expiration_date": "22-aug-2020",
+        "state": "future"
+    },
+    "sexxxplus.com": {
+        "epoch": 1602115200.0,
+        "expiration_date": "08-oct-2020",
+        "state": "future"
+    },
     "sexy-mother.com": {
         "epoch": 1588723200.0,
         "expiration_date": "06-may-2020",
@@ -1279,9 +2579,19 @@
         "expiration_date": "01-dec-2020",
         "state": "future"
     },
+    "sexyloo.com": {
+        "epoch": 1576800000.0,
+        "expiration_date": "20-dec-2019",
+        "state": "future"
+    },
     "showbeauty.com": {
         "epoch": 1595980800.0,
         "expiration_date": "29-jul-2020",
+        "state": "future"
+    },
+    "showmewebcams.com": {
+        "epoch": 1580256000.0,
+        "expiration_date": "29-jan-2020",
         "state": "future"
     },
     "slutsandangels.com": {
@@ -1294,9 +2604,24 @@
         "expiration_date": "16-sep-2020",
         "state": "future"
     },
+    "soelaspeladas.blogspot.com.br": {
+        "epoch": 1607126400.0,
+        "expiration_date": "05-dec-2020",
+        "state": "future"
+    },
     "sonovinhasbr.com": {
         "epoch": 1582243200.0,
         "expiration_date": "21-feb-2020",
+        "state": "future"
+    },
+    "sophiassecrets.com": {
+        "epoch": 1583798400.0,
+        "expiration_date": "10-mar-2020",
+        "state": "future"
+    },
+    "sophiassexylegwear.com": {
+        "epoch": 1581033600.0,
+        "expiration_date": "07-feb-2020",
         "state": "future"
     },
     "spainporn.org": {
@@ -1324,6 +2649,16 @@
         "expiration_date": "18-jul-2020",
         "state": "future"
     },
+    "stasyq.com": {
+        "epoch": 1854748800.0,
+        "expiration_date": "10-oct-2028",
+        "state": "future"
+    },
+    "streamsfinder.com": {
+        "epoch": 1606348800.0,
+        "expiration_date": "26-nov-2020",
+        "state": "future"
+    },
     "stupidcams.com": {
         "epoch": 1591488000.0,
         "expiration_date": "07-jun-2020",
@@ -1347,6 +2682,11 @@
     "sunnyboobs.com": {
         "epoch": 1590105600.0,
         "expiration_date": "22-may-2020",
+        "state": "future"
+    },
+    "sunporno-german.com": {
+        "epoch": 1594425600.0,
+        "expiration_date": "11-jul-2020",
         "state": "future"
     },
     "superheroines.net": {
@@ -1394,6 +2734,16 @@
         "expiration_date": "15-jun-2021",
         "state": "future"
     },
+    "teenbigasses.com": {
+        "epoch": 1586390400.0,
+        "expiration_date": "09-apr-2020",
+        "state": "future"
+    },
+    "teenbookmark.com": {
+        "epoch": 1598140800.0,
+        "expiration_date": "23-aug-2020",
+        "state": "future"
+    },
     "teenfucktory.com": {
         "epoch": 1605744000.0,
         "expiration_date": "19-nov-2020",
@@ -1402,6 +2752,11 @@
     "teensnow.com": {
         "epoch": 1577318400.0,
         "expiration_date": "26-dec-2019",
+        "state": "future"
+    },
+    "teenysextape.com": {
+        "epoch": 1593993600.0,
+        "expiration_date": "06-jul-2020",
         "state": "future"
     },
     "tgirlmeat.com": {
@@ -1414,9 +2769,24 @@
         "expiration_date": "13-feb-2024",
         "state": "future"
     },
+    "theluxuryescort.com": {
+        "epoch": 1593907200.0,
+        "expiration_date": "05-jul-2020",
+        "state": "future"
+    },
+    "themovs.com": {
+        "epoch": 1605571200.0,
+        "expiration_date": "17-nov-2020",
+        "state": "future"
+    },
     "theporndude.com": {
         "epoch": 1731974400.0,
         "expiration_date": "19-nov-2024",
+        "state": "future"
+    },
+    "tiava.com": {
+        "epoch": 1633046400.0,
+        "expiration_date": "01-oct-2021",
         "state": "future"
     },
     "tiavastube.com": {
@@ -1424,9 +2794,19 @@
         "expiration_date": "07-mar-2021",
         "state": "future"
     },
+    "tinipornos.com": {
+        "epoch": 1603324800.0,
+        "expiration_date": "22-oct-2020",
+        "state": "future"
+    },
     "tiny4k.com": {
         "epoch": 1580688000.0,
         "expiration_date": "03-feb-2020",
+        "state": "future"
+    },
+    "tinynibbles.com": {
+        "epoch": 1622592000.0,
+        "expiration_date": "02-jun-2021",
         "state": "future"
     },
     "titflicks.com": {
@@ -1449,9 +2829,24 @@
         "expiration_date": "01-mar-2020",
         "state": "future"
     },
+    "tube8.com": {
+        "epoch": 1630800000.0,
+        "expiration_date": "05-sep-2021",
+        "state": "future"
+    },
+    "tubeland.com": {
+        "epoch": 1607385600.0,
+        "expiration_date": "08-dec-2020",
+        "state": "future"
+    },
     "tubepatrol.net": {
         "epoch": 1598832000.0,
         "expiration_date": "31-aug-2020",
+        "state": "future"
+    },
+    "tubesfuck.com": {
+        "epoch": 1585094400.0,
+        "expiration_date": "25-mar-2020",
         "state": "future"
     },
     "tubeteencam.com": {
@@ -1469,9 +2864,19 @@
         "expiration_date": "03-feb-2020",
         "state": "future"
     },
+    "ulust.com": {
+        "epoch": 1591574400.0,
+        "expiration_date": "08-jun-2020",
+        "state": "future"
+    },
     "unlimitedmuse.com": {
         "epoch": 1590451200.0,
         "expiration_date": "26-may-2020",
+        "state": "future"
+    },
+    "usa-webcams.com": {
+        "epoch": 1583107200.0,
+        "expiration_date": "02-mar-2020",
         "state": "future"
     },
     "v2q.com": {
@@ -1484,9 +2889,34 @@
         "expiration_date": "10-jul-2020",
         "state": "future"
     },
+    "vartoken.com": {
+        "epoch": 1597795200.0,
+        "expiration_date": "19-aug-2020",
+        "state": "future"
+    },
     "venus-av.com": {
         "epoch": 1579392000.0,
         "expiration_date": "19-jan-2020",
+        "state": "future"
+    },
+    "vermangasporno.com": {
+        "epoch": 1647734400.0,
+        "expiration_date": "20-mar-2022",
+        "state": "future"
+    },
+    "video-hentai.tv": {
+        "epoch": 1586736000.0,
+        "expiration_date": "13-apr-2020",
+        "state": "future"
+    },
+    "video-mamie.com": {
+        "epoch": 1605571200.0,
+        "expiration_date": "17-nov-2020",
+        "state": "future"
+    },
+    "video-porno-tv.fr": {
+        "epoch": 1600041600.0,
+        "expiration_date": "14-sep-2020",
         "state": "future"
     },
     "videos-movies.com": {
@@ -1494,14 +2924,59 @@
         "expiration_date": "16-nov-2020",
         "state": "future"
     },
+    "videos-x.me": {
+        "epoch": 1594944000.0,
+        "expiration_date": "17-jul-2020",
+        "state": "future"
+    },
+    "videoscaseirosbr.com": {
+        "epoch": 1605657600.0,
+        "expiration_date": "18-nov-2020",
+        "state": "future"
+    },
+    "videosporno.tv": {
+        "epoch": 1603411200.0,
+        "expiration_date": "23-oct-2020",
+        "state": "future"
+    },
     "videospornogratuit.fr": {
         "epoch": 1598572800.0,
         "expiration_date": "28-aug-2020",
         "state": "future"
     },
+    "vidgrab.net": {
+        "epoch": 1580169600.0,
+        "expiration_date": "28-jan-2020",
+        "state": "future"
+    },
     "vintagepinupgirls.net": {
         "epoch": 1596412800.0,
         "expiration_date": "03-aug-2020",
+        "state": "future"
+    },
+    "vintagesexpass.com": {
+        "epoch": 1588723200.0,
+        "expiration_date": "06-may-2020",
+        "state": "future"
+    },
+    "vipportugal.net": {
+        "epoch": 1597881600.0,
+        "expiration_date": "20-aug-2020",
+        "state": "future"
+    },
+    "viprevenue.com": {
+        "epoch": 1601942400.0,
+        "expiration_date": "06-oct-2020",
+        "state": "future"
+    },
+    "virginass.com": {
+        "epoch": 1575158400.0,
+        "expiration_date": "01-dec-2019",
+        "state": "future"
+    },
+    "virginhoney.com": {
+        "epoch": 1576800000.0,
+        "expiration_date": "20-dec-2019",
         "state": "future"
     },
     "virginstories.com": {
@@ -1524,9 +2999,24 @@
         "expiration_date": "15-apr-2020",
         "state": "future"
     },
+    "wanktube.com": {
+        "epoch": 1604102400.0,
+        "expiration_date": "31-oct-2020",
+        "state": "future"
+    },
+    "wannafreeporn.com": {
+        "epoch": 1588464000.0,
+        "expiration_date": "03-may-2020",
+        "state": "future"
+    },
     "wantatop.com": {
         "epoch": 1594684800.0,
         "expiration_date": "14-jul-2020",
+        "state": "future"
+    },
+    "warnet.ws": {
+        "epoch": 1599868800.0,
+        "expiration_date": "12-sep-2020",
         "state": "future"
     },
     "webcamporn.xxx": {
@@ -1539,9 +3029,34 @@
         "expiration_date": "03-feb-2020",
         "state": "future"
     },
+    "wickedcamchat.com": {
+        "epoch": 1583280000.0,
+        "expiration_date": "04-mar-2020",
+        "state": "future"
+    },
+    "wifeparade.com": {
+        "epoch": 1615334400.0,
+        "expiration_date": "10-mar-2021",
+        "state": "future"
+    },
     "wildhardsex.com": {
         "epoch": 1588291200.0,
         "expiration_date": "01-may-2020",
+        "state": "future"
+    },
+    "wixtube.com": {
+        "epoch": 1590883200.0,
+        "expiration_date": "31-may-2020",
+        "state": "future"
+    },
+    "wizzcam.fr": {
+        "epoch": 1604275200.0,
+        "expiration_date": "02-nov-2020",
+        "state": "future"
+    },
+    "work-inet.ru": {
+        "epoch": 1606348800.0,
+        "expiration_date": "26-nov-2020",
         "state": "future"
     },
     "worldoffetish.com": {
@@ -1552,6 +3067,16 @@
     "wowerotica.com": {
         "epoch": 1575849600.0,
         "expiration_date": "09-dec-2019",
+        "state": "future"
+    },
+    "wowpornmovies.com": {
+        "epoch": 1581638400.0,
+        "expiration_date": "14-feb-2020",
+        "state": "future"
+    },
+    "wyylde.com": {
+        "epoch": 1594339200.0,
+        "expiration_date": "10-jul-2020",
         "state": "future"
     },
     "x--x--x.com": {
@@ -1574,6 +3099,21 @@
         "expiration_date": "04-feb-2021",
         "state": "future"
     },
+    "xerotica.com": {
+        "epoch": 1595289600.0,
+        "expiration_date": "21-jul-2020",
+        "state": "future"
+    },
+    "xglamcore.com": {
+        "epoch": 1606089600.0,
+        "expiration_date": "23-nov-2020",
+        "state": "future"
+    },
+    "xhamster-sexvideos.com": {
+        "epoch": 1585699200.0,
+        "expiration_date": "01-apr-2020",
+        "state": "future"
+    },
     "xmovies247.com": {
         "epoch": 1588723200.0,
         "expiration_date": "06-may-2020",
@@ -1594,9 +3134,19 @@
         "expiration_date": "17-aug-2020",
         "state": "future"
     },
+    "xpornking.com": {
+        "epoch": 1745366400.0,
+        "expiration_date": "23-apr-2025",
+        "state": "future"
+    },
     "xpornxtube.net": {
         "epoch": 1580256000.0,
         "expiration_date": "29-jan-2020",
+        "state": "future"
+    },
+    "xpress.com": {
+        "epoch": 1581552000.0,
+        "expiration_date": "13-feb-2020",
         "state": "future"
     },
     "xvds.com": {
@@ -1604,14 +3154,34 @@
         "expiration_date": "14-mar-2020",
         "state": "future"
     },
+    "xvideotravestis.com": {
+        "epoch": 1595808000.0,
+        "expiration_date": "27-jul-2020",
+        "state": "future"
+    },
     "xxx.com": {
         "epoch": 1594598400.0,
         "expiration_date": "13-jul-2020",
         "state": "future"
     },
+    "xxxfuckporn.com": {
+        "epoch": 1590796800.0,
+        "expiration_date": "30-may-2020",
+        "state": "future"
+    },
+    "xxxhare.com": {
+        "epoch": 1597190400.0,
+        "expiration_date": "12-aug-2020",
+        "state": "future"
+    },
     "xxxhomefuck.com": {
         "epoch": 1594339200.0,
         "expiration_date": "10-jul-2020",
+        "state": "future"
+    },
+    "xxxpicup.com": {
+        "epoch": 1590105600.0,
+        "expiration_date": "22-may-2020",
         "state": "future"
     },
     "xxxpornindia.com": {
@@ -1622,6 +3192,11 @@
     "xxxpornorgy.com": {
         "epoch": 1595548800.0,
         "expiration_date": "24-jul-2020",
+        "state": "future"
+    },
+    "xxxtorrent.net": {
+        "epoch": 1600300800.0,
+        "expiration_date": "17-sep-2020",
         "state": "future"
     },
     "xyzporntube.com": {
@@ -1639,7 +3214,22 @@
         "expiration_date": "06-aug-2021",
         "state": "future"
     },
+    "youav.com": {
+        "epoch": 1639353600.0,
+        "expiration_date": "13-dec-2021",
+        "state": "future"
+    },
+    "youhdporno.com": {
+        "epoch": 1600041600.0,
+        "expiration_date": "14-sep-2020",
+        "state": "future"
+    },
     "young-girlfriends.com": {
+        "epoch": 1581292800.0,
+        "expiration_date": "10-feb-2020",
+        "state": "future"
+    },
+    "youngamateursporn.com": {
         "epoch": 1581292800.0,
         "expiration_date": "10-feb-2020",
         "state": "future"
@@ -1659,9 +3249,19 @@
         "expiration_date": "19-jul-2020",
         "state": "future"
     },
+    "youporn-hub.com": {
+        "epoch": 1597190400.0,
+        "expiration_date": "12-aug-2020",
+        "state": "future"
+    },
     "youpornpremium.com": {
         "epoch": 1599523200.0,
         "expiration_date": "08-sep-2020",
+        "state": "future"
+    },
+    "youpornru.com": {
+        "epoch": 1600128000.0,
+        "expiration_date": "15-sep-2020",
         "state": "future"
     },
     "yoxhub.com": {
@@ -1689,9 +3289,34 @@
         "expiration_date": "23-dec-2020",
         "state": "future"
     },
+    "zizitube.com": {
+        "epoch": 1586476800.0,
+        "expiration_date": "10-apr-2020",
+        "state": "future"
+    },
+    "zmut.com": {
+        "epoch": 1588723200.0,
+        "expiration_date": "06-may-2020",
+        "state": "future"
+    },
+    "zone-adultes.net": {
+        "epoch": 1598918400.0,
+        "expiration_date": "01-sep-2020",
+        "state": "future"
+    },
+    "zooredtube.com": {
+        "epoch": 1586563200.0,
+        "expiration_date": "11-apr-2020",
+        "state": "future"
+    },
     "zubby.com": {
         "epoch": 1605398400.0,
         "expiration_date": "15-nov-2020",
+        "state": "future"
+    },
+    "zzbabes.com": {
+        "epoch": 1603152000.0,
+        "expiration_date": "20-oct-2020",
         "state": "future"
     }
 }
