@@ -459,6 +459,11 @@
         "expiration_date": "11-may-2020",
         "state": "future"
     },
+    "flacmusic.xyz": {
+        "epoch": 1593561600.0,
+        "expiration_date": "01-jul-2020",
+        "state": "future"
+    },
     "flashingblog.com": {
         "epoch": 1583971200.0,
         "expiration_date": "12-mar-2020",
@@ -517,6 +522,11 @@
     "goziga.com": {
         "epoch": 1592092800.0,
         "expiration_date": "14-jun-2020",
+        "state": "future"
+    },
+    "happyjav.com": {
+        "epoch": 1596931200.0,
+        "expiration_date": "09-aug-2020",
         "state": "future"
     },
     "happysexgames.com": {
@@ -683,6 +693,11 @@
         "epoch": 1592179200.0,
         "expiration_date": "15-jun-2020",
         "state": "future"
+    },
+    "lenjeriehot.ro": {
+        "epoch": 1569888000.0,
+        "expiration_date": "01-oct-2019",
+        "state": "past"
     },
     "lesbiankino.com": {
         "epoch": 1596412800.0,
@@ -852,6 +867,11 @@
     "nexxx.com": {
         "epoch": 1613520000.0,
         "expiration_date": "17-feb-2021",
+        "state": "future"
+    },
+    "nobodytube.com": {
+        "epoch": 1600214400.0,
+        "expiration_date": "16-sep-2020",
         "state": "future"
     },
     "nudeandfresh.com": {
@@ -1304,6 +1324,11 @@
         "expiration_date": "30-jun-2022",
         "state": "future"
     },
+    "top-plan-cul.net": {
+        "epoch": 1570060800.0,
+        "expiration_date": "03-oct-2019",
+        "state": "past"
+    },
     "topwarez.fr": {
         "epoch": 1598918400.0,
         "expiration_date": "01-sep-2020",
@@ -1482,6 +1507,11 @@
     "xmiam.com": {
         "epoch": 1586304000.0,
         "expiration_date": "08-apr-2020",
+        "state": "future"
+    },
+    "xporn.tv": {
+        "epoch": 1584230400.0,
+        "expiration_date": "15-mar-2020",
         "state": "future"
     },
     "xservx.com": {
