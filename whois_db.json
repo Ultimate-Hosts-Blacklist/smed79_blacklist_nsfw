@@ -9,6 +9,11 @@
         "expiration_date": "04-sep-2020",
         "state": "future"
     },
+    "100kabijin.com": {
+        "epoch": 1581206400.0,
+        "expiration_date": "09-feb-2020",
+        "state": "future"
+    },
     "121-sex-toys.co.uk": {
         "epoch": 1569196800.0,
         "expiration_date": "23-sep-2019",
@@ -697,6 +702,11 @@
     "creoads.com": {
         "epoch": 1607299200.0,
         "expiration_date": "07-dec-2020",
+        "state": "future"
+    },
+    "crocko.com": {
+        "epoch": 1603152000.0,
+        "expiration_date": "20-oct-2020",
         "state": "future"
     },
     "cryangel.com": {
@@ -1893,6 +1903,11 @@
         "epoch": 1585612800.0,
         "expiration_date": "31-mar-2020",
         "state": "future"
+    },
+    "mega3x.net": {
+        "epoch": 1571011200.0,
+        "expiration_date": "14-oct-2019",
+        "state": "past"
     },
     "megalistofporn.com": {
         "epoch": 1582070400.0,
@@ -3642,6 +3657,11 @@
     "xdebutante.com": {
         "epoch": 1583625600.0,
         "expiration_date": "08-mar-2020",
+        "state": "future"
+    },
+    "xfiles.cc": {
+        "epoch": 1600387200.0,
+        "expiration_date": "18-sep-2020",
         "state": "future"
     },
     "xfilmywap.com": {
