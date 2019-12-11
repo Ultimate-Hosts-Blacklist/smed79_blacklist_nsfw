@@ -1914,6 +1914,11 @@
         "expiration_date": "30-nov-2020",
         "state": "future"
     },
+    "mdhstream.net": {
+        "epoch": 1571097600.0,
+        "expiration_date": "15-oct-2019",
+        "state": "past"
+    },
     "mdnhinc.com": {
         "epoch": 1605657600.0,
         "expiration_date": "18-nov-2020",
