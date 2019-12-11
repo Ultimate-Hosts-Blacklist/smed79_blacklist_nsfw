@@ -504,6 +504,11 @@
         "expiration_date": "24-oct-2019",
         "state": "past"
     },
+    "bukkakex.com": {
+        "epoch": 1570406400.0,
+        "expiration_date": "07-oct-2019",
+        "state": "past"
+    },
     "bustyteengallery.com": {
         "epoch": 1605657600.0,
         "expiration_date": "18-nov-2020",
@@ -999,6 +1004,11 @@
         "expiration_date": "17-nov-2020",
         "state": "future"
     },
+    "fap.fish": {
+        "epoch": 1569801600.0,
+        "expiration_date": "30-sep-2019",
+        "state": "past"
+    },
     "faphub.xxx": {
         "epoch": 1583452800.0,
         "expiration_date": "06-mar-2020",
@@ -1467,6 +1477,11 @@
     "janessabrazil.com": {
         "epoch": 1579564800.0,
         "expiration_date": "21-jan-2020",
+        "state": "future"
+    },
+    "japaneseanime.com": {
+        "epoch": 1594512000.0,
+        "expiration_date": "12-jul-2020",
         "state": "future"
     },
     "japzilla.com": {
@@ -2674,6 +2689,11 @@
         "expiration_date": "15-mar-2020",
         "state": "future"
     },
+    "scootloor.com": {
+        "epoch": 1588377600.0,
+        "expiration_date": "02-may-2020",
+        "state": "future"
+    },
     "scoreadate.com": {
         "epoch": 1588204800.0,
         "expiration_date": "30-apr-2020",
@@ -2857,6 +2877,11 @@
     "shortyour.com": {
         "epoch": 1592352000.0,
         "expiration_date": "17-jun-2020",
+        "state": "future"
+    },
+    "shotathome.com": {
+        "epoch": 1599004800.0,
+        "expiration_date": "02-sep-2020",
         "state": "future"
     },
     "shyav.com": {
@@ -3648,6 +3673,11 @@
         "epoch": 1571529600.0,
         "expiration_date": "20-oct-2019",
         "state": "past"
+    },
+    "zippydownload.info": {
+        "epoch": 1584057600.0,
+        "expiration_date": "13-mar-2020",
+        "state": "future"
     },
     "zoo-fuck.net": {
         "epoch": 1569110400.0,
