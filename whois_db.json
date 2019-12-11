@@ -519,6 +519,11 @@
         "expiration_date": "06-oct-2020",
         "state": "future"
     },
+    "boostamat.com": {
+        "epoch": 1607299200.0,
+        "expiration_date": "07-dec-2020",
+        "state": "future"
+    },
     "boychan.org": {
         "epoch": 1606348800.0,
         "expiration_date": "26-nov-2020",
