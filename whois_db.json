@@ -2774,6 +2774,11 @@
         "expiration_date": "10-dec-2020",
         "state": "future"
     },
+    "qwertty.xyz": {
+        "epoch": 1570665600.0,
+        "expiration_date": "10-oct-2019",
+        "state": "past"
+    },
     "radiosalopes.com": {
         "epoch": 1665360000.0,
         "expiration_date": "10-oct-2022",
