@@ -3544,6 +3544,11 @@
         "expiration_date": "12-apr-2020",
         "state": "future"
     },
+    "videobash.com": {
+        "epoch": 1620604800.0,
+        "expiration_date": "10-may-2021",
+        "state": "future"
+    },
     "videomo.fr": {
         "epoch": 1603756800.0,
         "expiration_date": "27-oct-2020",
