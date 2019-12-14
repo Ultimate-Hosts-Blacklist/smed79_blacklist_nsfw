@@ -914,6 +914,11 @@
         "expiration_date": "18-oct-2020",
         "state": "future"
     },
+    "drunkporn.us": {
+        "epoch": 1571616000.0,
+        "expiration_date": "21-oct-2019",
+        "state": "past"
+    },
     "dse-web.com": {
         "epoch": 1603670400.0,
         "expiration_date": "26-oct-2020",
@@ -1625,9 +1630,9 @@
         "state": "past"
     },
     "jarsquatter.com": {
-        "epoch": 1576195200.0,
-        "expiration_date": "13-dec-2019",
-        "state": "past"
+        "epoch": 1607817600.0,
+        "expiration_date": "13-dec-2020",
+        "state": "future"
     },
     "jav-porn.net": {
         "epoch": 1579996800.0,
