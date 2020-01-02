@@ -524,6 +524,11 @@
         "expiration_date": "30-oct-2019",
         "state": "past"
     },
+    "cumsearcher.com": {
+        "epoch": 1593734400.0,
+        "expiration_date": "03-jul-2020",
+        "state": "future"
+    },
     "cumshotscenes.com": {
         "epoch": 1608508800.0,
         "expiration_date": "21-dec-2020",
@@ -779,6 +784,11 @@
         "expiration_date": "22-jun-2021",
         "state": "future"
     },
+    "fanhentai.com": {
+        "epoch": 1604620800.0,
+        "expiration_date": "06-nov-2020",
+        "state": "future"
+    },
     "fapplace.com": {
         "epoch": 1609545600.0,
         "expiration_date": "02-jan-2021",
@@ -922,6 +932,11 @@
     "fuck-journey.com": {
         "epoch": 1623110400.0,
         "expiration_date": "08-jun-2021",
+        "state": "future"
+    },
+    "fucktube.com": {
+        "epoch": 1586390400.0,
+        "expiration_date": "09-apr-2020",
         "state": "future"
     },
     "fuckup.xxx": {
@@ -1165,9 +1180,9 @@
         "state": "future"
     },
     "jamespercyonline.com": {
-        "epoch": 1571356800.0,
-        "expiration_date": "18-oct-2019",
-        "state": "past"
+        "epoch": 1609545600.0,
+        "expiration_date": "02-jan-2021",
+        "state": "future"
     },
     "janessabrazil.com": {
         "epoch": 1579564800.0,
@@ -2472,6 +2487,11 @@
     "topheavywebcams.com": {
         "epoch": 1578441600.0,
         "expiration_date": "08-jan-2020",
+        "state": "future"
+    },
+    "toplargeporn.com": {
+        "epoch": 1609200000.0,
+        "expiration_date": "29-dec-2020",
         "state": "future"
     },
     "topwarez.fr": {
