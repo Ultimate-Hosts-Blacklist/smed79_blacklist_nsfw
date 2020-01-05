@@ -899,6 +899,11 @@
         "expiration_date": "05-may-2020",
         "state": "future"
     },
+    "feederxxx.com": {
+        "epoch": 1610064000.0,
+        "expiration_date": "08-jan-2021",
+        "state": "future"
+    },
     "femalecoming.com": {
         "epoch": 1594512000.0,
         "expiration_date": "12-jul-2020",
@@ -2877,6 +2882,11 @@
     "vidz72.com": {
         "epoch": 1604880000.0,
         "expiration_date": "09-nov-2020",
+        "state": "future"
+    },
+    "vidz78.com": {
+        "epoch": 1584316800.0,
+        "expiration_date": "16-mar-2020",
         "state": "future"
     },
     "virgin-cocks.com": {
