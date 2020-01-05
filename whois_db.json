@@ -519,6 +519,11 @@
         "expiration_date": "09-feb-2020",
         "state": "future"
     },
+    "ckoc1150archives.com": {
+        "epoch": 1571875200.0,
+        "expiration_date": "24-oct-2019",
+        "state": "past"
+    },
     "clkcdn.com": {
         "epoch": 1598313600.0,
         "expiration_date": "25-aug-2020",
@@ -1747,6 +1752,11 @@
     "myex.com": {
         "epoch": 1646956800.0,
         "expiration_date": "11-mar-2022",
+        "state": "future"
+    },
+    "myhotimage.com": {
+        "epoch": 1596844800.0,
+        "expiration_date": "08-aug-2020",
         "state": "future"
     },
     "myporn.club": {
