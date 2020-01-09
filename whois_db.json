@@ -5904,6 +5904,11 @@
         "expiration_date": "02-apr-2020",
         "state": "future"
     },
+    "videochatsex.xyz": {
+        "epoch": 1583280000.0,
+        "expiration_date": "04-mar-2020",
+        "state": "future"
+    },
     "videomo.fr": {
         "epoch": 1603756800.0,
         "expiration_date": "27-oct-2020",
