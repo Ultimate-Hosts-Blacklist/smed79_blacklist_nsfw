@@ -969,6 +969,11 @@
         "expiration_date": "21-nov-2019",
         "state": "past"
     },
+    "cdux.fr": {
+        "epoch": 1597708800.0,
+        "expiration_date": "18-aug-2020",
+        "state": "future"
+    },
     "celebflix.us": {
         "epoch": 1592611200.0,
         "expiration_date": "20-jun-2020",
@@ -1424,6 +1429,11 @@
         "expiration_date": "31-oct-2020",
         "state": "future"
     },
+    "e-corona.com": {
+        "epoch": 1572220800.0,
+        "expiration_date": "28-oct-2019",
+        "state": "past"
+    },
     "easy2date.net": {
         "epoch": 1602374400.0,
         "expiration_date": "11-oct-2020",
@@ -1487,6 +1497,11 @@
     "epornik.com": {
         "epoch": 1606003200.0,
         "expiration_date": "22-nov-2020",
+        "state": "future"
+    },
+    "erectill.com": {
+        "epoch": 1588636800.0,
+        "expiration_date": "05-may-2020",
         "state": "future"
     },
     "ero2you.com": {
@@ -1778,6 +1793,11 @@
         "epoch": 1573344000.0,
         "expiration_date": "10-nov-2019",
         "state": "past"
+    },
+    "filmepornoxxl.net": {
+        "epoch": 1629244800.0,
+        "expiration_date": "18-aug-2021",
+        "state": "future"
     },
     "filmetporno.com": {
         "epoch": 1573516800.0,
@@ -2127,6 +2147,11 @@
     "goldenbunnies.com": {
         "epoch": 1595548800.0,
         "expiration_date": "24-jul-2020",
+        "state": "future"
+    },
+    "goldendolls.com": {
+        "epoch": 1648944000.0,
+        "expiration_date": "03-apr-2022",
         "state": "future"
     },
     "good-gay.com": {
@@ -2832,6 +2857,16 @@
     "latexgirls.org": {
         "epoch": 1590710400.0,
         "expiration_date": "29-may-2020",
+        "state": "future"
+    },
+    "latouffe.fr": {
+        "epoch": 1602547200.0,
+        "expiration_date": "13-oct-2020",
+        "state": "future"
+    },
+    "leahgotti.org": {
+        "epoch": 1584144000.0,
+        "expiration_date": "14-mar-2020",
         "state": "future"
     },
     "leakedporn.com": {
@@ -3569,6 +3604,11 @@
         "expiration_date": "19-jan-2020",
         "state": "future"
     },
+    "nonnude.top": {
+        "epoch": 1592092800.0,
+        "expiration_date": "14-jun-2020",
+        "state": "future"
+    },
     "nonudecuties.net": {
         "epoch": 1602201600.0,
         "expiration_date": "09-oct-2020",
@@ -4149,6 +4189,11 @@
         "expiration_date": "20-jul-2020",
         "state": "future"
     },
+    "pornobizarre.com": {
+        "epoch": 1588809600.0,
+        "expiration_date": "07-may-2020",
+        "state": "future"
+    },
     "pornobzh.com": {
         "epoch": 1605398400.0,
         "expiration_date": "15-nov-2020",
@@ -4682,6 +4727,11 @@
     "selina18.com": {
         "epoch": 1704067200.0,
         "expiration_date": "01-jan-2024",
+        "state": "future"
+    },
+    "selminha.com": {
+        "epoch": 1624752000.0,
+        "expiration_date": "27-jun-2021",
         "state": "future"
     },
     "selvaporno.com": {
@@ -6247,6 +6297,11 @@
     "zoosex.pink": {
         "epoch": 1604275200.0,
         "expiration_date": "02-nov-2020",
+        "state": "future"
+    },
+    "zptkr.com": {
+        "epoch": 1602374400.0,
+        "expiration_date": "11-oct-2020",
         "state": "future"
     },
     "zunked.com": {
