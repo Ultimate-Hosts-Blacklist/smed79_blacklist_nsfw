@@ -6609,6 +6609,11 @@
         "expiration_date": "02-nov-2020",
         "state": "future"
     },
+    "zpornz.com": {
+        "epoch": 1584144000.0,
+        "expiration_date": "14-mar-2020",
+        "state": "future"
+    },
     "zptkr.com": {
         "epoch": 1602374400.0,
         "expiration_date": "11-oct-2020",
