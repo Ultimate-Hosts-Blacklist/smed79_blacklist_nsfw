@@ -149,6 +149,11 @@
         "expiration_date": "09-jun-2020",
         "state": "future"
     },
+    "adultaudiovisual.com": {
+        "epoch": 1601769600.0,
+        "expiration_date": "04-oct-2020",
+        "state": "future"
+    },
     "adultfriendfinders.us": {
         "epoch": 1591228800.0,
         "expiration_date": "04-jun-2020",
@@ -2147,6 +2152,11 @@
     "pornex.com": {
         "epoch": 1586131200.0,
         "expiration_date": "06-apr-2020",
+        "state": "future"
+    },
+    "pornexa.com": {
+        "epoch": 1598054400.0,
+        "expiration_date": "22-aug-2020",
         "state": "future"
     },
     "pornfla.com": {
