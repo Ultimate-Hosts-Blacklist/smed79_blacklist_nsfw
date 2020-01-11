@@ -1314,6 +1314,11 @@
         "expiration_date": "05-jan-2021",
         "state": "future"
     },
+    "imgloli.com": {
+        "epoch": 1587513600.0,
+        "expiration_date": "22-apr-2020",
+        "state": "future"
+    },
     "imgoutlet.co": {
         "epoch": 1582761600.0,
         "expiration_date": "27-feb-2020",
