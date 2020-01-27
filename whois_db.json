@@ -27774,6 +27774,11 @@
         "expiration_date": "15-dec-2020",
         "state": "future"
     },
+    "hardsexpleasures.com": {
+        "epoch": 1611273600.0,
+        "expiration_date": "22-jan-2021",
+        "state": "future"
+    },
     "hardsextube.com": {
         "epoch": 1584748800.0,
         "expiration_date": "21-mar-2020",
@@ -56712,6 +56717,11 @@
     "sentrypc.com": {
         "epoch": 1598140800.0,
         "expiration_date": "23-aug-2020",
+        "state": "future"
+    },
+    "seo1.org": {
+        "epoch": 1609027200.0,
+        "expiration_date": "27-dec-2020",
         "state": "future"
     },
     "seqing.world": {
