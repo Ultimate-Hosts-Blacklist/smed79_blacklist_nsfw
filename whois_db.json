@@ -1874,6 +1874,11 @@
         "expiration_date": "30-jan-2021",
         "state": "future"
     },
+    "porn-w.xyz": {
+        "epoch": 1576281600.0,
+        "expiration_date": "14-dec-2019",
+        "state": "past"
+    },
     "porn.org": {
         "epoch": 1592697600.0,
         "expiration_date": "21-jun-2020",
@@ -2787,6 +2792,11 @@
     "xlogz.com": {
         "epoch": 1614643200.0,
         "expiration_date": "02-mar-2021",
+        "state": "future"
+    },
+    "xmiam.com": {
+        "epoch": 1586304000.0,
+        "expiration_date": "08-apr-2020",
         "state": "future"
     },
     "xnshemale.com": {
