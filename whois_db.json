@@ -894,6 +894,11 @@
         "expiration_date": "19-sep-2020",
         "state": "future"
     },
+    "malaschicas.com": {
+        "epoch": 1575504000.0,
+        "expiration_date": "05-dec-2019",
+        "state": "past"
+    },
     "manhuntshop.com": {
         "epoch": 1683676800.0,
         "expiration_date": "10-may-2023",
