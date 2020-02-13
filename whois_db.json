@@ -29,6 +29,11 @@
         "expiration_date": "11-dec-2019",
         "state": "past"
     },
+    "24smile.org": {
+        "epoch": 1591920000.0,
+        "expiration_date": "12-jun-2020",
+        "state": "future"
+    },
     "2gfx.com": {
         "epoch": 1585785600.0,
         "expiration_date": "02-apr-2020",
@@ -275,9 +280,9 @@
         "state": "future"
     },
     "asianxtv.com": {
-        "epoch": 1581465600.0,
-        "expiration_date": "12-feb-2020",
-        "state": "past"
+        "epoch": 1613088000.0,
+        "expiration_date": "12-feb-2021",
+        "state": "future"
     },
     "attack.systems": {
         "epoch": 1583971200.0,
@@ -789,6 +794,11 @@
         "expiration_date": "17-oct-2023",
         "state": "future"
     },
+    "forsex.mobi": {
+        "epoch": 1609372800.0,
+        "expiration_date": "31-dec-2020",
+        "state": "future"
+    },
     "fox3.com": {
         "epoch": 1581724800.0,
         "expiration_date": "15-feb-2020",
@@ -869,6 +879,11 @@
         "expiration_date": "14-jun-2020",
         "state": "future"
     },
+    "green-toons.com": {
+        "epoch": 1610928000.0,
+        "expiration_date": "18-jan-2021",
+        "state": "future"
+    },
     "hanaprop.com": {
         "epoch": 1599523200.0,
         "expiration_date": "08-sep-2020",
@@ -898,6 +913,11 @@
         "epoch": 1576454400.0,
         "expiration_date": "16-dec-2019",
         "state": "past"
+    },
+    "hdtubes.net": {
+        "epoch": 1598572800.0,
+        "expiration_date": "28-aug-2020",
+        "state": "future"
     },
     "hedporn.com": {
         "epoch": 1575763200.0,
@@ -1052,6 +1072,11 @@
     "jizztubeporn.com": {
         "epoch": 1588291200.0,
         "expiration_date": "01-may-2020",
+        "state": "future"
+    },
+    "join4free.com": {
+        "epoch": 1610496000.0,
+        "expiration_date": "13-jan-2021",
         "state": "future"
     },
     "jp-voyeur.net": {
@@ -1504,6 +1529,11 @@
         "expiration_date": "01-feb-2021",
         "state": "future"
     },
+    "peperonity.com": {
+        "epoch": 1595980800.0,
+        "expiration_date": "29-jul-2020",
+        "state": "future"
+    },
     "petiteteens.top": {
         "epoch": 1592092800.0,
         "expiration_date": "14-jun-2020",
@@ -1537,6 +1567,11 @@
     "plan-sex.net": {
         "epoch": 1608336000.0,
         "expiration_date": "19-dec-2020",
+        "state": "future"
+    },
+    "plashporn.com": {
+        "epoch": 1611187200.0,
+        "expiration_date": "21-jan-2021",
         "state": "future"
     },
     "play-boom.com": {
@@ -1573,6 +1608,11 @@
         "epoch": 1576281600.0,
         "expiration_date": "14-dec-2019",
         "state": "past"
+    },
+    "porn.org": {
+        "epoch": 1592697600.0,
+        "expiration_date": "21-jun-2020",
+        "state": "future"
     },
     "porndisney.com": {
         "epoch": 1577145600.0,
@@ -2197,6 +2237,11 @@
     "tubedesires.com": {
         "epoch": 1577145600.0,
         "expiration_date": "24-dec-2019",
+        "state": "past"
+    },
+    "tubefoxporn.com": {
+        "epoch": 1576972800.0,
+        "expiration_date": "22-dec-2019",
         "state": "past"
     },
     "tubicash.com": {
