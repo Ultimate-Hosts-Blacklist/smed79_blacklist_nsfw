@@ -779,6 +779,11 @@
         "expiration_date": "09-mar-2020",
         "state": "future"
     },
+    "filipinavirgin.net": {
+        "epoch": 1613260800.0,
+        "expiration_date": "14-feb-2021",
+        "state": "future"
+    },
     "filmepornoxxl.net": {
         "epoch": 1629244800.0,
         "expiration_date": "18-aug-2021",
@@ -1780,9 +1785,9 @@
         "state": "future"
     },
     "prostylex.com": {
-        "epoch": 1575849600.0,
-        "expiration_date": "09-dec-2019",
-        "state": "past"
+        "epoch": 1613260800.0,
+        "expiration_date": "14-feb-2021",
+        "state": "future"
     },
     "purecelebs.com": {
         "epoch": 1590451200.0,
