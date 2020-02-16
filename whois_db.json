@@ -64,6 +64,11 @@
         "expiration_date": "21-aug-2021",
         "state": "future"
     },
+    "8teenbay.net": {
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
+        "state": "future"
+    },
     "a1tb.com": {
         "epoch": 1586649600.0,
         "expiration_date": "12-apr-2020",
@@ -459,6 +464,11 @@
         "expiration_date": "02-jan-2020",
         "state": "past"
     },
+    "cporn.me": {
+        "epoch": 1600041600.0,
+        "expiration_date": "14-sep-2020",
+        "state": "future"
+    },
     "crocko.com": {
         "epoch": 1603152000.0,
         "expiration_date": "20-oct-2020",
@@ -557,6 +567,11 @@
     "drunkendelight.com": {
         "epoch": 1602979200.0,
         "expiration_date": "18-oct-2020",
+        "state": "future"
+    },
+    "dylanryderblog.com": {
+        "epoch": 1604102400.0,
+        "expiration_date": "31-oct-2020",
         "state": "future"
     },
     "eegay.com": {
@@ -1149,6 +1164,11 @@
         "expiration_date": "21-apr-2020",
         "state": "future"
     },
+    "lonely-wolf.com": {
+        "epoch": 1614384000.0,
+        "expiration_date": "27-feb-2021",
+        "state": "future"
+    },
     "lostmyvirginity.com": {
         "epoch": 1592784000.0,
         "expiration_date": "22-jun-2020",
@@ -1344,6 +1364,11 @@
         "expiration_date": "19-nov-2020",
         "state": "future"
     },
+    "newstar-cherry.info": {
+        "epoch": 1605744000.0,
+        "expiration_date": "19-nov-2020",
+        "state": "future"
+    },
     "newstar-daniele.info": {
         "epoch": 1585958400.0,
         "expiration_date": "04-apr-2020",
@@ -1388,6 +1413,11 @@
         "epoch": 1638230400.0,
         "expiration_date": "30-nov-2021",
         "state": "future"
+    },
+    "nudefi.com": {
+        "epoch": 1577318400.0,
+        "expiration_date": "26-dec-2019",
+        "state": "past"
     },
     "nudevista.com.pl": {
         "epoch": 1594857600.0,
@@ -1774,6 +1804,11 @@
         "expiration_date": "06-nov-2020",
         "state": "future"
     },
+    "sex2mix.com": {
+        "epoch": 1609891200.0,
+        "expiration_date": "06-jan-2021",
+        "state": "future"
+    },
     "sexdating.cz": {
         "epoch": 1611619200.0,
         "expiration_date": "26-jan-2021",
@@ -1872,6 +1907,11 @@
     "shockingtube.com": {
         "epoch": 1589068800.0,
         "expiration_date": "10-may-2020",
+        "state": "future"
+    },
+    "shotathome.com": {
+        "epoch": 1599004800.0,
+        "expiration_date": "02-sep-2020",
         "state": "future"
     },
     "shyav.com": {
@@ -2063,6 +2103,11 @@
         "epoch": 1578441600.0,
         "expiration_date": "08-jan-2020",
         "state": "past"
+    },
+    "thumbrush.pw": {
+        "epoch": 1611964800.0,
+        "expiration_date": "30-jan-2021",
+        "state": "future"
     },
     "tinymodel-amber.com": {
         "epoch": 1582243200.0,
