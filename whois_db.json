@@ -474,6 +474,11 @@
         "expiration_date": "29-aug-2021",
         "state": "future"
     },
+    "cafesexe.com": {
+        "epoch": 1577318400.0,
+        "expiration_date": "26-dec-2019",
+        "state": "past"
+    },
     "caiunoxvideos.com.br": {
         "epoch": 1614816000.0,
         "expiration_date": "04-mar-2021",
@@ -718,6 +723,11 @@
         "epoch": 1577491200.0,
         "expiration_date": "28-dec-2019",
         "state": "past"
+    },
+    "eel6.com": {
+        "epoch": 1587254400.0,
+        "expiration_date": "19-apr-2020",
+        "state": "future"
     },
     "ehowa.com": {
         "epoch": 1604534400.0,
