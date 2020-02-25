@@ -44,6 +44,11 @@
         "expiration_date": "12-feb-2021",
         "state": "future"
     },
+    "44videos.com": {
+        "epoch": 1576022400.0,
+        "expiration_date": "11-dec-2019",
+        "state": "past"
+    },
     "4sex4.com": {
         "epoch": 1599523200.0,
         "expiration_date": "08-sep-2020",
