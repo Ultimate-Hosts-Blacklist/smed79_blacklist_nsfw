@@ -574,6 +574,11 @@
         "expiration_date": "23-jan-2021",
         "state": "future"
     },
+    "contentdef.com": {
+        "epoch": 1613001600.0,
+        "expiration_date": "11-feb-2021",
+        "state": "future"
+    },
     "coochiecams.com": {
         "epoch": 1577923200.0,
         "expiration_date": "02-jan-2020",
@@ -2607,6 +2612,11 @@
     "thisav.video": {
         "epoch": 1585785600.0,
         "expiration_date": "02-apr-2020",
+        "state": "future"
+    },
+    "thumbrush.pw": {
+        "epoch": 1611964800.0,
+        "expiration_date": "30-jan-2021",
         "state": "future"
     },
     "tinymodel-amber.com": {
