@@ -3022,7 +3022,7 @@
     "amateur.red": {
         "epoch": 1583280000.0,
         "expiration_date": "04-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "amateuralbum.net": {
         "epoch": 1881619200.0,
@@ -3269,14 +3269,54 @@
         "expiration_date": "12-may-2020",
         "state": "future"
     },
+    "amatorixxx.com": {
+        "epoch": 1603929600.0,
+        "expiration_date": "29-oct-2020",
+        "state": "future"
+    },
     "amatporn.com": {
         "epoch": 1612742400.0,
         "expiration_date": "08-feb-2021",
         "state": "future"
     },
+    "amatricesbeurettes.com": {
+        "epoch": 1605484800.0,
+        "expiration_date": "16-nov-2020",
+        "state": "future"
+    },
+    "amatuerthreesome.com": {
+        "epoch": 1612483200.0,
+        "expiration_date": "05-feb-2021",
+        "state": "future"
+    },
+    "amaturein.com": {
+        "epoch": 1603929600.0,
+        "expiration_date": "29-oct-2020",
+        "state": "future"
+    },
+    "amazingteenbabes.com": {
+        "epoch": 1588550400.0,
+        "expiration_date": "04-may-2020",
+        "state": "future"
+    },
     "ambrasdreams.com": {
         "epoch": 1589500800.0,
         "expiration_date": "15-may-2020",
+        "state": "future"
+    },
+    "americankitten.com": {
+        "epoch": 1609027200.0,
+        "expiration_date": "27-dec-2020",
+        "state": "future"
+    },
+    "americanvirgins.net": {
+        "epoch": 1594857600.0,
+        "expiration_date": "16-jul-2020",
+        "state": "future"
+    },
+    "amfiles.site": {
+        "epoch": 1584662400.0,
+        "expiration_date": "20-mar-2020",
         "state": "future"
     },
     "amoralvideos.com": {
