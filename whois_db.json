@@ -3324,6 +3324,16 @@
         "expiration_date": "20-mar-2020",
         "state": "future"
     },
+    "amigos.com": {
+        "epoch": 1620000000.0,
+        "expiration_date": "03-may-2021",
+        "state": "future"
+    },
+    "amkingdom.com": {
+        "epoch": 1612828800.0,
+        "expiration_date": "09-feb-2021",
+        "state": "future"
+    },
     "amoralvideos.com": {
         "epoch": 1588896000.0,
         "expiration_date": "08-may-2020",
