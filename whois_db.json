@@ -3025,9 +3025,9 @@
         "state": "future"
     },
     "amateur.red": {
-        "epoch": 1583280000.0,
-        "expiration_date": "04-mar-2020",
-        "state": "past"
+        "epoch": 1614816000.0,
+        "expiration_date": "04-mar-2021",
+        "state": "future"
     },
     "amateuralbum.net": {
         "epoch": 1881619200.0,
