@@ -3432,7 +3432,7 @@
     "analcheckup.com": {
         "epoch": 1583452800.0,
         "expiration_date": "06-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "analdildolesbians.com": {
         "epoch": 1590364800.0,
@@ -3532,6 +3532,31 @@
     "ancensored.com": {
         "epoch": 1598659200.0,
         "expiration_date": "29-aug-2020",
+        "state": "future"
+    },
+    "andrewblakecash.com": {
+        "epoch": 1601510400.0,
+        "expiration_date": "01-oct-2020",
+        "state": "future"
+    },
+    "angel-anime.com": {
+        "epoch": 1585699200.0,
+        "expiration_date": "01-apr-2020",
+        "state": "future"
+    },
+    "angel-collection.com": {
+        "epoch": 1610928000.0,
+        "expiration_date": "18-jan-2021",
+        "state": "future"
+    },
+    "angel-companions.co.uk": {
+        "epoch": 1604102400.0,
+        "expiration_date": "31-oct-2020",
+        "state": "future"
+    },
+    "angel-dark.org": {
+        "epoch": 1600300800.0,
+        "expiration_date": "17-sep-2020",
         "state": "future"
     },
     "angel4christyb.com": {
