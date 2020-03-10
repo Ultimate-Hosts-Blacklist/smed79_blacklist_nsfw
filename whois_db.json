@@ -2490,9 +2490,9 @@
         "state": "future"
     },
     "alexistexas.com": {
-        "epoch": 1583452800.0,
-        "expiration_date": "06-mar-2020",
-        "state": "past"
+        "epoch": 1614988800.0,
+        "expiration_date": "06-mar-2021",
+        "state": "future"
     },
     "alexistexasmovies.com": {
         "epoch": 1610150400.0,
@@ -2625,8 +2625,8 @@
         "state": "future"
     },
     "allgirls24.com": {
-        "epoch": 1583625600.0,
-        "expiration_date": "08-mar-2020",
+        "epoch": 1615161600.0,
+        "expiration_date": "08-mar-2021",
         "state": "future"
     },
     "allgravure.com": {
