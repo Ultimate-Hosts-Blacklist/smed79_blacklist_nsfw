@@ -1,6 +1,6 @@
 {
     "current_stats": {
-        "builds": 302,
+        "builds": 303,
         "counter": {
             "down": 0,
             "invalid": 0,
@@ -15,10 +15,13 @@
     },
     "currently_under_test": true,
     "days_until_next_test": 2,
+    "description": "HOSTS file list, designed to block NSFW Adult domains",
     "end_datetime": "2020-03-03T15:41:18.267495",
     "end_epoch": 1582987885.204028,
+    "issue_link": null,
     "last_autosave_datetime": "2020-03-03T15:41:18.267512",
     "last_autosave_epoch": 1583244985.781822,
+    "link": "https://github.com/smed79/blacklist",
     "name": "smed79_blacklist_nsfw",
     "previous_stats": {
         "builds": 54,
@@ -35,9 +38,6 @@
         "whitelisted.list": 39899
     },
     "raw_link": "https://raw.githubusercontent.com/smed79/blacklist/master/extra/nsfw.txt",
-    "link": "https://github.com/smed79/blacklist",
-    "issue_link": null,
-    "description": "HOSTS file list, designed to block NSFW Adult domains",
     "start_datetime": "2020-03-03T15:41:18.272487",
     "start_epoch": 1583107793.768223
 }
