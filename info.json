@@ -1,6 +1,6 @@
 {
     "current_stats": {
-        "builds": 303,
+        "builds": 304,
         "counter": {
             "down": 0,
             "invalid": 0,
@@ -38,7 +38,6 @@
         "whitelisted.list": 39899
     },
     "raw_link": "https://raw.githubusercontent.com/smed79/blacklist/master/extra/nsfw.txt",
-    "description": "HOSTS file list, designed to block NSFW Adult domains",
     "start_datetime": "2020-03-03T15:41:18.272487",
     "start_epoch": 1583107793.768223
 }
