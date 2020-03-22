@@ -3062,7 +3062,7 @@
     "amateurcommunity.com": {
         "epoch": 1584835200.0,
         "expiration_date": "22-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "amateurcool.com": {
         "epoch": 1605484800.0,
@@ -3325,8 +3325,8 @@
         "state": "future"
     },
     "amfiles.site": {
-        "epoch": 1584662400.0,
-        "expiration_date": "20-mar-2020",
+        "epoch": 1616198400.0,
+        "expiration_date": "20-mar-2021",
         "state": "future"
     },
     "amfiles.xyz": {
