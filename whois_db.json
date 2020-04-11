@@ -1352,7 +1352,7 @@
     "a1stars.net": {
         "epoch": 1586563200.0,
         "expiration_date": "11-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "a1tb.com": {
         "epoch": 1586649600.0,
@@ -1730,8 +1730,8 @@
         "state": "future"
     },
     "adult-targeted-traffic.com": {
-        "epoch": 1586563200.0,
-        "expiration_date": "11-apr-2020",
+        "epoch": 1618099200.0,
+        "expiration_date": "11-apr-2021",
         "state": "future"
     },
     "adult.com": {
