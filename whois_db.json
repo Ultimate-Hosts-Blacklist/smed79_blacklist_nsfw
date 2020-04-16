@@ -1077,7 +1077,7 @@
     "6-ar.com": {
         "epoch": 1586995200.0,
         "expiration_date": "16-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "60milfs.com": {
         "epoch": 1596672000.0,
@@ -1985,8 +1985,8 @@
         "state": "future"
     },
     "adultitv.com": {
-        "epoch": 1586995200.0,
-        "expiration_date": "16-apr-2020",
+        "epoch": 1618531200.0,
+        "expiration_date": "16-apr-2021",
         "state": "future"
     },
     "adultjoy.net": {
