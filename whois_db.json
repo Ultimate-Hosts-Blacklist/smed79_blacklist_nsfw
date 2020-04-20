@@ -2837,7 +2837,7 @@
     "almatube.com": {
         "epoch": 1587340800.0,
         "expiration_date": "20-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "almostvirgins.com": {
         "epoch": 1599523200.0,
@@ -2947,7 +2947,7 @@
     "amadorasafada.com": {
         "epoch": 1587340800.0,
         "expiration_date": "20-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "amakings.com": {
         "epoch": 1591488000.0,
