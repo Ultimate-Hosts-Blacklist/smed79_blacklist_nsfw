@@ -7084,6 +7084,11 @@
         "expiration_date": "28-may-2022",
         "state": "future"
     },
+    "azzzian.com": {
+        "epoch": 1593561600.0,
+        "expiration_date": "01-jul-2020",
+        "state": "future"
+    },
     "b44.com": {
         "epoch": 1619136000.0,
         "expiration_date": "23-apr-2021",
@@ -11652,6 +11657,11 @@
     "camsangels.com": {
         "epoch": 1592784000.0,
         "expiration_date": "22-jun-2020",
+        "state": "future"
+    },
+    "camsearch.xxx": {
+        "epoch": 1608163200.0,
+        "expiration_date": "17-dec-2020",
         "state": "future"
     },
     "camsexmovies.com": {
@@ -17194,6 +17204,11 @@
         "expiration_date": "31-oct-2020",
         "state": "future"
     },
+    "drunkhomeparty.com": {
+        "epoch": 1617321600.0,
+        "expiration_date": "02-apr-2021",
+        "state": "future"
+    },
     "drunkmoms.net": {
         "epoch": 1619913600.0,
         "expiration_date": "02-may-2021",
@@ -18787,6 +18802,11 @@
     "escortdirectory.com": {
         "epoch": 1735516800.0,
         "expiration_date": "30-dec-2024",
+        "state": "future"
+    },
+    "escortemporium.co.uk": {
+        "epoch": 1593216000.0,
+        "expiration_date": "27-jun-2020",
         "state": "future"
     },
     "escortera.com": {
@@ -24419,6 +24439,11 @@
         "expiration_date": "05-nov-2021",
         "state": "future"
     },
+    "gay411.com": {
+        "epoch": 1732060800.0,
+        "expiration_date": "20-nov-2024",
+        "state": "future"
+    },
     "gay43.com": {
         "epoch": 1605916800.0,
         "expiration_date": "21-nov-2020",
@@ -25182,6 +25207,11 @@
     "girlnextdoor.com": {
         "epoch": 1598140800.0,
         "expiration_date": "23-aug-2020",
+        "state": "future"
+    },
+    "girlpornos.com": {
+        "epoch": 1592092800.0,
+        "expiration_date": "14-jun-2020",
         "state": "future"
     },
     "girls-in-nature.org": {
@@ -44159,6 +44189,11 @@
         "expiration_date": "13-nov-2020",
         "state": "future"
     },
+    "opujem.com": {
+        "epoch": 1610064000.0,
+        "expiration_date": "08-jan-2021",
+        "state": "future"
+    },
     "oral-amateure.com": {
         "epoch": 1615680000.0,
         "expiration_date": "14-mar-2021",
@@ -44272,6 +44307,11 @@
     "orsm.net": {
         "epoch": 1671494400.0,
         "expiration_date": "20-dec-2022",
+        "state": "future"
+    },
+    "osaka69.com": {
+        "epoch": 1617926400.0,
+        "expiration_date": "09-apr-2021",
         "state": "future"
     },
     "osex.fr": {
@@ -47274,6 +47314,11 @@
         "expiration_date": "01-dec-2021",
         "state": "future"
     },
+    "porncomix.one": {
+        "epoch": 1614556800.0,
+        "expiration_date": "01-mar-2021",
+        "state": "future"
+    },
     "porncomix.site": {
         "epoch": 1604016000.0,
         "expiration_date": "30-oct-2020",
@@ -48312,6 +48357,11 @@
     "porno-ita.com": {
         "epoch": 1614124800.0,
         "expiration_date": "24-feb-2021",
+        "state": "future"
+    },
+    "porno-live.fr": {
+        "epoch": 1592179200.0,
+        "expiration_date": "15-jun-2020",
         "state": "future"
     },
     "porno-maniac.net": {
@@ -59299,6 +59349,11 @@
         "expiration_date": "03-oct-2020",
         "state": "future"
     },
+    "strip2.me": {
+        "epoch": 1620950400.0,
+        "expiration_date": "14-may-2021",
+        "state": "future"
+    },
     "strip2.xxx": {
         "epoch": 1593216000.0,
         "expiration_date": "27-jun-2020",
@@ -64524,6 +64579,11 @@
         "expiration_date": "26-oct-2023",
         "state": "future"
     },
+    "tubevaporn.com": {
+        "epoch": 1618704000.0,
+        "expiration_date": "18-apr-2021",
+        "state": "future"
+    },
     "tubevector.com": {
         "epoch": 1614816000.0,
         "expiration_date": "04-mar-2021",
@@ -66537,6 +66597,11 @@
     "vieux-gay.fr": {
         "epoch": 1609632000.0,
         "expiration_date": "03-jan-2021",
+        "state": "future"
+    },
+    "viewasianporn.com": {
+        "epoch": 1617926400.0,
+        "expiration_date": "09-apr-2021",
         "state": "future"
     },
     "viewdesisex.com": {
@@ -69972,7 +70037,7 @@
     "xmovies247.com": {
         "epoch": 1588723200.0,
         "expiration_date": "06-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "xmoviesforyou.com": {
         "epoch": 1724976000.0,
@@ -71052,6 +71117,11 @@
     "xxvids.net": {
         "epoch": 1613347200.0,
         "expiration_date": "15-feb-2021",
+        "state": "future"
+    },
+    "xxx-4-free.net": {
+        "epoch": 1599004800.0,
+        "expiration_date": "02-sep-2020",
         "state": "future"
     },
     "xxx-animatrix.com": {
