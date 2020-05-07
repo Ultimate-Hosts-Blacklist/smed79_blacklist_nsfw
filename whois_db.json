@@ -1764,6 +1764,11 @@
         "expiration_date": "01-may-2021",
         "state": "future"
     },
+    "a18ans.com": {
+        "epoch": 1606003200.0,
+        "expiration_date": "22-nov-2020",
+        "state": "future"
+    },
     "a1stars.net": {
         "epoch": 1618099200.0,
         "expiration_date": "11-apr-2021",
@@ -6657,6 +6662,11 @@
     "atdhe.cc": {
         "epoch": 1690675200.0,
         "expiration_date": "30-jul-2023",
+        "state": "future"
+    },
+    "atdhe.sx": {
+        "epoch": 1607817600.0,
+        "expiration_date": "13-dec-2020",
         "state": "future"
     },
     "ateenstube.com": {
@@ -20067,6 +20077,11 @@
     "faceporn.com": {
         "epoch": 1605916800.0,
         "expiration_date": "21-nov-2020",
+        "state": "future"
+    },
+    "facepunch.com": {
+        "epoch": 1838764800.0,
+        "expiration_date": "08-apr-2028",
         "state": "future"
     },
     "facesittinggirls.com": {
@@ -35549,6 +35564,11 @@
         "expiration_date": "19-aug-2020",
         "state": "future"
     },
+    "lelki.com": {
+        "epoch": 1611446400.0,
+        "expiration_date": "24-jan-2021",
+        "state": "future"
+    },
     "lemmecheck.com": {
         "epoch": 1611360000.0,
         "expiration_date": "23-jan-2021",
@@ -37537,6 +37557,11 @@
     "magpietube.com": {
         "epoch": 1620864000.0,
         "expiration_date": "13-may-2021",
+        "state": "future"
+    },
+    "magpost.com": {
+        "epoch": 1617840000.0,
+        "expiration_date": "08-apr-2021",
         "state": "future"
     },
     "maguro721.com": {
@@ -49184,6 +49209,11 @@
         "expiration_date": "23-dec-2020",
         "state": "future"
     },
+    "porno4porno.com": {
+        "epoch": 1613865600.0,
+        "expiration_date": "21-feb-2021",
+        "state": "future"
+    },
     "porno4you.fr": {
         "epoch": 1597708800.0,
         "expiration_date": "18-aug-2020",
@@ -58324,6 +58354,11 @@
         "expiration_date": "15-mar-2021",
         "state": "future"
     },
+    "shrewsburymassage.co.uk": {
+        "epoch": 1605139200.0,
+        "expiration_date": "12-nov-2020",
+        "state": "future"
+    },
     "shufuni.com": {
         "epoch": 1594598400.0,
         "expiration_date": "13-jul-2020",
@@ -59222,6 +59257,11 @@
     "socialaudit.org.uk": {
         "epoch": 1636156800.0,
         "expiration_date": "06-nov-2021",
+        "state": "future"
+    },
+    "socialporn.com": {
+        "epoch": 1734480000.0,
+        "expiration_date": "18-dec-2024",
         "state": "future"
     },
     "socialsexnetwork.net": {
@@ -69210,8 +69250,8 @@
         "state": "future"
     },
     "webcamsdancer.com": {
-        "epoch": 1588809600.0,
-        "expiration_date": "07-may-2020",
+        "epoch": 1620345600.0,
+        "expiration_date": "07-may-2021",
         "state": "future"
     },
     "webcamsdot.net": {
@@ -71632,6 +71672,11 @@
     "xstory.tv": {
         "epoch": 1613001600.0,
         "expiration_date": "11-feb-2021",
+        "state": "future"
+    },
+    "xstorysnap.com": {
+        "epoch": 1612396800.0,
+        "expiration_date": "04-feb-2021",
         "state": "future"
     },
     "xtapes.tv": {
