@@ -9914,6 +9914,11 @@
         "expiration_date": "27-feb-2021",
         "state": "future"
     },
+    "bobtv.fr": {
+        "epoch": 1617667200.0,
+        "expiration_date": "06-apr-2021",
+        "state": "future"
+    },
     "bobvoyeur.com": {
         "epoch": 1642809600.0,
         "expiration_date": "22-jan-2022",
@@ -13537,6 +13542,11 @@
     "clipsexlib.com": {
         "epoch": 1623196800.0,
         "expiration_date": "09-jun-2021",
+        "state": "future"
+    },
+    "clipsforjerkoff.com": {
+        "epoch": 1594684800.0,
+        "expiration_date": "14-jul-2020",
         "state": "future"
     },
     "clipsgrabber.com": {
@@ -17942,6 +17952,11 @@
     "einfachtitten.com": {
         "epoch": 1618790400.0,
         "expiration_date": "19-apr-2021",
+        "state": "future"
+    },
+    "eispop.cam": {
+        "epoch": 1612915200.0,
+        "expiration_date": "10-feb-2021",
         "state": "future"
     },
     "eispop.com": {
@@ -23347,6 +23362,11 @@
     "freex.mobi": {
         "epoch": 1654473600.0,
         "expiration_date": "06-jun-2022",
+        "state": "future"
+    },
+    "freexartsex.com": {
+        "epoch": 1598227200.0,
+        "expiration_date": "24-aug-2020",
         "state": "future"
     },
     "freexcafe.com": {
@@ -34122,6 +34142,11 @@
     "katerinakayxxx.com": {
         "epoch": 1612915200.0,
         "expiration_date": "10-feb-2021",
+        "state": "future"
+    },
+    "katesplayground.com": {
+        "epoch": 1596240000.0,
+        "expiration_date": "01-aug-2020",
         "state": "future"
     },
     "katestube.com": {
@@ -49859,6 +49884,11 @@
         "expiration_date": "11-mar-2021",
         "state": "future"
     },
+    "pornotorrentz.com": {
+        "epoch": 1602374400.0,
+        "expiration_date": "11-oct-2020",
+        "state": "future"
+    },
     "pornototale.com": {
         "epoch": 1741392000.0,
         "expiration_date": "08-mar-2025",
@@ -51437,6 +51467,11 @@
     "primepornlist.com": {
         "epoch": 1595203200.0,
         "expiration_date": "20-jul-2020",
+        "state": "future"
+    },
+    "primeporntube.com": {
+        "epoch": 1601337600.0,
+        "expiration_date": "29-sep-2020",
         "state": "future"
     },
     "primeskype.com": {
@@ -60917,7 +60952,7 @@
     "swiss-escort.biz": {
         "epoch": 1588723200.0,
         "expiration_date": "06-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "sxe.fr": {
         "epoch": 1788307200.0,
@@ -63920,8 +63955,8 @@
         "state": "future"
     },
     "topliste.fr": {
-        "epoch": 1585180800.0,
-        "expiration_date": "26-mar-2020",
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
         "state": "future"
     },
     "toplisted.ws": {
@@ -64247,6 +64282,11 @@
     "trafficforce.com": {
         "epoch": 1619481600.0,
         "expiration_date": "27-apr-2021",
+        "state": "future"
+    },
+    "trafficholder.com": {
+        "epoch": 1774742400.0,
+        "expiration_date": "29-mar-2026",
         "state": "future"
     },
     "trafficjunky.com": {
@@ -74579,6 +74619,11 @@
         "expiration_date": "03-nov-2022",
         "state": "future"
     },
+    "yunofap.com": {
+        "epoch": 1604793600.0,
+        "expiration_date": "08-nov-2020",
+        "state": "future"
+    },
     "yuppix.com": {
         "epoch": 1617753600.0,
         "expiration_date": "07-apr-2021",
@@ -74672,6 +74717,11 @@
     "zemanihunter.com": {
         "epoch": 1604620800.0,
         "expiration_date": "06-nov-2020",
+        "state": "future"
+    },
+    "zemporn.com": {
+        "epoch": 1597622400.0,
+        "expiration_date": "17-aug-2020",
         "state": "future"
     },
     "zenfield.pro": {
