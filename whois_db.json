@@ -3240,8 +3240,8 @@
         "state": "future"
     },
     "akuma.moe": {
-        "epoch": 1587772800.0,
-        "expiration_date": "25-apr-2020",
+        "epoch": 1619308800.0,
+        "expiration_date": "25-apr-2021",
         "state": "future"
     },
     "al3boshi.com": {
@@ -11864,6 +11864,11 @@
         "expiration_date": "27-jan-2021",
         "state": "future"
     },
+    "canaltop.com": {
+        "epoch": 1583107200.0,
+        "expiration_date": "02-mar-2020",
+        "state": "past"
+    },
     "canalwebcams.com": {
         "epoch": 1616803200.0,
         "expiration_date": "27-mar-2021",
@@ -13792,6 +13797,11 @@
     "colette.com": {
         "epoch": 1712880000.0,
         "expiration_date": "12-apr-2024",
+        "state": "future"
+    },
+    "coliriodemacho.com.br": {
+        "epoch": 1620345600.0,
+        "expiration_date": "07-may-2021",
         "state": "future"
     },
     "collectionofbestporn.com": {
@@ -16787,7 +16797,7 @@
     "domai.com": {
         "epoch": 1588809600.0,
         "expiration_date": "07-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "domainplayersclub.com": {
         "epoch": 1642118400.0,
@@ -27237,6 +27247,11 @@
     "hdefporn.com": {
         "epoch": 1605398400.0,
         "expiration_date": "15-nov-2020",
+        "state": "future"
+    },
+    "hdero.com": {
+        "epoch": 1592006400.0,
+        "expiration_date": "13-jun-2020",
         "state": "future"
     },
     "hdfetish.com": {
@@ -42234,6 +42249,11 @@
         "expiration_date": "04-apr-2021",
         "state": "future"
     },
+    "nina.com": {
+        "epoch": 1619913600.0,
+        "expiration_date": "02-may-2021",
+        "state": "future"
+    },
     "ninakayy.com": {
         "epoch": 1603843200.0,
         "expiration_date": "28-oct-2020",
@@ -54487,7 +54507,7 @@
     "searchforit.com": {
         "epoch": 1588723200.0,
         "expiration_date": "06-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "searchforxxx.net": {
         "epoch": 1592697600.0,
@@ -56027,6 +56047,11 @@
     "sexonacionais.com": {
         "epoch": 1590192000.0,
         "expiration_date": "23-may-2020",
+        "state": "future"
+    },
+    "sexondbar.com": {
+        "epoch": 1612137600.0,
+        "expiration_date": "01-feb-2021",
         "state": "future"
     },
     "sexonlytube.com": {
@@ -72737,6 +72762,11 @@
     "yesmessenger.com": {
         "epoch": 1615507200.0,
         "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
+    "yesporn.co": {
+        "epoch": 1637798400.0,
+        "expiration_date": "25-nov-2021",
         "state": "future"
     },
     "yespornclips.com": {
