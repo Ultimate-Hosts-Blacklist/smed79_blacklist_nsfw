@@ -6734,6 +6734,11 @@
         "expiration_date": "07-aug-2020",
         "state": "future"
     },
+    "atkhairy.com": {
+        "epoch": 1595808000.0,
+        "expiration_date": "27-jul-2020",
+        "state": "future"
+    },
     "atkingdom-network.com": {
         "epoch": 1612828800.0,
         "expiration_date": "09-feb-2021",
@@ -42679,6 +42684,11 @@
         "expiration_date": "02-feb-2027",
         "state": "future"
     },
+    "newfreesexmovies.com": {
+        "epoch": 1606867200.0,
+        "expiration_date": "02-dec-2020",
+        "state": "future"
+    },
     "newgrounds.com": {
         "epoch": 1663286400.0,
         "expiration_date": "16-sep-2022",
@@ -43492,6 +43502,11 @@
     "nsfw-pics.com": {
         "epoch": 1614902400.0,
         "expiration_date": "05-mar-2021",
+        "state": "future"
+    },
+    "nsfwalbum.com": {
+        "epoch": 1613865600.0,
+        "expiration_date": "21-feb-2021",
         "state": "future"
     },
     "nsfwdump.com": {
@@ -59592,6 +59607,11 @@
     "smatricom.net": {
         "epoch": 1595894400.0,
         "expiration_date": "28-jul-2020",
+        "state": "future"
+    },
+    "smdome.com": {
+        "epoch": 1601942400.0,
+        "expiration_date": "06-oct-2020",
         "state": "future"
     },
     "smoder.com": {
