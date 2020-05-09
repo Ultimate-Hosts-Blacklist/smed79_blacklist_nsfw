@@ -10744,6 +10744,11 @@
         "expiration_date": "05-may-2021",
         "state": "future"
     },
+    "brazzershd.co": {
+        "epoch": 1586476800.0,
+        "expiration_date": "10-apr-2020",
+        "state": "past"
+    },
     "brazzershd.net": {
         "epoch": 1613520000.0,
         "expiration_date": "17-feb-2021",
@@ -14257,6 +14262,11 @@
     "conseilsexuel.fr": {
         "epoch": 1596758400.0,
         "expiration_date": "07-aug-2020",
+        "state": "future"
+    },
+    "contactmature.com": {
+        "epoch": 1601596800.0,
+        "expiration_date": "02-oct-2020",
         "state": "future"
     },
     "contentdef.com": {
@@ -58250,8 +58260,8 @@
         "state": "future"
     },
     "sexybabes.club": {
-        "epoch": 1588982400.0,
-        "expiration_date": "09-may-2020",
+        "epoch": 1620518400.0,
+        "expiration_date": "09-may-2021",
         "state": "future"
     },
     "sexybabes.com": {
@@ -63327,6 +63337,11 @@
     "the-celebs.com": {
         "epoch": 1602720000.0,
         "expiration_date": "15-oct-2020",
+        "state": "future"
+    },
+    "the-new-lagoon.com": {
+        "epoch": 1597104000.0,
+        "expiration_date": "11-aug-2020",
         "state": "future"
     },
     "the-pork.com": {
