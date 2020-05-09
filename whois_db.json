@@ -24844,6 +24844,11 @@
         "expiration_date": "11-aug-2020",
         "state": "future"
     },
+    "gangav.com": {
+        "epoch": 1619395200.0,
+        "expiration_date": "26-apr-2021",
+        "state": "future"
+    },
     "gangbanganal.com": {
         "epoch": 1606521600.0,
         "expiration_date": "28-nov-2020",
@@ -31450,8 +31455,8 @@
         "state": "future"
     },
     "imgsay.com": {
-        "epoch": 1588636800.0,
-        "expiration_date": "05-may-2020",
+        "epoch": 1620172800.0,
+        "expiration_date": "05-may-2021",
         "state": "future"
     },
     "imgshost.net": {
@@ -39309,6 +39314,11 @@
         "expiration_date": "13-jul-2020",
         "state": "future"
     },
+    "met-art.com": {
+        "epoch": 1592265600.0,
+        "expiration_date": "16-jun-2020",
+        "state": "future"
+    },
     "met-arti.com": {
         "epoch": 1601596800.0,
         "expiration_date": "02-oct-2020",
@@ -39810,8 +39820,8 @@
         "state": "future"
     },
     "minihentai.org": {
-        "epoch": 1588896000.0,
-        "expiration_date": "08-may-2020",
+        "epoch": 1620432000.0,
+        "expiration_date": "08-may-2021",
         "state": "future"
     },
     "minilua.com": {
@@ -54265,8 +54275,8 @@
         "state": "future"
     },
     "relax-porn.com": {
-        "epoch": 1588550400.0,
-        "expiration_date": "04-may-2020",
+        "epoch": 1620086400.0,
+        "expiration_date": "04-may-2021",
         "state": "future"
     },
     "remittancegirl.com": {
@@ -75552,6 +75562,11 @@
     "z5o.net": {
         "epoch": 1609200000.0,
         "expiration_date": "29-dec-2020",
+        "state": "future"
+    },
+    "za-gay.org": {
+        "epoch": 1600128000.0,
+        "expiration_date": "15-sep-2020",
         "state": "future"
     },
     "za3ror.com": {
