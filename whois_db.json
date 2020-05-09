@@ -454,6 +454,11 @@
         "expiration_date": "13-jan-2021",
         "state": "future"
     },
+    "19lib.com": {
+        "epoch": 1612396800.0,
+        "expiration_date": "04-feb-2021",
+        "state": "future"
+    },
     "19nineteen.com": {
         "epoch": 1610064000.0,
         "expiration_date": "08-jan-2021",
@@ -6017,7 +6022,7 @@
     "arabvirgin.com": {
         "epoch": 1588982400.0,
         "expiration_date": "09-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "arabxxxporn.net": {
         "epoch": 1593388800.0,
@@ -24505,9 +24510,9 @@
         "state": "future"
     },
     "funnelchair.com": {
-        "epoch": 1588809600.0,
-        "expiration_date": "07-may-2020",
-        "state": "past"
+        "epoch": 1620345600.0,
+        "expiration_date": "07-may-2021",
+        "state": "future"
     },
     "funny-games.biz": {
         "epoch": 1611014400.0,
@@ -43097,7 +43102,7 @@
     "nichewebcams.com": {
         "epoch": 1588982400.0,
         "expiration_date": "09-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "nicolegraves.com": {
         "epoch": 1600387200.0,
@@ -61562,7 +61567,7 @@
     "sweetkrissy.com": {
         "epoch": 1588896000.0,
         "expiration_date": "08-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "sweetshow.com": {
         "epoch": 1608422400.0,
@@ -64145,9 +64150,9 @@
         "state": "future"
     },
     "tinymodel-amber.com": {
-        "epoch": 1582243200.0,
-        "expiration_date": "21-feb-2020",
-        "state": "past"
+        "epoch": 1620432000.0,
+        "expiration_date": "08-may-2021",
+        "state": "future"
     },
     "tinymodel-brandi.info": {
         "epoch": 1594252800.0,
