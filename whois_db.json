@@ -15165,8 +15165,8 @@
         "state": "future"
     },
     "cutydoll.com": {
-        "epoch": 1588896000.0,
-        "expiration_date": "08-may-2020",
+        "epoch": 1620432000.0,
+        "expiration_date": "08-may-2021",
         "state": "future"
     },
     "cwcams.com": {
@@ -23169,6 +23169,11 @@
         "expiration_date": "28-mar-2025",
         "state": "future"
     },
+    "freeones.cz": {
+        "epoch": 1701820800.0,
+        "expiration_date": "06-dec-2023",
+        "state": "future"
+    },
     "freeones.fr": {
         "epoch": 1708732800.0,
         "expiration_date": "24-feb-2024",
@@ -25332,6 +25337,11 @@
     "gelbooru.com": {
         "epoch": 1874361600.0,
         "expiration_date": "25-may-2029",
+        "state": "future"
+    },
+    "general-porn.com": {
+        "epoch": 1622937600.0,
+        "expiration_date": "06-jun-2021",
         "state": "future"
     },
     "generation-hentai.com": {
@@ -59404,6 +59414,11 @@
         "expiration_date": "30-jan-2021",
         "state": "future"
     },
+    "skidrowcpy.com": {
+        "epoch": 1595116800.0,
+        "expiration_date": "19-jul-2020",
+        "state": "future"
+    },
     "skimtube.com": {
         "epoch": 1592697600.0,
         "expiration_date": "21-jun-2020",
@@ -72527,6 +72542,11 @@
     "xvds.com": {
         "epoch": 1615680000.0,
         "expiration_date": "14-mar-2021",
+        "state": "future"
+    },
+    "xvicious.com": {
+        "epoch": 1603929600.0,
+        "expiration_date": "29-oct-2020",
         "state": "future"
     },
     "xviddz.com": {
