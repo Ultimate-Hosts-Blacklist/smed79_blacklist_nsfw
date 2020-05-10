@@ -415,8 +415,8 @@
         "state": "future"
     },
     "18tubefuck.com": {
-        "epoch": 1589068800.0,
-        "expiration_date": "10-may-2020",
+        "epoch": 1620604800.0,
+        "expiration_date": "10-may-2021",
         "state": "future"
     },
     "18tubehd.com": {
@@ -42419,6 +42419,11 @@
         "expiration_date": "07-feb-2021",
         "state": "future"
     },
+    "nastyczechs.com": {
+        "epoch": 1603843200.0,
+        "expiration_date": "28-oct-2020",
+        "state": "future"
+    },
     "nastydirectory.com": {
         "epoch": 1604966400.0,
         "expiration_date": "10-nov-2020",
@@ -49060,8 +49065,8 @@
         "state": "future"
     },
     "pornfield.net": {
-        "epoch": 1588636800.0,
-        "expiration_date": "05-may-2020",
+        "epoch": 1620172800.0,
+        "expiration_date": "05-may-2021",
         "state": "future"
     },
     "pornfileboom.com": {
@@ -57242,7 +57247,7 @@
     "sexgratuit.tv": {
         "epoch": 1589068800.0,
         "expiration_date": "10-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "sexharm.com": {
         "epoch": 1614643200.0,
