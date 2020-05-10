@@ -59059,6 +59059,11 @@
         "expiration_date": "04-mar-2021",
         "state": "future"
     },
+    "shemlivenow.com": {
+        "epoch": 1596758400.0,
+        "expiration_date": "07-aug-2020",
+        "state": "future"
+    },
     "shemp.com": {
         "epoch": 1637107200.0,
         "expiration_date": "17-nov-2021",
@@ -72927,6 +72932,11 @@
     "xvideos.com": {
         "epoch": 1703808000.0,
         "expiration_date": "29-dec-2023",
+        "state": "future"
+    },
+    "xvideos.fr": {
+        "epoch": 1618704000.0,
+        "expiration_date": "18-apr-2021",
         "state": "future"
     },
     "xvideos.in": {
