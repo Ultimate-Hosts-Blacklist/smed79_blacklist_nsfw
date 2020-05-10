@@ -2292,7 +2292,7 @@
     "adult-html.com": {
         "epoch": 1589068800.0,
         "expiration_date": "10-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "adult-list.com": {
         "epoch": 1631577600.0,
@@ -13505,8 +13505,8 @@
         "state": "future"
     },
     "circleofxxx.com": {
-        "epoch": 1588982400.0,
-        "expiration_date": "09-may-2020",
+        "epoch": 1620518400.0,
+        "expiration_date": "09-may-2021",
         "state": "future"
     },
     "citronnemoi.com": {
@@ -31382,6 +31382,11 @@
     "img.yt": {
         "epoch": 1903219200.0,
         "expiration_date": "24-apr-2030",
+        "state": "future"
+    },
+    "img2018beauty.pw": {
+        "epoch": 1601424000.0,
+        "expiration_date": "30-sep-2020",
         "state": "future"
     },
     "img2018world.pw": {
