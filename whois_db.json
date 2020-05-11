@@ -14247,7 +14247,7 @@
     "comicscocktail.com": {
         "epoch": 1589155200.0,
         "expiration_date": "11-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "comicsmanics.com": {
         "epoch": 1610323200.0,
@@ -30414,6 +30414,11 @@
         "expiration_date": "24-mar-2021",
         "state": "future"
     },
+    "hq-freeporn.pw": {
+        "epoch": 1602201600.0,
+        "expiration_date": "09-oct-2020",
+        "state": "future"
+    },
     "hq-jav.com": {
         "epoch": 1604707200.0,
         "expiration_date": "07-nov-2020",
@@ -45839,6 +45844,11 @@
         "expiration_date": "30-jan-2021",
         "state": "future"
     },
+    "ouiporno.com": {
+        "epoch": 1604966400.0,
+        "expiration_date": "10-nov-2020",
+        "state": "future"
+    },
     "ourhappyhardcore.com": {
         "epoch": 1602028800.0,
         "expiration_date": "07-oct-2020",
@@ -57194,6 +57204,11 @@
         "expiration_date": "03-may-2021",
         "state": "future"
     },
+    "sexemefree.com": {
+        "epoch": 1609632000.0,
+        "expiration_date": "03-jan-2021",
+        "state": "future"
+    },
     "sexemessenger.com": {
         "epoch": 1597449600.0,
         "expiration_date": "15-aug-2020",
@@ -57360,9 +57375,9 @@
         "state": "future"
     },
     "sexgratuit.tv": {
-        "epoch": 1589068800.0,
-        "expiration_date": "10-may-2020",
-        "state": "past"
+        "epoch": 1620604800.0,
+        "expiration_date": "10-may-2021",
+        "state": "future"
     },
     "sexharm.com": {
         "epoch": 1614643200.0,
