@@ -2910,8 +2910,8 @@
         "state": "future"
     },
     "adultwebmasters.org": {
-        "epoch": 1589068800.0,
-        "expiration_date": "10-may-2020",
+        "epoch": 1620604800.0,
+        "expiration_date": "10-may-2021",
         "state": "future"
     },
     "adultwebmastersonline.com": {
@@ -16282,6 +16282,11 @@
     "derlatas.com": {
         "epoch": 1619568000.0,
         "expiration_date": "28-apr-2021",
+        "state": "future"
+    },
+    "descubreteahora.com": {
+        "epoch": 1597622400.0,
+        "expiration_date": "17-aug-2020",
         "state": "future"
     },
     "desejos.net": {
@@ -48897,7 +48902,7 @@
     "pornclipsxxx.com": {
         "epoch": 1589155200.0,
         "expiration_date": "11-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "porncloud.ws": {
         "epoch": 1742342400.0,
@@ -57822,7 +57827,7 @@
     "sexpornimages.com": {
         "epoch": 1589155200.0,
         "expiration_date": "11-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "sexpornimg.com": {
         "epoch": 1599955200.0,
@@ -61930,9 +61935,9 @@
         "state": "future"
     },
     "suze.net": {
-        "epoch": 1588809600.0,
-        "expiration_date": "07-may-2020",
-        "state": "past"
+        "epoch": 1620345600.0,
+        "expiration_date": "07-may-2021",
+        "state": "future"
     },
     "suzepps.com": {
         "epoch": 1601251200.0,
@@ -73787,6 +73792,11 @@
     "xxxboss.com": {
         "epoch": 1609718400.0,
         "expiration_date": "04-jan-2021",
+        "state": "future"
+    },
+    "xxxbuceta.com.br": {
+        "epoch": 1603756800.0,
+        "expiration_date": "27-oct-2020",
         "state": "future"
     },
     "xxxbucetas.net": {
