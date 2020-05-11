@@ -14419,6 +14419,11 @@
         "expiration_date": "04-may-2021",
         "state": "future"
     },
+    "cortanas.net": {
+        "epoch": 1612224000.0,
+        "expiration_date": "02-feb-2021",
+        "state": "future"
+    },
     "cosepermaschi.it": {
         "epoch": 1599955200.0,
         "expiration_date": "13-sep-2020",
@@ -23887,7 +23892,7 @@
     "freshxxxtube.com": {
         "epoch": 1589155200.0,
         "expiration_date": "11-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "freshxxxtubes.com": {
         "epoch": 1616457600.0,
@@ -42782,7 +42787,7 @@
     "neek.tv": {
         "epoch": 1589068800.0,
         "expiration_date": "10-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "neek6.com": {
         "epoch": 1608249600.0,
