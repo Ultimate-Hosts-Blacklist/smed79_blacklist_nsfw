@@ -3707,7 +3707,7 @@
     "allsexblogs.com": {
         "epoch": 1589241600.0,
         "expiration_date": "12-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "allsexclips.com": {
         "epoch": 1613174400.0,
@@ -59174,6 +59174,11 @@
         "expiration_date": "19-may-2021",
         "state": "future"
     },
+    "shaylaren.com": {
+        "epoch": 1612051200.0,
+        "expiration_date": "31-jan-2021",
+        "state": "future"
+    },
     "sheamateur.com": {
         "epoch": 1604707200.0,
         "expiration_date": "07-nov-2020",
@@ -64272,6 +64277,11 @@
     "thepornsurvey.com": {
         "epoch": 1616889600.0,
         "expiration_date": "28-mar-2021",
+        "state": "future"
+    },
+    "theporntoplist.com": {
+        "epoch": 1595894400.0,
+        "expiration_date": "28-jul-2020",
         "state": "future"
     },
     "thepornvideos.xyz": {
@@ -73037,6 +73047,11 @@
     "xrest.net": {
         "epoch": 1603238400.0,
         "expiration_date": "21-oct-2020",
+        "state": "future"
+    },
+    "xreview.com": {
+        "epoch": 1612915200.0,
+        "expiration_date": "10-feb-2021",
         "state": "future"
     },
     "xrisetube.com": {
