@@ -31714,6 +31714,11 @@
         "expiration_date": "16-jan-2021",
         "state": "future"
     },
+    "imgskull.xyz": {
+        "epoch": 1617148800.0,
+        "expiration_date": "31-mar-2021",
+        "state": "future"
+    },
     "imgspice.com": {
         "epoch": 1602028800.0,
         "expiration_date": "07-oct-2020",
@@ -69732,6 +69737,11 @@
     "vjav.com": {
         "epoch": 1610064000.0,
         "expiration_date": "08-jan-2021",
+        "state": "future"
+    },
+    "vkclip.com": {
+        "epoch": 1591488000.0,
+        "expiration_date": "07-jun-2020",
         "state": "future"
     },
     "vlexokrako.com": {
