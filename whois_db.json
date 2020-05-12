@@ -26399,6 +26399,11 @@
         "expiration_date": "30-dec-2020",
         "state": "future"
     },
+    "go-xxx-go.com": {
+        "epoch": 1600128000.0,
+        "expiration_date": "15-sep-2020",
+        "state": "future"
+    },
     "go2amateur.com": {
         "epoch": 1615248000.0,
         "expiration_date": "09-mar-2021",
@@ -28175,8 +28180,8 @@
         "state": "future"
     },
     "hdpussy.xxx": {
-        "epoch": 1589155200.0,
-        "expiration_date": "11-may-2020",
+        "epoch": 1620691200.0,
+        "expiration_date": "11-may-2021",
         "state": "future"
     },
     "hdqualitymovies.com": {
@@ -39787,6 +39792,11 @@
     "mikecute.com": {
         "epoch": 1621900800.0,
         "expiration_date": "25-may-2021",
+        "state": "future"
+    },
+    "mikesouth.com": {
+        "epoch": 1865808000.0,
+        "expiration_date": "15-feb-2029",
         "state": "future"
     },
     "milanohotels.org": {
