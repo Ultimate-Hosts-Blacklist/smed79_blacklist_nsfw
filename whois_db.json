@@ -10324,6 +10324,11 @@
         "expiration_date": "17-feb-2021",
         "state": "future"
     },
+    "boobspalace.com": {
+        "epoch": 1601164800.0,
+        "expiration_date": "27-sep-2020",
+        "state": "future"
+    },
     "boobspornvideo.com": {
         "epoch": 1593216000.0,
         "expiration_date": "27-jun-2020",
@@ -57962,7 +57967,7 @@
     "sexroid.mobi": {
         "epoch": 1589241600.0,
         "expiration_date": "12-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "sexrura.pl": {
         "epoch": 1603411200.0,
