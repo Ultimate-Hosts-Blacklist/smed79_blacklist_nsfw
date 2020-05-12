@@ -32349,6 +32349,11 @@
         "expiration_date": "02-sep-2020",
         "state": "future"
     },
+    "ipinkvisualpass.com": {
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
     "ipl2017live.online": {
         "epoch": 1599955200.0,
         "expiration_date": "13-sep-2020",
