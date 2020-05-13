@@ -5977,7 +5977,7 @@
     "arabks.com": {
         "epoch": 1589328000.0,
         "expiration_date": "13-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "arabphonesex.com": {
         "epoch": 1603756800.0,
@@ -8142,6 +8142,11 @@
     "beastwomans.com": {
         "epoch": 1618358400.0,
         "expiration_date": "14-apr-2021",
+        "state": "future"
+    },
+    "beastzoo.org": {
+        "epoch": 1602288000.0,
+        "expiration_date": "10-oct-2020",
         "state": "future"
     },
     "beataporn.com": {
@@ -28082,6 +28087,11 @@
     "hdporn69.com": {
         "epoch": 1606089600.0,
         "expiration_date": "23-nov-2020",
+        "state": "future"
+    },
+    "hdporn8.com": {
+        "epoch": 1612224000.0,
+        "expiration_date": "02-feb-2021",
         "state": "future"
     },
     "hdpornclimb.com": {
