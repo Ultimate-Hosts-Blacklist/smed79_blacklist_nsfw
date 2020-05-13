@@ -18505,8 +18505,8 @@
         "state": "future"
     },
     "empireamateurs.com": {
-        "epoch": 1589241600.0,
-        "expiration_date": "12-may-2020",
+        "epoch": 1620777600.0,
+        "expiration_date": "12-may-2021",
         "state": "future"
     },
     "empiredusexe.com": {
@@ -39725,9 +39725,9 @@
         "state": "future"
     },
     "mevanity.com": {
-        "epoch": 1589155200.0,
-        "expiration_date": "11-may-2020",
-        "state": "past"
+        "epoch": 1620691200.0,
+        "expiration_date": "11-may-2021",
+        "state": "future"
     },
     "mexicanvirgin.com": {
         "epoch": 1609200000.0,
@@ -44750,9 +44750,9 @@
         "state": "future"
     },
     "numoms.com": {
-        "epoch": 1589068800.0,
-        "expiration_date": "10-may-2020",
-        "state": "past"
+        "epoch": 1620604800.0,
+        "expiration_date": "10-may-2021",
+        "state": "future"
     },
     "nungav.com": {
         "epoch": 1617062400.0,
@@ -65200,9 +65200,9 @@
         "state": "future"
     },
     "top2culblack.com": {
-        "epoch": 1588809600.0,
-        "expiration_date": "07-may-2020",
-        "state": "past"
+        "epoch": 1620345600.0,
+        "expiration_date": "07-may-2021",
+        "state": "future"
     },
     "top50.com.pl": {
         "epoch": 1597363200.0,
@@ -71377,6 +71377,11 @@
     "wixtube.com": {
         "epoch": 1590883200.0,
         "expiration_date": "31-may-2020",
+        "state": "future"
+    },
+    "wiz69.com": {
+        "epoch": 1621814400.0,
+        "expiration_date": "24-may-2021",
         "state": "future"
     },
     "wiziwig.ru": {
