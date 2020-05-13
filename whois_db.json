@@ -2250,8 +2250,8 @@
         "state": "future"
     },
     "adtrue24.com": {
-        "epoch": 1588982400.0,
-        "expiration_date": "09-may-2020",
+        "epoch": 1620518400.0,
+        "expiration_date": "09-may-2021",
         "state": "future"
     },
     "adult-adv.com": {
@@ -3322,6 +3322,11 @@
     "albumdl.xyz": {
         "epoch": 1603843200.0,
         "expiration_date": "28-oct-2020",
+        "state": "future"
+    },
+    "albumhunt.com": {
+        "epoch": 1601424000.0,
+        "expiration_date": "30-sep-2020",
         "state": "future"
     },
     "alcoporn.com": {
@@ -22102,6 +22107,11 @@
     "firstmobilecash.com": {
         "epoch": 1593648000.0,
         "expiration_date": "02-jul-2020",
+        "state": "future"
+    },
+    "firstrows.xyz": {
+        "epoch": 1620604800.0,
+        "expiration_date": "10-may-2021",
         "state": "future"
     },
     "firstrowsportes.net": {
@@ -41382,7 +41392,7 @@
     "mujeres-desnudas.com": {
         "epoch": 1589328000.0,
         "expiration_date": "13-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "mujeresdesnudas.club": {
         "epoch": 1599609600.0,
@@ -61992,7 +62002,7 @@
     "supersitetime.com": {
         "epoch": 1589241600.0,
         "expiration_date": "12-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "supertangas.com": {
         "epoch": 1614384000.0,
