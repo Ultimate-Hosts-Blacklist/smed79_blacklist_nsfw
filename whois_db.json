@@ -37760,8 +37760,8 @@
         "state": "future"
     },
     "lovesita.com": {
-        "epoch": 1589328000.0,
-        "expiration_date": "13-may-2020",
+        "epoch": 1747094400.0,
+        "expiration_date": "13-may-2025",
         "state": "future"
     },
     "lovevoodoo.com": {
@@ -58557,6 +58557,11 @@
     "sexvek.com": {
         "epoch": 1618099200.0,
         "expiration_date": "11-apr-2021",
+        "state": "future"
+    },
+    "sexveteran.com": {
+        "epoch": 1617840000.0,
+        "expiration_date": "08-apr-2021",
         "state": "future"
     },
     "sexviacam.com": {
