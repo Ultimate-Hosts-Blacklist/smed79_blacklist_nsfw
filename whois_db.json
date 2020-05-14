@@ -40589,6 +40589,11 @@
         "expiration_date": "18-aug-2020",
         "state": "future"
     },
+    "momentosdeprazer.com": {
+        "epoch": 1693353600.0,
+        "expiration_date": "30-aug-2023",
+        "state": "future"
+    },
     "momgals.com": {
         "epoch": 1618704000.0,
         "expiration_date": "18-apr-2021",
@@ -61830,8 +61835,8 @@
         "state": "future"
     },
     "sugarangels.com": {
-        "epoch": 1589155200.0,
-        "expiration_date": "11-may-2020",
+        "epoch": 1620691200.0,
+        "expiration_date": "11-may-2021",
         "state": "future"
     },
     "sugarbabesinternational.com": {
