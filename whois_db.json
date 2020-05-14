@@ -65967,7 +65967,7 @@
     "travelsblog.biz": {
         "epoch": 1589155200.0,
         "expiration_date": "11-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "travesticomlocal.com.br": {
         "epoch": 1868659200.0,
@@ -76522,7 +76522,7 @@
     "zerezas.com": {
         "epoch": 1589414400.0,
         "expiration_date": "14-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "zergnet.com": {
         "epoch": 1701475200.0,
