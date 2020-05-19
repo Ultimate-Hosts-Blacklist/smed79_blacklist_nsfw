@@ -13255,9 +13255,9 @@
         "state": "future"
     },
     "chicaswebcams.com": {
-        "epoch": 1589673600.0,
-        "expiration_date": "17-may-2020",
-        "state": "past"
+        "epoch": 1621209600.0,
+        "expiration_date": "17-may-2021",
+        "state": "future"
     },
     "chicken8.com": {
         "epoch": 1657238400.0,
@@ -16900,8 +16900,8 @@
         "state": "future"
     },
     "dirtyfinder.com": {
-        "epoch": 1589587200.0,
-        "expiration_date": "16-may-2020",
+        "epoch": 1621123200.0,
+        "expiration_date": "16-may-2021",
         "state": "future"
     },
     "dirtygamer.com": {
@@ -43552,7 +43552,7 @@
     "nichedlinks.com": {
         "epoch": 1589760000.0,
         "expiration_date": "18-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "nichefetish.co.uk": {
         "epoch": 1608940800.0,
@@ -50507,6 +50507,11 @@
     "pornodiamant.com": {
         "epoch": 1617494400.0,
         "expiration_date": "04-apr-2021",
+        "state": "future"
+    },
+    "pornodingue.com": {
+        "epoch": 1615248000.0,
+        "expiration_date": "09-mar-2021",
         "state": "future"
     },
     "pornodoido.com": {
