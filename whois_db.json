@@ -7849,6 +7849,11 @@
         "expiration_date": "14-apr-2022",
         "state": "future"
     },
+    "bannedcelebs.us": {
+        "epoch": 1621209600.0,
+        "expiration_date": "17-may-2021",
+        "state": "future"
+    },
     "bannedsextapes.com": {
         "epoch": 1597622400.0,
         "expiration_date": "17-aug-2020",
@@ -27582,7 +27587,7 @@
     "hardcoredumper.com": {
         "epoch": 1589846400.0,
         "expiration_date": "19-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "hardcoregayblog.com": {
         "epoch": 1627430400.0,
@@ -36290,8 +36295,8 @@
         "state": "future"
     },
     "lemmecheck.link": {
-        "epoch": 1589760000.0,
-        "expiration_date": "18-may-2020",
+        "epoch": 1621296000.0,
+        "expiration_date": "18-may-2021",
         "state": "future"
     },
     "lemmecheck.xxx": {
@@ -46575,8 +46580,8 @@
         "state": "future"
     },
     "passlist.net": {
-        "epoch": 1589414400.0,
-        "expiration_date": "14-may-2020",
+        "epoch": 1620950400.0,
+        "expiration_date": "14-may-2021",
         "state": "future"
     },
     "passpix.com": {
@@ -65099,6 +65104,11 @@
         "expiration_date": "02-apr-2021",
         "state": "future"
     },
+    "to-porno.com": {
+        "epoch": 1594425600.0,
+        "expiration_date": "11-jul-2020",
+        "state": "future"
+    },
     "to-satsu.com": {
         "epoch": 1615593600.0,
         "expiration_date": "13-mar-2021",
@@ -72735,8 +72745,8 @@
         "state": "future"
     },
     "xnalgas.com": {
-        "epoch": 1589760000.0,
-        "expiration_date": "18-may-2020",
+        "epoch": 1621296000.0,
+        "expiration_date": "18-may-2021",
         "state": "future"
     },
     "xnnxfree.com": {
