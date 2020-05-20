@@ -2104,6 +2104,11 @@
         "expiration_date": "07-oct-2020",
         "state": "future"
     },
+    "acompanhantesdoprazerevora.pt": {
+        "epoch": 1588291200.0,
+        "expiration_date": "01-may-2020",
+        "state": "past"
+    },
     "acompanhantesmadeira.com": {
         "epoch": 1619222400.0,
         "expiration_date": "24-apr-2021",
@@ -13460,9 +13465,9 @@
         "state": "future"
     },
     "chrono24.it": {
-        "epoch": 1588377600.0,
-        "expiration_date": "02-may-2020",
-        "state": "past"
+        "epoch": 1619913600.0,
+        "expiration_date": "02-may-2021",
+        "state": "future"
     },
     "chrono24.kr": {
         "epoch": 1616112000.0,
@@ -41117,7 +41122,7 @@
     "movies-porn-xxx.com": {
         "epoch": 1589932800.0,
         "expiration_date": "20-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "movies4adults.com": {
         "epoch": 1612569600.0,
@@ -41230,8 +41235,8 @@
         "state": "future"
     },
     "mpegjoy.com": {
-        "epoch": 1589328000.0,
-        "expiration_date": "13-may-2020",
+        "epoch": 1620864000.0,
+        "expiration_date": "13-may-2021",
         "state": "future"
     },
     "mplhunter.com": {
@@ -61830,9 +61835,9 @@
         "state": "future"
     },
     "sublimedirectory.com": {
-        "epoch": 1589414400.0,
-        "expiration_date": "14-may-2020",
-        "state": "past"
+        "epoch": 1620950400.0,
+        "expiration_date": "14-may-2021",
+        "state": "future"
     },
     "sublimemovies.com": {
         "epoch": 1597795200.0,
