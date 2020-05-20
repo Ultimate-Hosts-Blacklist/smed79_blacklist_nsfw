@@ -2769,6 +2769,11 @@
         "expiration_date": "27-jan-2021",
         "state": "future"
     },
+    "adultrental.com": {
+        "epoch": 1621900800.0,
+        "expiration_date": "25-may-2021",
+        "state": "future"
+    },
     "adultrevenueservice.com": {
         "epoch": 1596931200.0,
         "expiration_date": "09-aug-2020",
@@ -28285,9 +28290,9 @@
         "state": "future"
     },
     "hdsextube2.com": {
-        "epoch": 1589155200.0,
-        "expiration_date": "11-may-2020",
-        "state": "past"
+        "epoch": 1620691200.0,
+        "expiration_date": "11-may-2021",
+        "state": "future"
     },
     "hdsexvideo.xxx": {
         "epoch": 1682899200.0,
@@ -40175,8 +40180,8 @@
         "state": "future"
     },
     "milovana.com": {
-        "epoch": 1589587200.0,
-        "expiration_date": "16-may-2020",
+        "epoch": 1621123200.0,
+        "expiration_date": "16-may-2021",
         "state": "future"
     },
     "milta1980.co.uk": {
