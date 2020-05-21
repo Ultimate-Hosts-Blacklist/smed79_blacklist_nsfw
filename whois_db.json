@@ -27947,7 +27947,7 @@
     "hclips.net": {
         "epoch": 1590019200.0,
         "expiration_date": "21-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "hd-analporn.com": {
         "epoch": 1591488000.0,
@@ -76605,9 +76605,9 @@
         "state": "future"
     },
     "zerezas.com": {
-        "epoch": 1589414400.0,
-        "expiration_date": "14-may-2020",
-        "state": "past"
+        "epoch": 1620950400.0,
+        "expiration_date": "14-may-2021",
+        "state": "future"
     },
     "zergnet.com": {
         "epoch": 1701475200.0,
