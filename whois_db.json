@@ -13444,6 +13444,11 @@
         "expiration_date": "26-oct-2020",
         "state": "future"
     },
+    "chrono24.com": {
+        "epoch": 1676505600.0,
+        "expiration_date": "16-feb-2023",
+        "state": "future"
+    },
     "chrono24.com.br": {
         "epoch": 1615334400.0,
         "expiration_date": "10-mar-2021",
@@ -24780,8 +24785,8 @@
         "state": "future"
     },
     "funnymature.com": {
-        "epoch": 1589932800.0,
-        "expiration_date": "20-may-2020",
+        "epoch": 1621468800.0,
+        "expiration_date": "20-may-2021",
         "state": "future"
     },
     "funnymomstube.com": {
@@ -56602,7 +56607,7 @@
     "seemygf.com": {
         "epoch": 1590019200.0,
         "expiration_date": "21-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "seemyporn.com": {
         "epoch": 1611532800.0,
@@ -62520,8 +62525,8 @@
         "state": "future"
     },
     "sy-do-ni-an.com": {
-        "epoch": 1589760000.0,
-        "expiration_date": "18-may-2020",
+        "epoch": 1621296000.0,
+        "expiration_date": "18-may-2021",
         "state": "future"
     },
     "sybianlounge.com": {
