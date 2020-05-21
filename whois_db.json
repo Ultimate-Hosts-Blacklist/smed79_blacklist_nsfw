@@ -3634,6 +3634,11 @@
         "expiration_date": "22-jun-2020",
         "state": "future"
     },
+    "allkarups.com": {
+        "epoch": 1597363200.0,
+        "expiration_date": "14-aug-2020",
+        "state": "future"
+    },
     "allkindsofxxx.com": {
         "epoch": 1608249600.0,
         "expiration_date": "18-dec-2020",
@@ -39457,7 +39462,7 @@
     "megafiga.com": {
         "epoch": 1590019200.0,
         "expiration_date": "21-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "megafreepics.com": {
         "epoch": 1616544000.0,
@@ -53660,8 +53665,8 @@
         "state": "future"
     },
     "qerotica.com": {
-        "epoch": 1589760000.0,
-        "expiration_date": "18-may-2020",
+        "epoch": 1621296000.0,
+        "expiration_date": "18-may-2021",
         "state": "future"
     },
     "qkp2p.com": {
