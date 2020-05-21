@@ -41527,7 +41527,7 @@
     "musclehunks.com": {
         "epoch": 1590019200.0,
         "expiration_date": "21-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "museumofsex.com": {
         "epoch": 1712707200.0,
@@ -56420,8 +56420,8 @@
         "state": "future"
     },
     "searchingresult.com": {
-        "epoch": 1589328000.0,
-        "expiration_date": "13-may-2020",
+        "epoch": 1620864000.0,
+        "expiration_date": "13-may-2021",
         "state": "future"
     },
     "searchinquire.com": {
@@ -57830,8 +57830,8 @@
         "state": "future"
     },
     "sexlovestube.com": {
-        "epoch": 1589932800.0,
-        "expiration_date": "20-may-2020",
+        "epoch": 1621468800.0,
+        "expiration_date": "20-may-2021",
         "state": "future"
     },
     "sexloving.net": {
@@ -67345,9 +67345,9 @@
         "state": "future"
     },
     "turdgasm.com": {
-        "epoch": 1589587200.0,
-        "expiration_date": "16-may-2020",
-        "state": "past"
+        "epoch": 1621123200.0,
+        "expiration_date": "16-may-2021",
+        "state": "future"
     },
     "turnonlondon.com": {
         "epoch": 1793145600.0,
