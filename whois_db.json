@@ -2115,8 +2115,8 @@
         "state": "future"
     },
     "acompanhantez.com": {
-        "epoch": 1589500800.0,
-        "expiration_date": "15-may-2020",
+        "epoch": 1621036800.0,
+        "expiration_date": "15-may-2021",
         "state": "future"
     },
     "actiongirls.com": {
@@ -57162,6 +57162,11 @@
     "sexcartoon.biz": {
         "epoch": 1645920000.0,
         "expiration_date": "27-feb-2022",
+        "state": "future"
+    },
+    "sexcess.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
         "state": "future"
     },
     "sexcess.net": {
