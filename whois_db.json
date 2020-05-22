@@ -4455,8 +4455,8 @@
         "state": "future"
     },
     "amateurxtv.com": {
-        "epoch": 1589673600.0,
-        "expiration_date": "17-may-2020",
+        "epoch": 1621209600.0,
+        "expiration_date": "17-may-2021",
         "state": "future"
     },
     "amateurxxxempire.com": {
@@ -17882,7 +17882,7 @@
     "dumpyourvid.com": {
         "epoch": 1590105600.0,
         "expiration_date": "22-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "dungeonvirgins.com": {
         "epoch": 1594684800.0,
