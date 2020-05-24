@@ -2410,8 +2410,8 @@
         "state": "future"
     },
     "adultcao.com": {
-        "epoch": 1589760000.0,
-        "expiration_date": "18-may-2020",
+        "epoch": 1621296000.0,
+        "expiration_date": "18-may-2021",
         "state": "future"
     },
     "adultcash.com": {
@@ -19560,8 +19560,8 @@
         "state": "future"
     },
     "escortwebsite.com": {
-        "epoch": 1590192000.0,
-        "expiration_date": "23-may-2020",
+        "epoch": 1621728000.0,
+        "expiration_date": "23-may-2021",
         "state": "future"
     },
     "esecure-transaction.com": {
@@ -42247,7 +42247,7 @@
     "mypornstarbook.net": {
         "epoch": 1590278400.0,
         "expiration_date": "24-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "myporntrip.com": {
         "epoch": 1609027200.0,
@@ -42270,8 +42270,8 @@
         "state": "future"
     },
     "mypreciousvirgins.com": {
-        "epoch": 1590192000.0,
-        "expiration_date": "23-may-2020",
+        "epoch": 1621728000.0,
+        "expiration_date": "23-may-2021",
         "state": "future"
     },
     "mypreggo.com": {
@@ -47290,8 +47290,8 @@
         "state": "future"
     },
     "photos-filles-nues.com": {
-        "epoch": 1589587200.0,
-        "expiration_date": "16-may-2020",
+        "epoch": 1621123200.0,
+        "expiration_date": "16-may-2021",
         "state": "future"
     },
     "photosdematures.com": {
@@ -65460,9 +65460,9 @@
         "state": "future"
     },
     "topcochonne.com": {
-        "epoch": 1583452800.0,
-        "expiration_date": "06-mar-2020",
-        "state": "past"
+        "epoch": 1621641600.0,
+        "expiration_date": "22-may-2021",
+        "state": "future"
     },
     "topdamas.com": {
         "epoch": 1649376000.0,
@@ -73102,6 +73102,11 @@
     "xoporntubes.com": {
         "epoch": 1596758400.0,
         "expiration_date": "07-aug-2020",
+        "state": "future"
+    },
+    "xossip.com": {
+        "epoch": 1603843200.0,
+        "expiration_date": "28-oct-2020",
         "state": "future"
     },
     "xoteens.com": {
