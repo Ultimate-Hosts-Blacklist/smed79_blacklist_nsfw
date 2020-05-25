@@ -22917,7 +22917,7 @@
     "free-mature-sex.net": {
         "epoch": 1590364800.0,
         "expiration_date": "25-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "free-matures.com": {
         "epoch": 1609027200.0,
@@ -35080,8 +35080,8 @@
         "state": "future"
     },
     "kikuzip.com": {
-        "epoch": 1590192000.0,
-        "expiration_date": "23-may-2020",
+        "epoch": 1621728000.0,
+        "expiration_date": "23-may-2021",
         "state": "future"
     },
     "kill-porn.com": {
