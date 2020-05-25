@@ -2690,9 +2690,9 @@
         "state": "future"
     },
     "adultlinkexchange.com": {
-        "epoch": 1590278400.0,
-        "expiration_date": "24-may-2020",
-        "state": "past"
+        "epoch": 1621814400.0,
+        "expiration_date": "24-may-2021",
+        "state": "future"
     },
     "adultlinks.co.za": {
         "epoch": 1598832000.0,
@@ -22475,8 +22475,8 @@
         "state": "future"
     },
     "flodonas.com": {
-        "epoch": 1589932800.0,
-        "expiration_date": "20-may-2020",
+        "epoch": 1621468800.0,
+        "expiration_date": "20-may-2021",
         "state": "future"
     },
     "floozytube.com": {
