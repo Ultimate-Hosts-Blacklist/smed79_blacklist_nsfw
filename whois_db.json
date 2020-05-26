@@ -1350,9 +1350,9 @@
         "state": "future"
     },
     "4tube.tech": {
-        "epoch": 1586476800.0,
-        "expiration_date": "10-apr-2020",
-        "state": "past"
+        "epoch": 1621123200.0,
+        "expiration_date": "16-may-2021",
+        "state": "future"
     },
     "4tubehd.com": {
         "epoch": 1604102400.0,
@@ -4860,8 +4860,8 @@
         "state": "future"
     },
     "angeladevi.com": {
-        "epoch": 1590105600.0,
-        "expiration_date": "22-may-2020",
+        "epoch": 1621641600.0,
+        "expiration_date": "22-may-2021",
         "state": "future"
     },
     "angelagrant.com": {
@@ -11735,9 +11735,9 @@
         "state": "future"
     },
     "camaquente.com.br": {
-        "epoch": 1588809600.0,
-        "expiration_date": "07-may-2020",
-        "state": "past"
+        "epoch": 1620345600.0,
+        "expiration_date": "07-may-2021",
+        "state": "future"
     },
     "camarads.com": {
         "epoch": 1602892800.0,
@@ -34255,9 +34255,9 @@
         "state": "future"
     },
     "joeporn.mobi": {
-        "epoch": 1589932800.0,
-        "expiration_date": "20-may-2020",
-        "state": "past"
+        "epoch": 1621468800.0,
+        "expiration_date": "20-may-2021",
+        "state": "future"
     },
     "johnnycastleunleashed.com": {
         "epoch": 1594684800.0,
@@ -70467,7 +70467,7 @@
     "wankz.com": {
         "epoch": 1590364800.0,
         "expiration_date": "25-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "wankzvr.com": {
         "epoch": 1596326400.0,
