@@ -3330,8 +3330,8 @@
         "state": "future"
     },
     "albagals.com": {
-        "epoch": 1589673600.0,
-        "expiration_date": "17-may-2020",
+        "epoch": 1621209600.0,
+        "expiration_date": "17-may-2021",
         "state": "future"
     },
     "albumdl.xyz": {
@@ -69562,7 +69562,7 @@
     "virginidad.com": {
         "epoch": 1590451200.0,
         "expiration_date": "26-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "virginiecaprice.com": {
         "epoch": 1612569600.0,
