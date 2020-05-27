@@ -4590,8 +4590,8 @@
         "state": "future"
     },
     "amsterdam-webcams.com": {
-        "epoch": 1590451200.0,
-        "expiration_date": "26-may-2020",
+        "epoch": 1621987200.0,
+        "expiration_date": "26-may-2021",
         "state": "future"
     },
     "amsterdamned.com": {
@@ -53817,7 +53817,7 @@
     "quitoplan.com.br": {
         "epoch": 1590364800.0,
         "expiration_date": "25-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "quotisexe.com": {
         "epoch": 1593216000.0,
