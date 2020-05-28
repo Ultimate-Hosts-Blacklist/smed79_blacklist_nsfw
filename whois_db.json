@@ -30825,8 +30825,8 @@
         "state": "future"
     },
     "htubes.com": {
-        "epoch": 1590537600.0,
-        "expiration_date": "27-may-2020",
+        "epoch": 1622073600.0,
+        "expiration_date": "27-may-2021",
         "state": "future"
     },
     "htvanime.com": {
@@ -30837,7 +30837,7 @@
     "htvassets.club": {
         "epoch": 1590624000.0,
         "expiration_date": "28-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "hub8.pw": {
         "epoch": 1611878400.0,
