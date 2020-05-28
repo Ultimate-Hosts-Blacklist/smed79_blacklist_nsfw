@@ -1615,8 +1615,8 @@
         "state": "future"
     },
     "7cow.com": {
-        "epoch": 1590451200.0,
-        "expiration_date": "26-may-2020",
+        "epoch": 1621987200.0,
+        "expiration_date": "26-may-2021",
         "state": "future"
     },
     "7dogtube.com": {
@@ -36480,8 +36480,8 @@
         "state": "future"
     },
     "lesbianbabestube.com": {
-        "epoch": 1590537600.0,
-        "expiration_date": "27-may-2020",
+        "epoch": 1622073600.0,
+        "expiration_date": "27-may-2021",
         "state": "future"
     },
     "lesbianfacesitters.com": {
@@ -53967,7 +53967,7 @@
     "ranaporno.com": {
         "epoch": 1590624000.0,
         "expiration_date": "28-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "randomarchive.com": {
         "epoch": 1616284800.0,
@@ -54750,8 +54750,8 @@
         "state": "future"
     },
     "redporno.cz": {
-        "epoch": 1590624000.0,
-        "expiration_date": "28-may-2020",
+        "epoch": 1622160000.0,
+        "expiration_date": "28-may-2021",
         "state": "future"
     },
     "redporntube.com": {
@@ -67280,8 +67280,8 @@
         "state": "future"
     },
     "tubixx.com": {
-        "epoch": 1590537600.0,
-        "expiration_date": "27-may-2020",
+        "epoch": 1622073600.0,
+        "expiration_date": "27-may-2021",
         "state": "future"
     },
     "tuboff.com": {
@@ -73990,9 +73990,9 @@
         "state": "future"
     },
     "xxx-picture.com": {
-        "epoch": 1589932800.0,
-        "expiration_date": "20-may-2020",
-        "state": "past"
+        "epoch": 1621468800.0,
+        "expiration_date": "20-may-2021",
+        "state": "future"
     },
     "xxx-porntube.com": {
         "epoch": 1606867200.0,
@@ -76447,6 +76447,11 @@
     "youxclip.com": {
         "epoch": 1591833600.0,
         "expiration_date": "11-jun-2020",
+        "state": "future"
+    },
+    "youxvideos.net": {
+        "epoch": 1621209600.0,
+        "expiration_date": "17-may-2021",
         "state": "future"
     },
     "yoxhub.com": {
