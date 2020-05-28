@@ -13892,7 +13892,7 @@
     "clubcharismaxxx.com": {
         "epoch": 1590624000.0,
         "expiration_date": "28-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "clubglamour.net": {
         "epoch": 1594252800.0,
@@ -19665,8 +19665,8 @@
         "state": "future"
     },
     "euamonudes.com": {
-        "epoch": 1590278400.0,
-        "expiration_date": "24-may-2020",
+        "epoch": 1621814400.0,
+        "expiration_date": "24-may-2021",
         "state": "future"
     },
     "eunuch.org": {
