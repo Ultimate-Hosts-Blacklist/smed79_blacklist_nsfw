@@ -15950,8 +15950,8 @@
         "state": "future"
     },
     "darwarvid.com": {
-        "epoch": 1590624000.0,
-        "expiration_date": "28-may-2020",
+        "epoch": 1622160000.0,
+        "expiration_date": "28-may-2021",
         "state": "future"
     },
     "dasistnews.net": {
@@ -47275,8 +47275,8 @@
         "state": "future"
     },
     "photodromm.com": {
-        "epoch": 1590537600.0,
-        "expiration_date": "27-may-2020",
+        "epoch": 1716768000.0,
+        "expiration_date": "27-may-2024",
         "state": "future"
     },
     "photoescorts.com": {
@@ -57717,6 +57717,11 @@
     "sexhubhd.com": {
         "epoch": 1613692800.0,
         "expiration_date": "19-feb-2021",
+        "state": "future"
+    },
+    "sexia.tv": {
+        "epoch": 1601424000.0,
+        "expiration_date": "30-sep-2020",
         "state": "future"
     },
     "sexiba.com": {
@@ -76710,9 +76715,9 @@
         "state": "future"
     },
     "zipropyl.com": {
-        "epoch": 1590624000.0,
-        "expiration_date": "28-may-2020",
-        "state": "past"
+        "epoch": 1622160000.0,
+        "expiration_date": "28-may-2021",
+        "state": "future"
     },
     "zishy.com": {
         "epoch": 1602633600.0,
