@@ -17292,7 +17292,7 @@
     "dominawebcams.com": {
         "epoch": 1590796800.0,
         "expiration_date": "30-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "dominika-c.com": {
         "epoch": 1680480000.0,
@@ -40382,7 +40382,7 @@
     "mistresswebcams.com": {
         "epoch": 1590796800.0,
         "expiration_date": "30-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "mistygates.com": {
         "epoch": 1594857600.0,
