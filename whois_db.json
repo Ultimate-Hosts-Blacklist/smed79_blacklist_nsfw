@@ -17287,7 +17287,7 @@
     "dominationwebcams.com": {
         "epoch": 1590796800.0,
         "expiration_date": "30-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "dominawebcams.com": {
         "epoch": 1590796800.0,
@@ -67572,7 +67572,7 @@
     "twizporn.com": {
         "epoch": 1590710400.0,
         "expiration_date": "29-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "two-lips.com": {
         "epoch": 1602028800.0,
