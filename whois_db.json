@@ -36545,8 +36545,8 @@
         "state": "future"
     },
     "lesbiennestv.com": {
-        "epoch": 1590624000.0,
-        "expiration_date": "28-may-2020",
+        "epoch": 1622160000.0,
+        "expiration_date": "28-may-2021",
         "state": "future"
     },
     "lesbiennesvideo.com": {
@@ -76790,9 +76790,9 @@
         "state": "future"
     },
     "zonaxl.com": {
-        "epoch": 1590278400.0,
-        "expiration_date": "24-may-2020",
-        "state": "past"
+        "epoch": 1621814400.0,
+        "expiration_date": "24-may-2021",
+        "state": "future"
     },
     "zone-adultes.net": {
         "epoch": 1630454400.0,
