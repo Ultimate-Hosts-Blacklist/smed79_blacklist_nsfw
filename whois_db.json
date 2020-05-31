@@ -14140,8 +14140,8 @@
         "state": "future"
     },
     "col.fr": {
-        "epoch": 1590883200.0,
-        "expiration_date": "31-may-2020",
+        "epoch": 1622419200.0,
+        "expiration_date": "31-may-2021",
         "state": "future"
     },
     "coldhardcash.com": {
@@ -41555,9 +41555,9 @@
         "state": "future"
     },
     "musclehunks.com": {
-        "epoch": 1590019200.0,
-        "expiration_date": "21-may-2020",
-        "state": "past"
+        "epoch": 1621555200.0,
+        "expiration_date": "21-may-2021",
+        "state": "future"
     },
     "museumofsex.com": {
         "epoch": 1712707200.0,
