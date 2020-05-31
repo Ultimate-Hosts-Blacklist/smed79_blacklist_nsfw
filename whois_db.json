@@ -2355,8 +2355,8 @@
         "state": "future"
     },
     "adultadbroker.com": {
-        "epoch": 1590710400.0,
-        "expiration_date": "29-may-2020",
+        "epoch": 1653782400.0,
+        "expiration_date": "29-may-2022",
         "state": "future"
     },
     "adultads.biz": {
@@ -13890,9 +13890,9 @@
         "state": "future"
     },
     "clubcharismaxxx.com": {
-        "epoch": 1590624000.0,
-        "expiration_date": "28-may-2020",
-        "state": "past"
+        "epoch": 1622160000.0,
+        "expiration_date": "28-may-2021",
+        "state": "future"
     },
     "clubglamour.net": {
         "epoch": 1594252800.0,
@@ -18307,7 +18307,7 @@
     "elangelito.com": {
         "epoch": 1590883200.0,
         "expiration_date": "31-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "elarcadeanna.com": {
         "epoch": 1592784000.0,
