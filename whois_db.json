@@ -15340,8 +15340,8 @@
         "state": "future"
     },
     "cyberbaiseuses.com": {
-        "epoch": 1590710400.0,
-        "expiration_date": "29-may-2020",
+        "epoch": 1622246400.0,
+        "expiration_date": "29-may-2021",
         "state": "future"
     },
     "cybererotica.com": {
@@ -47287,6 +47287,11 @@
     "photoescorts.com": {
         "epoch": 1735171200.0,
         "expiration_date": "26-dec-2024",
+        "state": "future"
+    },
+    "photomodels.com.pt": {
+        "epoch": 1592265600.0,
+        "expiration_date": "16-jun-2020",
         "state": "future"
     },
     "photonaturals.com": {
