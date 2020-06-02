@@ -30715,9 +30715,9 @@
         "state": "future"
     },
     "hqporntv.com": {
-        "epoch": 1590796800.0,
-        "expiration_date": "30-may-2020",
-        "state": "past"
+        "epoch": 1622332800.0,
+        "expiration_date": "30-may-2021",
+        "state": "future"
     },
     "hqprn.com": {
         "epoch": 1604880000.0,
@@ -43487,7 +43487,7 @@
     "nextdoorgrannies.co.uk": {
         "epoch": 1591056000.0,
         "expiration_date": "02-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "nextdoormaria.com": {
         "epoch": 1614643200.0,
@@ -53825,9 +53825,9 @@
         "state": "future"
     },
     "quitoplan.com.br": {
-        "epoch": 1590364800.0,
-        "expiration_date": "25-may-2020",
-        "state": "past"
+        "epoch": 1621900800.0,
+        "expiration_date": "25-may-2021",
+        "state": "future"
     },
     "quotisexe.com": {
         "epoch": 1593216000.0,
@@ -57027,7 +57027,7 @@
     "sexad.net": {
         "epoch": 1591056000.0,
         "expiration_date": "02-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "sexadonf.org": {
         "epoch": 1594598400.0,
