@@ -11660,8 +11660,8 @@
         "state": "future"
     },
     "californiavirgins.com": {
-        "epoch": 1590969600.0,
-        "expiration_date": "01-jun-2020",
+        "epoch": 1622505600.0,
+        "expiration_date": "01-jun-2021",
         "state": "future"
     },
     "call-kelly.com": {
@@ -17285,9 +17285,9 @@
         "state": "future"
     },
     "dominationwebcams.com": {
-        "epoch": 1590796800.0,
-        "expiration_date": "30-may-2020",
-        "state": "past"
+        "epoch": 1622332800.0,
+        "expiration_date": "30-may-2021",
+        "state": "future"
     },
     "dominawebcams.com": {
         "epoch": 1622332800.0,
@@ -39457,7 +39457,7 @@
     "megabobs.com": {
         "epoch": 1591056000.0,
         "expiration_date": "02-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "megaboobsgirls.com": {
         "epoch": 1597276800.0,
