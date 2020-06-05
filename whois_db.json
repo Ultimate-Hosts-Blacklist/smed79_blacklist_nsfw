@@ -13587,7 +13587,7 @@
     "cineamador.com": {
         "epoch": 1591315200.0,
         "expiration_date": "05-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "cinemaden.com": {
         "epoch": 1611878400.0,
@@ -34785,8 +34785,8 @@
         "state": "future"
     },
     "kaktuz.com": {
-        "epoch": 1591228800.0,
-        "expiration_date": "04-jun-2020",
+        "epoch": 1622764800.0,
+        "expiration_date": "04-jun-2021",
         "state": "future"
     },
     "kamapisachi.com": {
