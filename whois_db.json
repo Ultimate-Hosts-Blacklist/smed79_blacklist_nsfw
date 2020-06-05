@@ -28602,7 +28602,7 @@
     "hentai-only.com": {
         "epoch": 1591315200.0,
         "expiration_date": "05-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "hentai-paradise.com": {
         "epoch": 1595030400.0,
@@ -53505,8 +53505,8 @@
         "state": "future"
     },
     "pussyobsession.com": {
-        "epoch": 1591228800.0,
-        "expiration_date": "04-jun-2020",
+        "epoch": 1622764800.0,
+        "expiration_date": "04-jun-2021",
         "state": "future"
     },
     "pussypics.net": {
@@ -56647,6 +56647,11 @@
     "seexxxnow.net": {
         "epoch": 1608336000.0,
         "expiration_date": "19-dec-2020",
+        "state": "future"
+    },
+    "segredosdeluxo.pt": {
+        "epoch": 1603324800.0,
+        "expiration_date": "22-oct-2020",
         "state": "future"
     },
     "sehiba.com": {
