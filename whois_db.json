@@ -3690,8 +3690,8 @@
         "state": "future"
     },
     "alloplancul.fr": {
-        "epoch": 1591488000.0,
-        "expiration_date": "07-jun-2020",
+        "epoch": 1623024000.0,
+        "expiration_date": "07-jun-2021",
         "state": "future"
     },
     "allover30.com": {
@@ -14200,8 +14200,8 @@
         "state": "future"
     },
     "college-webcams.com": {
-        "epoch": 1591401600.0,
-        "expiration_date": "06-jun-2020",
+        "epoch": 1622937600.0,
+        "expiration_date": "06-jun-2021",
         "state": "future"
     },
     "college60.com": {
@@ -18515,9 +18515,9 @@
         "state": "future"
     },
     "eminotobursa.com": {
-        "epoch": 1591401600.0,
-        "expiration_date": "06-jun-2020",
-        "state": "past"
+        "epoch": 1622937600.0,
+        "expiration_date": "06-jun-2021",
+        "state": "future"
     },
     "emmabeautyblog.com": {
         "epoch": 1620518400.0,
