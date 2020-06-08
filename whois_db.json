@@ -9397,7 +9397,7 @@
     "bikini-pleasure.com": {
         "epoch": 1591574400.0,
         "expiration_date": "08-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "bikini.com": {
         "epoch": 1620000000.0,
@@ -31047,7 +31047,7 @@
     "hxctv27.com": {
         "epoch": 1591574400.0,
         "expiration_date": "08-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "hyperdreams.com": {
         "epoch": 1638403200.0,
@@ -60962,7 +60962,7 @@
     "spandexqueens.com": {
         "epoch": 1591574400.0,
         "expiration_date": "08-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "spandexworkout.com": {
         "epoch": 1595116800.0,
