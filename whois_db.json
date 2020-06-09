@@ -51445,8 +51445,8 @@
         "state": "future"
     },
     "pornpuma.com": {
-        "epoch": 1591660800.0,
-        "expiration_date": "09-jun-2020",
+        "epoch": 1623196800.0,
+        "expiration_date": "09-jun-2021",
         "state": "future"
     },
     "pornpy.com": {
@@ -76517,7 +76517,7 @@
     "yubuporn.com": {
         "epoch": 1591660800.0,
         "expiration_date": "09-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "yuckporn.com": {
         "epoch": 1611273600.0,
