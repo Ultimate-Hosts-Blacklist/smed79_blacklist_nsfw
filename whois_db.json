@@ -2360,8 +2360,8 @@
         "state": "future"
     },
     "adultads.biz": {
-        "epoch": 1591660800.0,
-        "expiration_date": "09-jun-2020",
+        "epoch": 1623196800.0,
+        "expiration_date": "09-jun-2021",
         "state": "future"
     },
     "adultadworld.com": {
@@ -6045,9 +6045,9 @@
         "state": "future"
     },
     "arabsexvideo.net": {
-        "epoch": 1591401600.0,
-        "expiration_date": "06-jun-2020",
-        "state": "past"
+        "epoch": 1622937600.0,
+        "expiration_date": "06-jun-2021",
+        "state": "future"
     },
     "arabsexweb.com": {
         "epoch": 1619222400.0,
@@ -31045,9 +31045,9 @@
         "state": "future"
     },
     "hxctv27.com": {
-        "epoch": 1591574400.0,
-        "expiration_date": "08-jun-2020",
-        "state": "past"
+        "epoch": 1623110400.0,
+        "expiration_date": "08-jun-2021",
+        "state": "future"
     },
     "hyperdreams.com": {
         "epoch": 1638403200.0,
