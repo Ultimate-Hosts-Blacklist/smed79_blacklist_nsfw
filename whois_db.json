@@ -35557,7 +35557,7 @@
     "l-virgin.com": {
         "epoch": 1591660800.0,
         "expiration_date": "09-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "l-virgin.info": {
         "epoch": 1595721600.0,
@@ -37650,8 +37650,8 @@
         "state": "future"
     },
     "lookatbdsm.com": {
-        "epoch": 1591488000.0,
-        "expiration_date": "07-jun-2020",
+        "epoch": 1623024000.0,
+        "expiration_date": "07-jun-2021",
         "state": "future"
     },
     "lookforporn.com": {
@@ -73855,9 +73855,9 @@
         "state": "future"
     },
     "xxflix.xyz": {
-        "epoch": 1591574400.0,
-        "expiration_date": "08-jun-2020",
-        "state": "past"
+        "epoch": 1623110400.0,
+        "expiration_date": "08-jun-2021",
+        "state": "future"
     },
     "xxgasm.com": {
         "epoch": 1618099200.0,
