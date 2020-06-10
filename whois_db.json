@@ -1757,7 +1757,7 @@
     "9m.com.br": {
         "epoch": 1591228800.0,
         "expiration_date": "04-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "9xrockers.co": {
         "epoch": 1608768000.0,
