@@ -28612,7 +28612,7 @@
     "hentai-paradise.fr": {
         "epoch": 1591833600.0,
         "expiration_date": "11-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "hentai-revelation.com": {
         "epoch": 1602201600.0,
@@ -69132,7 +69132,7 @@
     "vidsexe.com": {
         "epoch": 1591833600.0,
         "expiration_date": "11-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "vidsguide.com": {
         "epoch": 1622419200.0,
@@ -77100,9 +77100,9 @@
         "state": "future"
     },
     "zzitube.com": {
-        "epoch": 1585180800.0,
-        "expiration_date": "26-mar-2020",
-        "state": "past"
+        "epoch": 1622592000.0,
+        "expiration_date": "02-jun-2021",
+        "state": "future"
     },
     "zzpornozz.xyz": {
         "epoch": 1597017600.0,
