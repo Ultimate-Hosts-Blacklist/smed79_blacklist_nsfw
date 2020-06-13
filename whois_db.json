@@ -305,8 +305,8 @@
         "state": "future"
     },
     "18freshteenies.com": {
-        "epoch": 1591660800.0,
-        "expiration_date": "09-jun-2020",
+        "epoch": 1623196800.0,
+        "expiration_date": "09-jun-2021",
         "state": "future"
     },
     "18girlsex.net": {
@@ -24737,7 +24737,7 @@
     "funchatline.com": {
         "epoch": 1592006400.0,
         "expiration_date": "13-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "funfactory.com": {
         "epoch": 1610150400.0,
