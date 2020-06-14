@@ -1720,8 +1720,8 @@
         "state": "future"
     },
     "8thstreetlatinas.com": {
-        "epoch": 1592092800.0,
-        "expiration_date": "14-jun-2020",
+        "epoch": 1623628800.0,
+        "expiration_date": "14-jun-2021",
         "state": "future"
     },
     "91jav.com": {
@@ -13750,9 +13750,9 @@
         "state": "future"
     },
     "clipface.com": {
-        "epoch": 1585958400.0,
-        "expiration_date": "04-apr-2020",
-        "state": "past"
+        "epoch": 1623542400.0,
+        "expiration_date": "13-jun-2021",
+        "state": "future"
     },
     "cliphunter.com": {
         "epoch": 1596672000.0,
@@ -19735,8 +19735,8 @@
         "state": "future"
     },
     "eurolive.com": {
-        "epoch": 1592092800.0,
-        "expiration_date": "14-jun-2020",
+        "epoch": 1623628800.0,
+        "expiration_date": "14-jun-2021",
         "state": "future"
     },
     "eurolive.pro": {
@@ -35395,9 +35395,9 @@
         "state": "future"
     },
     "konyamasajsalonum.xyz": {
-        "epoch": 1592006400.0,
-        "expiration_date": "13-jun-2020",
-        "state": "past"
+        "epoch": 1623542400.0,
+        "expiration_date": "13-jun-2021",
+        "state": "future"
     },
     "kookporn.com": {
         "epoch": 1595808000.0,
