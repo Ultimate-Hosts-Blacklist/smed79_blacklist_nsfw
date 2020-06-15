@@ -20050,9 +20050,9 @@
         "state": "future"
     },
     "excellentwebcams.com": {
-        "epoch": 1592006400.0,
-        "expiration_date": "13-jun-2020",
-        "state": "past"
+        "epoch": 1623542400.0,
+        "expiration_date": "13-jun-2021",
+        "state": "future"
     },
     "excitemii.com": {
         "epoch": 1617753600.0,
@@ -32962,7 +32962,7 @@
     "jamo.tv": {
         "epoch": 1592179200.0,
         "expiration_date": "15-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "janesguide.com": {
         "epoch": 1592956800.0,
@@ -50272,7 +50272,7 @@
     "porno-live.fr": {
         "epoch": 1592179200.0,
         "expiration_date": "15-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "porno-manga.org": {
         "epoch": 1605484800.0,
