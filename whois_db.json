@@ -20392,7 +20392,7 @@
     "exxxoticaexpo.com": {
         "epoch": 1592265600.0,
         "expiration_date": "16-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "exxxtra.net": {
         "epoch": 1600905600.0,
@@ -21470,8 +21470,8 @@
         "state": "future"
     },
     "femdomworld.com": {
-        "epoch": 1592265600.0,
-        "expiration_date": "16-jun-2020",
+        "epoch": 1623801600.0,
+        "expiration_date": "16-jun-2021",
         "state": "future"
     },
     "femefun.com": {
@@ -42485,8 +42485,8 @@
         "state": "future"
     },
     "nadaporn.com": {
-        "epoch": 1592092800.0,
-        "expiration_date": "14-jun-2020",
+        "epoch": 1623628800.0,
+        "expiration_date": "14-jun-2021",
         "state": "future"
     },
     "nadeshiko.tv": {
@@ -67160,8 +67160,8 @@
         "state": "future"
     },
     "tubeum.com": {
-        "epoch": 1592179200.0,
-        "expiration_date": "15-jun-2020",
+        "epoch": 1623715200.0,
+        "expiration_date": "15-jun-2021",
         "state": "future"
     },
     "tubeutopia.com": {
