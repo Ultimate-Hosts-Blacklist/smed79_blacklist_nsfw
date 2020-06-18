@@ -61032,7 +61032,7 @@
     "spekula.com": {
         "epoch": 1592438400.0,
         "expiration_date": "18-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "spermmania.com": {
         "epoch": 1606780800.0,
