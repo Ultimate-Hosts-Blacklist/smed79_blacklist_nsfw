@@ -14672,7 +14672,7 @@
     "crabtube.com": {
         "epoch": 1592611200.0,
         "expiration_date": "20-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "crackbabes.net": {
         "epoch": 1600300800.0,
@@ -15175,8 +15175,8 @@
         "state": "future"
     },
     "curvyass.net": {
-        "epoch": 1592524800.0,
-        "expiration_date": "19-jun-2020",
+        "epoch": 1624060800.0,
+        "expiration_date": "19-jun-2021",
         "state": "future"
     },
     "curvybabes.online": {
@@ -53852,7 +53852,7 @@
     "quppy.com": {
         "epoch": 1592697600.0,
         "expiration_date": "21-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "qwertty.net": {
         "epoch": 1618444800.0,
