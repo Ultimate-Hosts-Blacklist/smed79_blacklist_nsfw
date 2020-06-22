@@ -1190,8 +1190,8 @@
         "state": "future"
     },
     "3xdl.com": {
-        "epoch": 1592784000.0,
-        "expiration_date": "22-jun-2020",
+        "epoch": 1624320000.0,
+        "expiration_date": "22-jun-2021",
         "state": "future"
     },
     "3xnews.com": {
@@ -8480,9 +8480,9 @@
         "state": "future"
     },
     "best-porn.me": {
-        "epoch": 1592611200.0,
-        "expiration_date": "20-jun-2020",
-        "state": "past"
+        "epoch": 1624147200.0,
+        "expiration_date": "20-jun-2021",
+        "state": "future"
     },
     "best-xxxvideos.com": {
         "epoch": 1607212800.0,
