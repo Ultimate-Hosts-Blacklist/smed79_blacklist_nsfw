@@ -26590,9 +26590,9 @@
         "state": "future"
     },
     "gogoangels.com": {
-        "epoch": 1592697600.0,
-        "expiration_date": "21-jun-2020",
-        "state": "past"
+        "epoch": 1624233600.0,
+        "expiration_date": "21-jun-2021",
+        "state": "future"
     },
     "gogomovs.com": {
         "epoch": 1600473600.0,
@@ -33725,8 +33725,8 @@
         "state": "future"
     },
     "jdforum.net": {
-        "epoch": 1592870400.0,
-        "expiration_date": "23-jun-2020",
+        "epoch": 1624406400.0,
+        "expiration_date": "23-jun-2021",
         "state": "future"
     },
     "jdownloader.org": {
@@ -53440,8 +53440,8 @@
         "state": "future"
     },
     "pussy-holes.com": {
-        "epoch": 1591833600.0,
-        "expiration_date": "11-jun-2020",
+        "epoch": 1623369600.0,
+        "expiration_date": "11-jun-2021",
         "state": "future"
     },
     "pussy.com": {
@@ -55692,7 +55692,7 @@
     "ruechaude.com": {
         "epoch": 1592870400.0,
         "expiration_date": "23-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "ruedux.com": {
         "epoch": 1617062400.0,
