@@ -4400,8 +4400,8 @@
         "state": "future"
     },
     "amateursgonebad.com": {
-        "epoch": 1593129600.0,
-        "expiration_date": "26-jun-2020",
+        "epoch": 1624665600.0,
+        "expiration_date": "26-jun-2021",
         "state": "future"
     },
     "amateurslovesporn.com": {
@@ -5277,7 +5277,7 @@
     "angelshot.net": {
         "epoch": 1593129600.0,
         "expiration_date": "26-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "angelsinnmanali.com": {
         "epoch": 1605312000.0,
@@ -13425,8 +13425,8 @@
         "state": "future"
     },
     "chrono24.ca": {
-        "epoch": 1593043200.0,
-        "expiration_date": "25-jun-2020",
+        "epoch": 1624579200.0,
+        "expiration_date": "25-jun-2021",
         "state": "future"
     },
     "chrono24.cl": {
