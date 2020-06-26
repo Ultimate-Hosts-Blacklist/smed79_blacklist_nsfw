@@ -15055,8 +15055,8 @@
         "state": "future"
     },
     "cumingtube.com": {
-        "epoch": 1592438400.0,
-        "expiration_date": "18-jun-2020",
+        "epoch": 1623974400.0,
+        "expiration_date": "18-jun-2021",
         "state": "future"
     },
     "cumlouder.com": {
@@ -31750,8 +31750,8 @@
         "state": "future"
     },
     "imgnova.xyz": {
-        "epoch": 1593043200.0,
-        "expiration_date": "25-jun-2020",
+        "epoch": 1624579200.0,
+        "expiration_date": "25-jun-2021",
         "state": "future"
     },
     "imgoutlet.co": {
@@ -44007,7 +44007,7 @@
     "noveltrove.com": {
         "epoch": 1593129600.0,
         "expiration_date": "26-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "noviceamateurs.com": {
         "epoch": 1611273600.0,
@@ -63300,8 +63300,8 @@
         "state": "future"
     },
     "teenoo.com": {
-        "epoch": 1593043200.0,
-        "expiration_date": "25-jun-2020",
+        "epoch": 1624579200.0,
+        "expiration_date": "25-jun-2021",
         "state": "future"
     },
     "teenphotoclub.net": {
