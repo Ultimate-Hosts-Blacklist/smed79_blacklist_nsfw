@@ -3965,9 +3965,9 @@
         "state": "future"
     },
     "amadorasonline.net": {
-        "epoch": 1584489600.0,
-        "expiration_date": "18-mar-2020",
-        "state": "past"
+        "epoch": 1624320000.0,
+        "expiration_date": "22-jun-2021",
+        "state": "future"
     },
     "amadorasquentes.com": {
         "epoch": 1595721600.0,
@@ -12310,8 +12310,8 @@
         "state": "future"
     },
     "carolineose.net": {
-        "epoch": 1592524800.0,
-        "expiration_date": "19-jun-2020",
+        "epoch": 1624060800.0,
+        "expiration_date": "19-jun-2021",
         "state": "future"
     },
     "carpediem-content.com": {
@@ -64775,9 +64775,9 @@
         "state": "future"
     },
     "thisavjp.com": {
-        "epoch": 1592697600.0,
-        "expiration_date": "21-jun-2020",
-        "state": "past"
+        "epoch": 1624233600.0,
+        "expiration_date": "21-jun-2021",
+        "state": "future"
     },
     "thisisglamour.com": {
         "epoch": 1609718400.0,
