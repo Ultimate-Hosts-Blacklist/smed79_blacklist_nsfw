@@ -3720,8 +3720,8 @@
         "state": "future"
     },
     "allrusamateurs.com": {
-        "epoch": 1593302400.0,
-        "expiration_date": "28-jun-2020",
+        "epoch": 1624838400.0,
+        "expiration_date": "28-jun-2021",
         "state": "future"
     },
     "allschoolboysecrets.com": {
@@ -39605,9 +39605,9 @@
         "state": "future"
     },
     "melissa-debling.com": {
-        "epoch": 1593043200.0,
-        "expiration_date": "25-jun-2020",
-        "state": "past"
+        "epoch": 1624579200.0,
+        "expiration_date": "25-jun-2021",
+        "state": "future"
     },
     "melissamidwest.com": {
         "epoch": 1597881600.0,
@@ -70030,8 +70030,8 @@
         "state": "future"
     },
     "vnjav.com": {
-        "epoch": 1593302400.0,
-        "expiration_date": "28-jun-2020",
+        "epoch": 1656374400.0,
+        "expiration_date": "28-jun-2022",
         "state": "future"
     },
     "voayeurs.com": {
