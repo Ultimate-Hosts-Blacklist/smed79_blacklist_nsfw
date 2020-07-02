@@ -22172,7 +22172,7 @@
     "firstmobilecash.com": {
         "epoch": 1593648000.0,
         "expiration_date": "02-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "firstrows.xyz": {
         "epoch": 1620604800.0,
@@ -43245,8 +43245,8 @@
         "state": "future"
     },
     "newcam18.com": {
-        "epoch": 1593648000.0,
-        "expiration_date": "02-jul-2020",
+        "epoch": 1625184000.0,
+        "expiration_date": "02-jul-2021",
         "state": "future"
     },
     "newclassictube.com": {
@@ -72595,8 +72595,8 @@
         "state": "future"
     },
     "xhub.com": {
-        "epoch": 1593475200.0,
-        "expiration_date": "30-jun-2020",
+        "epoch": 1751241600.0,
+        "expiration_date": "30-jun-2025",
         "state": "future"
     },
     "xhubz.com": {
