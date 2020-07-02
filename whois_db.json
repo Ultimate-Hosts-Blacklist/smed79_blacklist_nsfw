@@ -2317,7 +2317,7 @@
     "adult-models.org": {
         "epoch": 1593648000.0,
         "expiration_date": "02-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "adult-planet.info": {
         "epoch": 1605916800.0,
@@ -38720,9 +38720,9 @@
         "state": "future"
     },
     "massagesexgirls.com": {
-        "epoch": 1593388800.0,
-        "expiration_date": "29-jun-2020",
-        "state": "past"
+        "epoch": 1624924800.0,
+        "expiration_date": "29-jun-2021",
+        "state": "future"
     },
     "masseurporn.com": {
         "epoch": 1651104000.0,
