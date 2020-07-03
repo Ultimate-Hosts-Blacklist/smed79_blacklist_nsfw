@@ -1740,8 +1740,8 @@
         "state": "future"
     },
     "9content.com": {
-        "epoch": 1593216000.0,
-        "expiration_date": "27-jun-2020",
+        "epoch": 1624752000.0,
+        "expiration_date": "27-jun-2021",
         "state": "future"
     },
     "9gag2.com": {
@@ -2510,9 +2510,9 @@
         "state": "future"
     },
     "adultemotion.com": {
-        "epoch": 1584057600.0,
-        "expiration_date": "13-mar-2020",
-        "state": "past"
+        "epoch": 1624752000.0,
+        "expiration_date": "27-jun-2021",
+        "state": "future"
     },
     "adultempire.com": {
         "epoch": 1610323200.0,
@@ -57030,8 +57030,8 @@
         "state": "future"
     },
     "sex56.net": {
-        "epoch": 1593475200.0,
-        "expiration_date": "30-jun-2020",
+        "epoch": 1625011200.0,
+        "expiration_date": "30-jun-2021",
         "state": "future"
     },
     "sexaben.dk": {
@@ -59932,7 +59932,7 @@
     "silver-dreams.co": {
         "epoch": 1593561600.0,
         "expiration_date": "01-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "silver-jewels.co": {
         "epoch": 1593129600.0,
