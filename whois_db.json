@@ -4855,8 +4855,8 @@
         "state": "future"
     },
     "angelacappetta.com": {
-        "epoch": 1594166400.0,
-        "expiration_date": "08-jul-2020",
+        "epoch": 1625702400.0,
+        "expiration_date": "08-jul-2021",
         "state": "future"
     },
     "angeladevi.com": {
@@ -68812,7 +68812,7 @@
     "videos-de-celebrites.com": {
         "epoch": 1594080000.0,
         "expiration_date": "07-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "videos-de-charme.com": {
         "epoch": 1620864000.0,
