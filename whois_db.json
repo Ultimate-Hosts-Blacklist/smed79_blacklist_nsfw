@@ -275,8 +275,8 @@
         "state": "future"
     },
     "18ans-erog.com": {
-        "epoch": 1593475200.0,
-        "expiration_date": "30-jun-2020",
+        "epoch": 1625011200.0,
+        "expiration_date": "30-jun-2021",
         "state": "future"
     },
     "18comix.com": {
@@ -3377,7 +3377,7 @@
     "alexanderfedorov.com": {
         "epoch": 1594166400.0,
         "expiration_date": "08-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "alexarabella.com": {
         "epoch": 1607558400.0,
@@ -60315,8 +60315,8 @@
         "state": "future"
     },
     "slashnude.com": {
-        "epoch": 1594166400.0,
-        "expiration_date": "08-jul-2020",
+        "epoch": 1625702400.0,
+        "expiration_date": "08-jul-2021",
         "state": "future"
     },
     "slaughtergays.com": {
