@@ -262,8 +262,8 @@
         "adultstream.xxx": {
             "included_at_epoch": 1590749450.218476,
             "included_at_iso": "2020-05-29T10:50:50.218476",
-            "last_retested_at_epoch": 1594213699.673625,
-            "last_retested_at_iso": "2020-07-08T13:08:19.673625",
+            "last_retested_at_epoch": 1594303545.275351,
+            "last_retested_at_iso": "2020-07-09T14:05:45.275351",
             "status": "INACTIVE"
         },
         "adultvideosjapanese.com": {
@@ -339,8 +339,8 @@
         "alonso962.tumblr.com": {
             "included_at_epoch": 1590936539.378815,
             "included_at_iso": "2020-05-31T14:48:59.378815",
-            "last_retested_at_epoch": 1593782455.824943,
-            "last_retested_at_iso": "2020-07-03T13:20:55.824943",
+            "last_retested_at_epoch": 1594303112.188195,
+            "last_retested_at_iso": "2020-07-09T13:58:32.188195",
             "status": "INACTIVE"
         },
         "amadorasonline.net": {
@@ -1613,8 +1613,8 @@
         "ducktube.net": {
             "included_at_epoch": 1589214193.477334,
             "included_at_iso": "2020-05-11T16:23:13.477334",
-            "last_retested_at_epoch": 1594022708.015638,
-            "last_retested_at_iso": "2020-07-06T08:05:08.015638",
+            "last_retested_at_epoch": 1594303156.307725,
+            "last_retested_at_iso": "2020-07-09T13:59:16.307725",
             "status": "INACTIVE"
         },
         "dutch.moviesxxxlisting.com": {
@@ -4252,8 +4252,8 @@
         "pics1.pornhub.com": {
             "included_at_epoch": 1588479745.0,
             "included_at_iso": "2020-05-03T04:22:25",
-            "last_retested_at_epoch": 1594213493.345264,
-            "last_retested_at_iso": "2020-07-08T13:04:53.345264",
+            "last_retested_at_epoch": 1594303138.824864,
+            "last_retested_at_iso": "2020-07-09T13:58:58.824864",
             "status": "INACTIVE"
         },
         "pics1mas.pornhub.com": {
@@ -5204,8 +5204,8 @@
         "sextubeparty.com": {
             "included_at_epoch": 1588442445.0,
             "included_at_iso": "2020-05-02T18:00:45",
-            "last_retested_at_epoch": 1593873231.433466,
-            "last_retested_at_iso": "2020-07-04T14:33:51.433466",
+            "last_retested_at_epoch": 1594303265.50522,
+            "last_retested_at_iso": "2020-07-09T14:01:05.505220",
             "status": "INACTIVE"
         },
         "sexxxgirls.xyz": {
@@ -5337,8 +5337,8 @@
         "smtp.pornhub.com": {
             "included_at_epoch": 1588437539.0,
             "included_at_iso": "2020-05-02T16:38:59",
-            "last_retested_at_epoch": 1594089336.130281,
-            "last_retested_at_iso": "2020-07-07T02:35:36.130281",
+            "last_retested_at_epoch": 1594303394.636653,
+            "last_retested_at_iso": "2020-07-09T14:03:14.636653",
             "status": "INACTIVE"
         },
         "sniperporn.com": {
@@ -5472,6 +5472,13 @@
             "included_at_iso": "2020-05-19T07:57:18.099279",
             "last_retested_at_epoch": 1594159914.016808,
             "last_retested_at_iso": "2020-07-07T22:11:54.016808",
+            "status": "INACTIVE"
+        },
+        "static.jadult.net": {
+            "included_at_epoch": 1594303510.439728,
+            "included_at_iso": "2020-07-09T14:05:10.439728",
+            "last_retested_at_epoch": 1594303510.439728,
+            "last_retested_at_iso": "2020-07-09T14:05:10.439728",
             "status": "INACTIVE"
         },
         "static.jamo.tv": {
@@ -7031,8 +7038,8 @@
         "www.adult-adv.com": {
             "included_at_epoch": 1588432819.0,
             "included_at_iso": "2020-05-02T15:20:19",
-            "last_retested_at_epoch": 1594130789.808335,
-            "last_retested_at_iso": "2020-07-07T14:06:29.808335",
+            "last_retested_at_epoch": 1594303382.691796,
+            "last_retested_at_iso": "2020-07-09T14:03:02.691796",
             "status": "INACTIVE"
         },
         "www.adult-arab.com": {
@@ -7045,8 +7052,8 @@
         "www.adult-models.org": {
             "included_at_epoch": 1593593607.756543,
             "included_at_iso": "2020-07-01T08:53:27.756543",
-            "last_retested_at_epoch": 1594148748.590825,
-            "last_retested_at_iso": "2020-07-07T19:05:48.590825",
+            "last_retested_at_epoch": 1594303113.71619,
+            "last_retested_at_iso": "2020-07-09T13:58:33.716190",
             "status": "INACTIVE"
         },
         "www.adult-planet.info": {
@@ -7185,8 +7192,8 @@
         "www.adultstream.xxx": {
             "included_at_epoch": 1588490723.0,
             "included_at_iso": "2020-05-03T07:25:23",
-            "last_retested_at_epoch": 1594213699.566213,
-            "last_retested_at_iso": "2020-07-08T13:08:19.566213",
+            "last_retested_at_epoch": 1594303545.222864,
+            "last_retested_at_iso": "2020-07-09T14:05:45.222864",
             "status": "INACTIVE"
         },
         "www.adulttoontube.com": {
@@ -7451,8 +7458,8 @@
         "www.alonso962.tumblr.com": {
             "included_at_epoch": 1590936539.37967,
             "included_at_iso": "2020-05-31T14:48:59.379670",
-            "last_retested_at_epoch": 1593782455.830839,
-            "last_retested_at_iso": "2020-07-03T13:20:55.830839",
+            "last_retested_at_epoch": 1594303107.844308,
+            "last_retested_at_iso": "2020-07-09T13:58:27.844308",
             "status": "INACTIVE"
         },
         "www.alsscanangels.com": {
@@ -8165,8 +8172,8 @@
         "www.asianvids.tv": {
             "included_at_epoch": 1588446632.0,
             "included_at_iso": "2020-05-02T19:10:32",
-            "last_retested_at_epoch": 1594096095.880143,
-            "last_retested_at_iso": "2020-07-07T04:28:15.880143",
+            "last_retested_at_epoch": 1594303399.911865,
+            "last_retested_at_iso": "2020-07-09T14:03:19.911865",
             "status": "INACTIVE"
         },
         "www.assfucktube.org": {
@@ -8753,8 +8760,8 @@
         "www.breakingporn.com": {
             "included_at_epoch": 1588522719.0,
             "included_at_iso": "2020-05-03T16:18:39",
-            "last_retested_at_epoch": 1594177529.515126,
-            "last_retested_at_iso": "2020-07-08T03:05:29.515126",
+            "last_retested_at_epoch": 1594303249.978773,
+            "last_retested_at_iso": "2020-07-09T14:00:49.978773",
             "status": "INACTIVE"
         },
         "www.broporn.com": {
@@ -9474,8 +9481,8 @@
         "www.crocko.com": {
             "included_at_epoch": 1588501080.0,
             "included_at_iso": "2020-05-03T10:18:00",
-            "last_retested_at_epoch": 1594148755.225604,
-            "last_retested_at_iso": "2020-07-07T19:05:55.225604",
+            "last_retested_at_epoch": 1594303295.305567,
+            "last_retested_at_iso": "2020-07-09T14:01:35.305567",
             "status": "INACTIVE"
         },
         "www.crot69.com": {
@@ -9943,8 +9950,8 @@
         "www.ducktube.net": {
             "included_at_epoch": 1588295838.0,
             "included_at_iso": "2020-05-01T01:17:18",
-            "last_retested_at_epoch": 1594022708.025284,
-            "last_retested_at_iso": "2020-07-06T08:05:08.025284",
+            "last_retested_at_epoch": 1594303156.30888,
+            "last_retested_at_iso": "2020-07-09T13:59:16.308880",
             "status": "INACTIVE"
         },
         "www.dumppix.com": {
@@ -11994,8 +12001,8 @@
         "www.hotsologirlz.net": {
             "included_at_epoch": 1588528241.0,
             "included_at_iso": "2020-05-03T17:50:41",
-            "last_retested_at_epoch": 1594101516.332826,
-            "last_retested_at_iso": "2020-07-07T05:58:36.332826",
+            "last_retested_at_epoch": 1594302791.024152,
+            "last_retested_at_iso": "2020-07-09T13:53:11.024152",
             "status": "INACTIVE"
         },
         "www.hotsw.eu": {
@@ -12631,8 +12638,8 @@
         "www.jp-voyeur.net": {
             "included_at_epoch": 1588549926.425466,
             "included_at_iso": "2020-05-03T23:52:06.425466",
-            "last_retested_at_epoch": 1593959471.01884,
-            "last_retested_at_iso": "2020-07-05T14:31:11.018840",
+            "last_retested_at_epoch": 1594303588.170169,
+            "last_retested_at_iso": "2020-07-09T14:06:28.170169",
             "status": "INACTIVE"
         },
         "www.jsmcrjmp.com": {
@@ -12778,8 +12785,8 @@
         "www.korean-sex-video.com": {
             "included_at_epoch": 1590319478.481127,
             "included_at_iso": "2020-05-24T11:24:38.481127",
-            "last_retested_at_epoch": 1590319478.481127,
-            "last_retested_at_iso": "2020-05-24T11:24:38.481127",
+            "last_retested_at_epoch": 1594303408.820807,
+            "last_retested_at_iso": "2020-07-09T14:03:28.820807",
             "status": "INACTIVE"
         },
         "www.kpanther.tumblr.com": {
@@ -13800,8 +13807,8 @@
         "www.mofonetwork.net": {
             "included_at_epoch": 1588530874.0,
             "included_at_iso": "2020-05-03T18:34:34",
-            "last_retested_at_epoch": 1594142227.658302,
-            "last_retested_at_iso": "2020-07-07T17:17:07.658302",
+            "last_retested_at_epoch": 1594303436.287279,
+            "last_retested_at_iso": "2020-07-09T14:03:56.287279",
             "status": "INACTIVE"
         },
         "www.mom-x.com": {
@@ -14101,8 +14108,8 @@
         "www.nakedlivewebcams.com": {
             "included_at_epoch": 1588497718.0,
             "included_at_iso": "2020-05-03T09:21:58",
-            "last_retested_at_epoch": 1593837972.862574,
-            "last_retested_at_iso": "2020-07-04T04:46:12.862574",
+            "last_retested_at_epoch": 1594303025.539781,
+            "last_retested_at_iso": "2020-07-09T13:57:05.539781",
             "status": "INACTIVE"
         },
         "www.nakednepaligirl.com": {
@@ -14220,8 +14227,8 @@
         "www.neblotech.com": {
             "included_at_epoch": 1588504277.0,
             "included_at_iso": "2020-05-03T11:11:17",
-            "last_retested_at_epoch": 1594095840.975778,
-            "last_retested_at_iso": "2020-07-07T04:24:00.975778",
+            "last_retested_at_epoch": 1594303062.235684,
+            "last_retested_at_iso": "2020-07-09T13:57:42.235684",
             "status": "INACTIVE"
         },
         "www.neek.tv": {
@@ -16747,8 +16754,8 @@
         "www.sexiporno.net": {
             "included_at_epoch": 1591893244.086417,
             "included_at_iso": "2020-06-11T16:34:04.086417",
-            "last_retested_at_epoch": 1593752661.383809,
-            "last_retested_at_iso": "2020-07-03T05:04:21.383809",
+            "last_retested_at_epoch": 1594303670.689968,
+            "last_retested_at_iso": "2020-07-09T14:07:50.689968",
             "status": "INACTIVE"
         },
         "www.sexisfree.org": {
@@ -16789,8 +16796,8 @@
         "www.sexopelotelefone.com": {
             "included_at_epoch": 1589889736.143003,
             "included_at_iso": "2020-05-19T12:02:16.143003",
-            "last_retested_at_epoch": 1594171669.225283,
-            "last_retested_at_iso": "2020-07-08T01:27:49.225283",
+            "last_retested_at_epoch": 1594302764.636953,
+            "last_retested_at_iso": "2020-07-09T13:52:44.636953",
             "status": "INACTIVE"
         },
         "www.sexroid.mobi": {
@@ -16873,8 +16880,8 @@
         "www.sextubeparty.com": {
             "included_at_epoch": 1588442445.0,
             "included_at_iso": "2020-05-02T18:00:45",
-            "last_retested_at_epoch": 1593873231.421737,
-            "last_retested_at_iso": "2020-07-04T14:33:51.421737",
+            "last_retested_at_epoch": 1594303265.68431,
+            "last_retested_at_iso": "2020-07-09T14:01:05.684310",
             "status": "INACTIVE"
         },
         "www.sextubesun.com": {
@@ -16943,8 +16950,8 @@
         "www.sexyandweknow.it": {
             "included_at_epoch": 1588419234.0,
             "included_at_iso": "2020-05-02T11:33:54",
-            "last_retested_at_epoch": 1594148632.861848,
-            "last_retested_at_iso": "2020-07-07T19:03:52.861848",
+            "last_retested_at_epoch": 1594303618.760747,
+            "last_retested_at_iso": "2020-07-09T14:06:58.760747",
             "status": "INACTIVE"
         },
         "www.sexybalear.com": {
@@ -17839,8 +17846,8 @@
         "www.teentiger.com": {
             "included_at_epoch": 1588447038.0,
             "included_at_iso": "2020-05-02T19:17:18",
-            "last_retested_at_epoch": 1594194482.828209,
-            "last_retested_at_iso": "2020-07-08T07:48:02.828209",
+            "last_retested_at_epoch": 1594303050.719231,
+            "last_retested_at_iso": "2020-07-09T13:57:30.719231",
             "status": "INACTIVE"
         },
         "www.tehvids.com": {
@@ -19358,8 +19365,8 @@
         "www.xfuckbook.com": {
             "included_at_epoch": 1588363482.0,
             "included_at_iso": "2020-05-01T20:04:42",
-            "last_retested_at_epoch": 1594206131.444587,
-            "last_retested_at_iso": "2020-07-08T11:02:11.444587",
+            "last_retested_at_epoch": 1594303263.823673,
+            "last_retested_at_iso": "2020-07-09T14:01:03.823673",
             "status": "INACTIVE"
         },
         "www.xgirlsporn.com": {
@@ -19932,8 +19939,8 @@
         "www.youpiporn.com": {
             "included_at_epoch": 1591359871.094676,
             "included_at_iso": "2020-06-05T12:24:31.094676",
-            "last_retested_at_epoch": 1594159884.415077,
-            "last_retested_at_iso": "2020-07-07T22:11:24.415077",
+            "last_retested_at_epoch": 1594303291.778129,
+            "last_retested_at_iso": "2020-07-09T14:01:31.778129",
             "status": "INACTIVE"
         },
         "www.your-dating-future.com": {
