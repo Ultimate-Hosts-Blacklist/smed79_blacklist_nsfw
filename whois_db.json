@@ -15885,8 +15885,8 @@
         "state": "future"
     },
     "daofile.com": {
-        "epoch": 1594252800.0,
-        "expiration_date": "09-jul-2020",
+        "epoch": 1657324800.0,
+        "expiration_date": "09-jul-2022",
         "state": "future"
     },
     "daphnesfantasies.com": {
@@ -16855,8 +16855,8 @@
         "state": "future"
     },
     "direct-torrent.com": {
-        "epoch": 1593216000.0,
-        "expiration_date": "27-jun-2020",
+        "epoch": 1624752000.0,
+        "expiration_date": "27-jun-2021",
         "state": "future"
     },
     "direction-x.com": {
@@ -34460,8 +34460,8 @@
         "state": "future"
     },
     "jsp-stars.com": {
-        "epoch": 1594166400.0,
-        "expiration_date": "08-jul-2020",
+        "epoch": 1625702400.0,
+        "expiration_date": "08-jul-2021",
         "state": "future"
     },
     "jsuol.com": {
@@ -63187,7 +63187,7 @@
     "teenhardcorevids.com": {
         "epoch": 1594252800.0,
         "expiration_date": "09-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "teenhost.net": {
         "epoch": 1616889600.0,
