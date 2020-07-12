@@ -42002,7 +42002,7 @@
     "myko-dial.biz": {
         "epoch": 1594166400.0,
         "expiration_date": "08-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "mykodial.com": {
         "epoch": 1625788800.0,
@@ -44375,8 +44375,8 @@
         "state": "future"
     },
     "nudebeachlife.com": {
-        "epoch": 1594252800.0,
-        "expiration_date": "09-jul-2020",
+        "epoch": 1625788800.0,
+        "expiration_date": "09-jul-2021",
         "state": "future"
     },
     "nudebeachphoto.com": {
@@ -77090,8 +77090,8 @@
         "state": "future"
     },
     "zwei.in": {
-        "epoch": 1594512000.0,
-        "expiration_date": "12-jul-2020",
+        "epoch": 1626048000.0,
+        "expiration_date": "12-jul-2021",
         "state": "future"
     },
     "zweiporn.com": {
