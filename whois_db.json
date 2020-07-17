@@ -24395,9 +24395,9 @@
         "state": "future"
     },
     "fuckingawesome.com": {
-        "epoch": 1594857600.0,
-        "expiration_date": "16-jul-2020",
-        "state": "past"
+        "epoch": 1626393600.0,
+        "expiration_date": "16-jul-2021",
+        "state": "future"
     },
     "fuckingcow.com": {
         "epoch": 1611532800.0,
@@ -71350,8 +71350,8 @@
         "state": "future"
     },
     "wickedpictures.com": {
-        "epoch": 1594944000.0,
-        "expiration_date": "17-jul-2020",
+        "epoch": 1752710400.0,
+        "expiration_date": "17-jul-2025",
         "state": "future"
     },
     "wickedsick.tv": {
