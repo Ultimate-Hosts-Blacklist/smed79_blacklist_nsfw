@@ -14100,8 +14100,8 @@
         "state": "future"
     },
     "code-fetish.com": {
-        "epoch": 1594425600.0,
-        "expiration_date": "11-jul-2020",
+        "epoch": 1625961600.0,
+        "expiration_date": "11-jul-2021",
         "state": "future"
     },
     "codecguide.com": {
@@ -30395,8 +30395,8 @@
         "state": "future"
     },
     "hottiecams.com": {
-        "epoch": 1594771200.0,
-        "expiration_date": "15-jul-2020",
+        "epoch": 1626307200.0,
+        "expiration_date": "15-jul-2021",
         "state": "future"
     },
     "hottiehangout.com": {
@@ -59692,7 +59692,7 @@
     "shinydolls.com": {
         "epoch": 1594944000.0,
         "expiration_date": "17-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "shinyleotards.com": {
         "epoch": 1696982400.0,
