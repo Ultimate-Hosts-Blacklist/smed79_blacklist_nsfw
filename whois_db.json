@@ -51545,8 +51545,8 @@
         "state": "future"
     },
     "pornsavant.com": {
-        "epoch": 1594944000.0,
-        "expiration_date": "17-jul-2020",
+        "epoch": 1626480000.0,
+        "expiration_date": "17-jul-2021",
         "state": "future"
     },
     "pornscrape.com": {
@@ -59690,9 +59690,9 @@
         "state": "future"
     },
     "shinydolls.com": {
-        "epoch": 1594944000.0,
-        "expiration_date": "17-jul-2020",
-        "state": "past"
+        "epoch": 1626480000.0,
+        "expiration_date": "17-jul-2021",
+        "state": "future"
     },
     "shinyleotards.com": {
         "epoch": 1696982400.0,
