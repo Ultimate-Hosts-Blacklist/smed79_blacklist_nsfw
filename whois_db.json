@@ -3930,9 +3930,9 @@
         "state": "future"
     },
     "altingramfiyati.org": {
-        "epoch": 1594857600.0,
-        "expiration_date": "16-jul-2020",
-        "state": "past"
+        "epoch": 1626393600.0,
+        "expiration_date": "16-jul-2021",
+        "state": "future"
     },
     "altplayground.net": {
         "epoch": 1691452800.0,
@@ -12225,8 +12225,8 @@
         "state": "future"
     },
     "caoporn.com": {
-        "epoch": 1595030400.0,
-        "expiration_date": "18-jul-2020",
+        "epoch": 1626566400.0,
+        "expiration_date": "18-jul-2021",
         "state": "future"
     },
     "capriccioclubprive.com": {
@@ -70582,7 +70582,7 @@
     "wapoz.ru": {
         "epoch": 1595289600.0,
         "expiration_date": "21-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "wappornsite.com": {
         "epoch": 1621555200.0,
