@@ -1870,8 +1870,8 @@
         "state": "future"
     },
     "abc-celebs.com": {
-        "epoch": 1595116800.0,
-        "expiration_date": "19-jul-2020",
+        "epoch": 1626652800.0,
+        "expiration_date": "19-jul-2021",
         "state": "future"
     },
     "abc-du-gratuit.net": {
@@ -35230,8 +35230,8 @@
         "state": "future"
     },
     "kirtu.com": {
-        "epoch": 1595030400.0,
-        "expiration_date": "18-jul-2020",
+        "epoch": 1626566400.0,
+        "expiration_date": "18-jul-2021",
         "state": "future"
     },
     "kiss-lips.com": {
@@ -46915,9 +46915,9 @@
         "state": "future"
     },
     "perfect18.com": {
-        "epoch": 1594512000.0,
-        "expiration_date": "12-jul-2020",
-        "state": "past"
+        "epoch": 1626048000.0,
+        "expiration_date": "12-jul-2021",
+        "state": "future"
     },
     "perfectangels.org": {
         "epoch": 1621209600.0,
@@ -48830,8 +48830,8 @@
         "state": "future"
     },
     "porn4real.com": {
-        "epoch": 1595203200.0,
-        "expiration_date": "20-jul-2020",
+        "epoch": 1626739200.0,
+        "expiration_date": "20-jul-2021",
         "state": "future"
     },
     "porn4you.fr": {
