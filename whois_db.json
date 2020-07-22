@@ -5747,7 +5747,7 @@
     "anycunt.pro": {
         "epoch": 1595376000.0,
         "expiration_date": "22-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "anyfreeporn.com": {
         "epoch": 1621123200.0,
@@ -24465,8 +24465,8 @@
         "state": "future"
     },
     "fuckk.com": {
-        "epoch": 1595116800.0,
-        "expiration_date": "19-jul-2020",
+        "epoch": 1626652800.0,
+        "expiration_date": "19-jul-2021",
         "state": "future"
     },
     "fuckler.com": {
