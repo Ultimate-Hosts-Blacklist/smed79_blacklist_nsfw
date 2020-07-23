@@ -19512,7 +19512,7 @@
     "escorts-elegance.com": {
         "epoch": 1595462400.0,
         "expiration_date": "23-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "escorts-of-london.co.uk": {
         "epoch": 1651536000.0,
@@ -60755,8 +60755,8 @@
         "state": "future"
     },
     "sodalimedev.com": {
-        "epoch": 1595203200.0,
-        "expiration_date": "20-jul-2020",
+        "epoch": 1626739200.0,
+        "expiration_date": "20-jul-2021",
         "state": "future"
     },
     "soelaspeladas.blogspot.com.br": {
