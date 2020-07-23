@@ -15650,9 +15650,9 @@
         "state": "future"
     },
     "daftporn.com": {
-        "epoch": 1595376000.0,
-        "expiration_date": "22-jul-2020",
-        "state": "past"
+        "epoch": 1626912000.0,
+        "expiration_date": "22-jul-2021",
+        "state": "future"
     },
     "daftsex.com": {
         "epoch": 1718668800.0,
@@ -62767,7 +62767,7 @@
     "taraholidayxxx.com": {
         "epoch": 1595462400.0,
         "expiration_date": "23-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "tarastube.com": {
         "epoch": 1619049600.0,
