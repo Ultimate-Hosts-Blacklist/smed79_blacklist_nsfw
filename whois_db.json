@@ -14620,8 +14620,8 @@
         "state": "future"
     },
     "courtiz.fr": {
-        "epoch": 1595548800.0,
-        "expiration_date": "24-jul-2020",
+        "epoch": 1627084800.0,
+        "expiration_date": "24-jul-2021",
         "state": "future"
     },
     "courtneylightspeed.com": {
@@ -16740,8 +16740,8 @@
         "state": "future"
     },
     "digital-ark.com": {
-        "epoch": 1595289600.0,
-        "expiration_date": "21-jul-2020",
+        "epoch": 1626825600.0,
+        "expiration_date": "21-jul-2021",
         "state": "future"
     },
     "digital2cloud.com": {
@@ -26645,8 +26645,8 @@
         "state": "future"
     },
     "goldmansachs.com": {
-        "epoch": 1595548800.0,
-        "expiration_date": "24-jul-2020",
+        "epoch": 1627084800.0,
+        "expiration_date": "24-jul-2021",
         "state": "future"
     },
     "goldnude.com": {
@@ -34762,7 +34762,7 @@
     "ka7ba.com": {
         "epoch": 1595548800.0,
         "expiration_date": "24-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "kabinedasnovinhas.com": {
         "epoch": 1602201600.0,
