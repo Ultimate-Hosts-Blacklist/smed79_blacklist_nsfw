@@ -27705,8 +27705,8 @@
         "state": "future"
     },
     "hardfacefuck.com": {
-        "epoch": 1595203200.0,
-        "expiration_date": "20-jul-2020",
+        "epoch": 1626739200.0,
+        "expiration_date": "20-jul-2021",
         "state": "future"
     },
     "hardfreshmen.com": {
@@ -39807,7 +39807,7 @@
     "metartx.com": {
         "epoch": 1595635200.0,
         "expiration_date": "25-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "metbabes.com": {
         "epoch": 1614816000.0,
@@ -62205,8 +62205,8 @@
         "state": "future"
     },
     "superputaria.com": {
-        "epoch": 1595635200.0,
-        "expiration_date": "25-jul-2020",
+        "epoch": 1627171200.0,
+        "expiration_date": "25-jul-2021",
         "state": "future"
     },
     "supersitetime.com": {
