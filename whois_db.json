@@ -8665,8 +8665,8 @@
         "state": "future"
     },
     "bestialzoo.net": {
-        "epoch": 1595721600.0,
-        "expiration_date": "26-jul-2020",
+        "epoch": 1627257600.0,
+        "expiration_date": "26-jul-2021",
         "state": "future"
     },
     "bestialzoo.org": {
@@ -26462,7 +26462,7 @@
     "gndruby.com": {
         "epoch": 1595721600.0,
         "expiration_date": "26-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "gndsadie.com": {
         "epoch": 1610150400.0,
@@ -35567,7 +35567,7 @@
     "l-virgin.info": {
         "epoch": 1595721600.0,
         "expiration_date": "26-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "l-virgin.us": {
         "epoch": 1620604800.0,
@@ -66725,8 +66725,8 @@
         "state": "future"
     },
     "tubegoldenporn.com": {
-        "epoch": 1595635200.0,
-        "expiration_date": "25-jul-2020",
+        "epoch": 1627171200.0,
+        "expiration_date": "25-jul-2021",
         "state": "future"
     },
     "tubegolf.com": {
