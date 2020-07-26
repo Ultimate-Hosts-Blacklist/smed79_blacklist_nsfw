@@ -2104,6 +2104,11 @@
         "expiration_date": "07-oct-2020",
         "state": "future"
     },
+    "acompanhantes.pt": {
+        "epoch": 1614470400.0,
+        "expiration_date": "28-feb-2021",
+        "state": "future"
+    },
     "acompanhantesdoprazerevora.pt": {
         "epoch": 1622851200.0,
         "expiration_date": "05-jun-2021",
@@ -26265,8 +26270,8 @@
         "state": "future"
     },
     "girlsthai.org": {
-        "epoch": 1595462400.0,
-        "expiration_date": "23-jul-2020",
+        "epoch": 1626998400.0,
+        "expiration_date": "23-jul-2021",
         "state": "future"
     },
     "girlstryanal.com": {
@@ -27462,7 +27467,7 @@
     "haliboo.com": {
         "epoch": 1595721600.0,
         "expiration_date": "26-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "halloporno.com": {
         "epoch": 1595808000.0,
@@ -31165,9 +31170,9 @@
         "state": "future"
     },
     "icanhazchat.com": {
-        "epoch": 1595462400.0,
-        "expiration_date": "23-jul-2020",
-        "state": "past"
+        "epoch": 1626998400.0,
+        "expiration_date": "23-jul-2021",
+        "state": "future"
     },
     "ice-gay.com": {
         "epoch": 1616112000.0,
@@ -41247,7 +41252,7 @@
     "movstream.info": {
         "epoch": 1595721600.0,
         "expiration_date": "26-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "movxxxies.com": {
         "epoch": 1614902400.0,
