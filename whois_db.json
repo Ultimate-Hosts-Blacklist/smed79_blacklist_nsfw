@@ -170,8 +170,8 @@
         "state": "future"
     },
     "10musume.com": {
-        "epoch": 1595030400.0,
-        "expiration_date": "18-jul-2020",
+        "epoch": 1626566400.0,
+        "expiration_date": "18-jul-2021",
         "state": "future"
     },
     "123-infidele.com": {
@@ -35570,9 +35570,9 @@
         "state": "future"
     },
     "l-virgin.info": {
-        "epoch": 1595721600.0,
-        "expiration_date": "26-jul-2020",
-        "state": "past"
+        "epoch": 1627257600.0,
+        "expiration_date": "26-jul-2021",
+        "state": "future"
     },
     "l-virgin.us": {
         "epoch": 1620604800.0,
@@ -61852,7 +61852,7 @@
     "stucktube.com": {
         "epoch": 1595808000.0,
         "expiration_date": "27-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "studentsexparties.com": {
         "epoch": 1596412800.0,
