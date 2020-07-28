@@ -8675,8 +8675,8 @@
         "state": "future"
     },
     "bestialzoo.org": {
-        "epoch": 1595721600.0,
-        "expiration_date": "26-jul-2020",
+        "epoch": 1627257600.0,
+        "expiration_date": "26-jul-2021",
         "state": "future"
     },
     "bestjapaneseporn.net": {
@@ -41937,7 +41937,7 @@
     "myhentai.tv": {
         "epoch": 1595894400.0,
         "expiration_date": "28-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "myhentaicomics.com": {
         "epoch": 1717459200.0,
