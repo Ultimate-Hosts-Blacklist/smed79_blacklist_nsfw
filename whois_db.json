@@ -48310,9 +48310,9 @@
         "state": "future"
     },
     "pleasur3d.com": {
-        "epoch": 1595203200.0,
-        "expiration_date": "20-jul-2020",
-        "state": "past"
+        "epoch": 1626739200.0,
+        "expiration_date": "20-jul-2021",
+        "state": "future"
     },
     "pleasuregirl.net": {
         "epoch": 1606262400.0,
@@ -72612,7 +72612,7 @@
     "xhqtube.com": {
         "epoch": 1595894400.0,
         "expiration_date": "28-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "xhub.com": {
         "epoch": 1751241600.0,
