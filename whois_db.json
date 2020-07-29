@@ -26705,8 +26705,8 @@
         "state": "future"
     },
     "gonzo-movies.com": {
-        "epoch": 1595980800.0,
-        "expiration_date": "29-jul-2020",
+        "epoch": 1627516800.0,
+        "expiration_date": "29-jul-2021",
         "state": "future"
     },
     "gonzoxxxmovies.com": {
@@ -47480,8 +47480,8 @@
         "state": "future"
     },
     "picsee.net": {
-        "epoch": 1595980800.0,
-        "expiration_date": "29-jul-2020",
+        "epoch": 1659052800.0,
+        "expiration_date": "29-jul-2022",
         "state": "future"
     },
     "picsexhub.com": {
@@ -73872,7 +73872,7 @@
     "xwebcams.com": {
         "epoch": 1595980800.0,
         "expiration_date": "29-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "xweporn.com": {
         "epoch": 1626912000.0,
@@ -74675,9 +74675,9 @@
         "state": "future"
     },
     "xxxpornotube.net": {
-        "epoch": 1595635200.0,
-        "expiration_date": "25-jul-2020",
-        "state": "past"
+        "epoch": 1627171200.0,
+        "expiration_date": "25-jul-2021",
+        "state": "future"
     },
     "xxxpornotuber.com": {
         "epoch": 1619568000.0,
