@@ -37700,9 +37700,9 @@
         "state": "future"
     },
     "lostlatinas.com": {
-        "epoch": 1595808000.0,
-        "expiration_date": "27-jul-2020",
-        "state": "past"
+        "epoch": 1627344000.0,
+        "expiration_date": "27-jul-2021",
+        "state": "future"
     },
     "lostmyvirginity.com": {
         "epoch": 1624320000.0,
@@ -46892,7 +46892,7 @@
     "peperonity.com": {
         "epoch": 1595980800.0,
         "expiration_date": "29-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "peppersextube.com": {
         "epoch": 1618790400.0,
