@@ -14080,8 +14080,8 @@
         "state": "future"
     },
     "cocksexpics.com": {
-        "epoch": 1595808000.0,
-        "expiration_date": "27-jul-2020",
+        "epoch": 1627344000.0,
+        "expiration_date": "27-jul-2021",
         "state": "future"
     },
     "cocktuber.com": {
@@ -68547,7 +68547,7 @@
     "viagraparis.fr": {
         "epoch": 1595980800.0,
         "expiration_date": "29-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "vibefun.com": {
         "epoch": 1618185600.0,
@@ -71445,9 +71445,9 @@
         "state": "future"
     },
     "wiki-stars.com": {
-        "epoch": 1595894400.0,
-        "expiration_date": "28-jul-2020",
-        "state": "past"
+        "epoch": 1627430400.0,
+        "expiration_date": "28-jul-2021",
+        "state": "future"
     },
     "wikiangela.com": {
         "epoch": 1625356800.0,
