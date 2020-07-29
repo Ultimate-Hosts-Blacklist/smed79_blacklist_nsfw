@@ -528,8 +528,8 @@
         "angels-bound.com": {
             "included_at_epoch": 1588433123.0,
             "included_at_iso": "2020-05-02T15:25:23",
-            "last_retested_at_epoch": 1595857561.740469,
-            "last_retested_at_iso": "2020-07-27T13:46:01.740469",
+            "last_retested_at_epoch": 1595999373.752703,
+            "last_retested_at_iso": "2020-07-29T05:09:33.752703",
             "status": "INACTIVE"
         },
         "angels-tokyo.com": {
@@ -577,8 +577,8 @@
         "anonymousdmp.com": {
             "included_at_epoch": 1589407983.013286,
             "included_at_iso": "2020-05-13T22:13:03.013286",
-            "last_retested_at_epoch": 1595862466.933321,
-            "last_retested_at_iso": "2020-07-27T15:07:46.933321",
+            "last_retested_at_epoch": 1595999575.858814,
+            "last_retested_at_iso": "2020-07-29T05:12:55.858814",
             "status": "INACTIVE"
         },
         "appsa.info": {
@@ -2789,8 +2789,8 @@
         "hardnastygifs.tumblr.com": {
             "included_at_epoch": 1595290914.22206,
             "included_at_iso": "2020-07-21T00:21:54.222060",
-            "last_retested_at_epoch": 1595843323.272179,
-            "last_retested_at_iso": "2020-07-27T09:48:43.272179",
+            "last_retested_at_epoch": 1595999183.037806,
+            "last_retested_at_iso": "2020-07-29T05:06:23.037806",
             "status": "INACTIVE"
         },
         "hdneek.com": {
@@ -3699,8 +3699,8 @@
         "m.sdmy168.com": {
             "included_at_epoch": 1594503209.480581,
             "included_at_iso": "2020-07-11T21:33:29.480581",
-            "last_retested_at_epoch": 1595519016.309122,
-            "last_retested_at_iso": "2020-07-23T15:43:36.309122",
+            "last_retested_at_epoch": 1595999137.201114,
+            "last_retested_at_iso": "2020-07-29T05:05:37.201114",
             "status": "INACTIVE"
         },
         "m.tv1.cdn.jetm-tech.net": {
@@ -4574,8 +4574,8 @@
         "panel.geniusxtube.com": {
             "included_at_epoch": 1591563986.19071,
             "included_at_iso": "2020-06-07T21:06:26.190710",
-            "last_retested_at_epoch": 1595878479.670283,
-            "last_retested_at_iso": "2020-07-27T19:34:39.670283",
+            "last_retested_at_epoch": 1595999592.095851,
+            "last_retested_at_iso": "2020-07-29T05:13:12.095851",
             "status": "INACTIVE"
         },
         "partner.zenmate.com": {
@@ -6142,8 +6142,8 @@
         "static12.hentai-comic.com": {
             "included_at_epoch": 1590128916.069851,
             "included_at_iso": "2020-05-22T06:28:36.069851",
-            "last_retested_at_epoch": 1595739611.690994,
-            "last_retested_at_iso": "2020-07-26T05:00:11.690994",
+            "last_retested_at_epoch": 1595999137.469976,
+            "last_retested_at_iso": "2020-07-29T05:05:37.469976",
             "status": "INACTIVE"
         },
         "static2.jetbabes.com": {
@@ -7325,8 +7325,8 @@
         "www.52av.tv": {
             "included_at_epoch": 1592661649.455216,
             "included_at_iso": "2020-06-20T14:00:49.455216",
-            "last_retested_at_epoch": 1595897939.237139,
-            "last_retested_at_iso": "2020-07-28T00:58:59.237139",
+            "last_retested_at_epoch": 1595998884.086857,
+            "last_retested_at_iso": "2020-07-29T05:01:24.086857",
             "status": "INACTIVE"
         },
         "www.6-ar.com": {
@@ -7619,8 +7619,8 @@
         "www.adult-models.org": {
             "included_at_epoch": 1593593607.756543,
             "included_at_iso": "2020-07-01T08:53:27.756543",
-            "last_retested_at_epoch": 1595907578.121476,
-            "last_retested_at_iso": "2020-07-28T03:39:38.121476",
+            "last_retested_at_epoch": 1595998933.346298,
+            "last_retested_at_iso": "2020-07-29T05:02:13.346298",
             "status": "INACTIVE"
         },
         "www.adult-planet.info": {
@@ -7892,8 +7892,8 @@
         "www.akuma.moe": {
             "included_at_epoch": 1594910696.228923,
             "included_at_iso": "2020-07-16T14:44:56.228923",
-            "last_retested_at_epoch": 1595901688.601534,
-            "last_retested_at_iso": "2020-07-28T02:01:28.601534",
+            "last_retested_at_epoch": 1595998801.643688,
+            "last_retested_at_iso": "2020-07-29T05:00:01.643688",
             "status": "INACTIVE"
         },
         "www.alaa168.angelfire.com": {
@@ -8480,8 +8480,8 @@
         "www.angels-bound.com": {
             "included_at_epoch": 1588433123.0,
             "included_at_iso": "2020-05-02T15:25:23",
-            "last_retested_at_epoch": 1595857561.681317,
-            "last_retested_at_iso": "2020-07-27T13:46:01.681317",
+            "last_retested_at_epoch": 1595999373.75178,
+            "last_retested_at_iso": "2020-07-29T05:09:33.751780",
             "status": "INACTIVE"
         },
         "www.angels-of-london.com": {
@@ -8606,8 +8606,8 @@
         "www.anonymousdmp.com": {
             "included_at_epoch": 1588479654.0,
             "included_at_iso": "2020-05-03T04:20:54",
-            "last_retested_at_epoch": 1595862466.981111,
-            "last_retested_at_iso": "2020-07-27T15:07:46.981111",
+            "last_retested_at_epoch": 1595999575.883638,
+            "last_retested_at_iso": "2020-07-29T05:12:55.883638",
             "status": "INACTIVE"
         },
         "www.antivirgins.com": {
@@ -9733,8 +9733,8 @@
         "www.chaturbate.eu": {
             "included_at_epoch": 1588447089.0,
             "included_at_iso": "2020-05-02T19:18:09",
-            "last_retested_at_epoch": 1595802337.008072,
-            "last_retested_at_iso": "2020-07-26T22:25:37.008072",
+            "last_retested_at_epoch": 1595999400.954444,
+            "last_retested_at_iso": "2020-07-29T05:10:00.954444",
             "status": "INACTIVE"
         },
         "www.chaturbate.global": {
@@ -10559,8 +10559,8 @@
         "www.docsfreakyforum.com": {
             "included_at_epoch": 1594796318.94617,
             "included_at_iso": "2020-07-15T06:58:38.946170",
-            "last_retested_at_epoch": 1595186826.656784,
-            "last_retested_at_iso": "2020-07-19T19:27:06.656784",
+            "last_retested_at_epoch": 1595999089.631986,
+            "last_retested_at_iso": "2020-07-29T05:04:49.631986",
             "status": "INACTIVE"
         },
         "www.dojinshi.biz": {
@@ -10846,8 +10846,8 @@
         "www.eroticmms.cz": {
             "included_at_epoch": 1589303517.081032,
             "included_at_iso": "2020-05-12T17:11:57.081032",
-            "last_retested_at_epoch": 1595796965.777201,
-            "last_retested_at_iso": "2020-07-26T20:56:05.777201",
+            "last_retested_at_epoch": 1595999444.252068,
+            "last_retested_at_iso": "2020-07-29T05:10:44.252068",
             "status": "INACTIVE"
         },
         "www.eroticuhd.com": {
@@ -10923,8 +10923,8 @@
         "www.escortgirlparis.com": {
             "included_at_epoch": 1588424124.0,
             "included_at_iso": "2020-05-02T12:55:24",
-            "last_retested_at_epoch": 1595873282.270072,
-            "last_retested_at_iso": "2020-07-27T18:08:02.270072",
+            "last_retested_at_epoch": 1595999521.697872,
+            "last_retested_at_iso": "2020-07-29T05:12:01.697872",
             "status": "INACTIVE"
         },
         "www.escortinbangkokella.com": {
@@ -11322,8 +11322,8 @@
         "www.fazed.org": {
             "included_at_epoch": 1583191509.0,
             "included_at_iso": "2020-03-02T23:25:09",
-            "last_retested_at_epoch": 1595907663.587633,
-            "last_retested_at_iso": "2020-07-28T03:41:03.587633",
+            "last_retested_at_epoch": 1595998815.288318,
+            "last_retested_at_iso": "2020-07-29T05:00:15.288318",
             "status": "INACTIVE"
         },
         "www.fbbtop100.com": {
@@ -11581,8 +11581,8 @@
         "www.fortlauderdale-escortservice.com": {
             "included_at_epoch": 1588510369.0,
             "included_at_iso": "2020-05-03T12:52:49",
-            "last_retested_at_epoch": 1595868560.48011,
-            "last_retested_at_iso": "2020-07-27T16:49:20.480110",
+            "last_retested_at_epoch": 1595998879.990098,
+            "last_retested_at_iso": "2020-07-29T05:01:19.990098",
             "status": "INACTIVE"
         },
         "www.forum-intime.com": {
@@ -11616,8 +11616,8 @@
         "www.fotoxxxru.com": {
             "included_at_epoch": 1590515650.112162,
             "included_at_iso": "2020-05-26T17:54:10.112162",
-            "last_retested_at_epoch": 1595873442.065058,
-            "last_retested_at_iso": "2020-07-27T18:10:42.065058",
+            "last_retested_at_epoch": 1595998916.811271,
+            "last_retested_at_iso": "2020-07-29T05:01:56.811271",
             "status": "INACTIVE"
         },
         "www.foxporns.org": {
@@ -12204,8 +12204,8 @@
         "www.gnesin-hanty.ru": {
             "included_at_epoch": 1593818598.114643,
             "included_at_iso": "2020-07-03T23:23:18.114643",
-            "last_retested_at_epoch": 1595626745.909025,
-            "last_retested_at_iso": "2020-07-24T21:39:05.909025",
+            "last_retested_at_epoch": 1595999486.954331,
+            "last_retested_at_iso": "2020-07-29T05:11:26.954331",
             "status": "INACTIVE"
         },
         "www.goldcoast-teens.com": {
@@ -12386,8 +12386,8 @@
         "www.hardnastygifs.tumblr.com": {
             "included_at_epoch": 1595290914.229868,
             "included_at_iso": "2020-07-21T00:21:54.229868",
-            "last_retested_at_epoch": 1595843323.271141,
-            "last_retested_at_iso": "2020-07-27T09:48:43.271141",
+            "last_retested_at_epoch": 1595999183.036873,
+            "last_retested_at_iso": "2020-07-29T05:06:23.036873",
             "status": "INACTIVE"
         },
         "www.hardtobuy.com": {
@@ -14829,8 +14829,8 @@
         "www.motel69.com": {
             "included_at_epoch": 1588415189.0,
             "included_at_iso": "2020-05-02T10:26:29",
-            "last_retested_at_epoch": 1595888758.53058,
-            "last_retested_at_iso": "2020-07-27T22:25:58.530580",
+            "last_retested_at_epoch": 1595999008.592953,
+            "last_retested_at_iso": "2020-07-29T05:03:28.592953",
             "status": "INACTIVE"
         },
         "www.mother-son.net": {
@@ -14983,8 +14983,8 @@
         "www.my-amateur-cumshots.com": {
             "included_at_epoch": 1588519549.0,
             "included_at_iso": "2020-05-03T15:25:49",
-            "last_retested_at_epoch": 1595907811.719834,
-            "last_retested_at_iso": "2020-07-28T03:43:31.719834",
+            "last_retested_at_epoch": 1595999211.088357,
+            "last_retested_at_iso": "2020-07-29T05:06:51.088357",
             "status": "INACTIVE"
         },
         "www.my-mistress-is-the-best.tumblr.com": {
@@ -15081,8 +15081,8 @@
         "www.nakedlivewebcams.com": {
             "included_at_epoch": 1588497718.0,
             "included_at_iso": "2020-05-03T09:21:58",
-            "last_retested_at_epoch": 1595883687.284394,
-            "last_retested_at_iso": "2020-07-27T21:01:27.284394",
+            "last_retested_at_epoch": 1595999398.8577,
+            "last_retested_at_iso": "2020-07-29T05:09:58.857700",
             "status": "INACTIVE"
         },
         "www.nakednepaligirl.com": {
@@ -16558,8 +16558,8 @@
         "www.pornobizarre.com": {
             "included_at_epoch": 1588451602.0,
             "included_at_iso": "2020-05-02T20:33:22",
-            "last_retested_at_epoch": 1595873389.835584,
-            "last_retested_at_iso": "2020-07-27T18:09:49.835584",
+            "last_retested_at_epoch": 1595999301.721426,
+            "last_retested_at_iso": "2020-07-29T05:08:21.721426",
             "status": "INACTIVE"
         },
         "www.pornocyber.com": {
@@ -17580,8 +17580,8 @@
         "www.scoreadate.com": {
             "included_at_epoch": 1588446991.0,
             "included_at_iso": "2020-05-02T19:16:31",
-            "last_retested_at_epoch": 1595907465.578931,
-            "last_retested_at_iso": "2020-07-28T03:37:45.578931",
+            "last_retested_at_epoch": 1595998968.636804,
+            "last_retested_at_iso": "2020-07-29T05:02:48.636804",
             "status": "INACTIVE"
         },
         "www.searchforit.com": {
@@ -18814,6 +18814,13 @@
             "included_at_iso": "2020-06-04T04:37:52.673899",
             "last_retested_at_epoch": 1594160355.289105,
             "last_retested_at_iso": "2020-07-07T22:19:15.289105",
+            "status": "INACTIVE"
+        },
+        "www.superputaria.com": {
+            "included_at_epoch": 1595999436.952972,
+            "included_at_iso": "2020-07-29T05:10:36.952972",
+            "last_retested_at_epoch": 1595999436.952972,
+            "last_retested_at_iso": "2020-07-29T05:10:36.952972",
             "status": "INACTIVE"
         },
         "www.supersexyn1.com": {
@@ -20184,8 +20191,8 @@
         "www.virgin-cocks.com": {
             "included_at_epoch": 1583158661.0,
             "included_at_iso": "2020-03-02T14:17:41",
-            "last_retested_at_epoch": 1595888667.306838,
-            "last_retested_at_iso": "2020-07-27T22:24:27.306838",
+            "last_retested_at_epoch": 1595998833.377392,
+            "last_retested_at_iso": "2020-07-29T05:00:33.377392",
             "status": "INACTIVE"
         },
         "www.virgin-world.com": {
@@ -21374,8 +21381,8 @@
         "www.your-dating-future1.com": {
             "included_at_epoch": 1588519720.0,
             "included_at_iso": "2020-05-03T15:28:40",
-            "last_retested_at_epoch": 1595901772.155533,
-            "last_retested_at_iso": "2020-07-28T02:02:52.155533",
+            "last_retested_at_epoch": 1595999424.443974,
+            "last_retested_at_iso": "2020-07-29T05:10:24.443974",
             "status": "INACTIVE"
         },
         "www.yourfucktape.com": {
