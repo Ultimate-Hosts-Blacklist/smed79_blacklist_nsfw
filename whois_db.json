@@ -12832,7 +12832,7 @@
     "celebsuncensored.com": {
         "epoch": 1595980800.0,
         "expiration_date": "29-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "celebtaboo.com": {
         "epoch": 1626393600.0,
@@ -34982,7 +34982,7 @@
     "keezlive.com": {
         "epoch": 1596067200.0,
         "expiration_date": "30-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "keezmovies.com": {
         "epoch": 1614470400.0,
@@ -65812,7 +65812,7 @@
     "torontoangels.com": {
         "epoch": 1596067200.0,
         "expiration_date": "30-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "torontohappytime.com": {
         "epoch": 1600473600.0,
