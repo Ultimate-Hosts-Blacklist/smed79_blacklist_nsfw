@@ -23792,7 +23792,7 @@
     "freeteensvideo.net": {
         "epoch": 1595980800.0,
         "expiration_date": "29-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "freeteentube.tv": {
         "epoch": 1612915200.0,
@@ -41935,9 +41935,9 @@
         "state": "future"
     },
     "myhentai.tv": {
-        "epoch": 1595894400.0,
-        "expiration_date": "28-jul-2020",
-        "state": "past"
+        "epoch": 1627430400.0,
+        "expiration_date": "28-jul-2021",
+        "state": "future"
     },
     "myhentaicomics.com": {
         "epoch": 1717459200.0,
@@ -60720,8 +60720,8 @@
         "state": "future"
     },
     "sobeldades.com.br": {
-        "epoch": 1596067200.0,
-        "expiration_date": "30-jul-2020",
+        "epoch": 1659139200.0,
+        "expiration_date": "30-jul-2022",
         "state": "future"
     },
     "sobrasileiras.com": {
