@@ -2550,8 +2550,8 @@
         "state": "future"
     },
     "adultflex.com": {
-        "epoch": 1595980800.0,
-        "expiration_date": "29-jul-2020",
+        "epoch": 1627516800.0,
+        "expiration_date": "29-jul-2021",
         "state": "future"
     },
     "adultforce.com": {
@@ -26885,8 +26885,8 @@
         "state": "future"
     },
     "gpicasso.com": {
-        "epoch": 1596067200.0,
-        "expiration_date": "30-jul-2020",
+        "epoch": 1659139200.0,
+        "expiration_date": "30-jul-2022",
         "state": "future"
     },
     "gr8forte.org": {
@@ -57505,8 +57505,8 @@
         "state": "future"
     },
     "sexeconfidence.com": {
-        "epoch": 1595980800.0,
-        "expiration_date": "29-jul-2020",
+        "epoch": 1627516800.0,
+        "expiration_date": "29-jul-2021",
         "state": "future"
     },
     "sexedanslepre.net": {
@@ -59782,7 +59782,7 @@
     "showbeauty.com": {
         "epoch": 1595980800.0,
         "expiration_date": "29-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "showgirlzexclusive.com": {
         "epoch": 1723248000.0,
@@ -61855,9 +61855,9 @@
         "state": "future"
     },
     "stucktube.com": {
-        "epoch": 1595808000.0,
-        "expiration_date": "27-jul-2020",
-        "state": "past"
+        "epoch": 1627344000.0,
+        "expiration_date": "27-jul-2021",
+        "state": "future"
     },
     "studentsexparties.com": {
         "epoch": 1596412800.0,
@@ -64600,9 +64600,9 @@
         "state": "future"
     },
     "theredporn.com": {
-        "epoch": 1595894400.0,
-        "expiration_date": "28-jul-2020",
-        "state": "past"
+        "epoch": 1627430400.0,
+        "expiration_date": "28-jul-2021",
+        "state": "future"
     },
     "theretired.com": {
         "epoch": 1603843200.0,
