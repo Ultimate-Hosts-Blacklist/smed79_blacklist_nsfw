@@ -2984,6 +2984,11 @@
         "expiration_date": "02-nov-2020",
         "state": "future"
     },
+    "afarsex.co.il": {
+        "epoch": 1613779200.0,
+        "expiration_date": "20-feb-2021",
+        "state": "future"
+    },
     "affairhookups.com": {
         "epoch": 1612742400.0,
         "expiration_date": "08-feb-2021",
@@ -12470,8 +12475,8 @@
         "state": "future"
     },
     "cashburners.biz": {
-        "epoch": 1595203200.0,
-        "expiration_date": "20-jul-2020",
+        "epoch": 1626739200.0,
+        "expiration_date": "20-jul-2021",
         "state": "future"
     },
     "cashlayer.com": {
@@ -14325,8 +14330,8 @@
         "state": "future"
     },
     "comic-porno.com": {
-        "epoch": 1595980800.0,
-        "expiration_date": "29-jul-2020",
+        "epoch": 1627516800.0,
+        "expiration_date": "29-jul-2021",
         "state": "future"
     },
     "comicbookmovie.com": {
@@ -31365,9 +31370,9 @@
         "state": "future"
     },
     "ikujav.com": {
-        "epoch": 1595894400.0,
-        "expiration_date": "28-jul-2020",
-        "state": "past"
+        "epoch": 1627430400.0,
+        "expiration_date": "28-jul-2021",
+        "state": "future"
     },
     "ilemi.co": {
         "epoch": 1638144000.0,
