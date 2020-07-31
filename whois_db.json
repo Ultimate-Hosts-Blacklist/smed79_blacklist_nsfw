@@ -14645,8 +14645,8 @@
         "state": "future"
     },
     "courtneyvirgin.com": {
-        "epoch": 1596153600.0,
-        "expiration_date": "31-jul-2020",
+        "epoch": 1627689600.0,
+        "expiration_date": "31-jul-2021",
         "state": "future"
     },
     "covertsubliminal.com": {
@@ -35415,8 +35415,8 @@
         "state": "future"
     },
     "kookporn.com": {
-        "epoch": 1595808000.0,
-        "expiration_date": "27-jul-2020",
+        "epoch": 1627344000.0,
+        "expiration_date": "27-jul-2021",
         "state": "future"
     },
     "koostube.com": {
@@ -52457,7 +52457,7 @@
     "pornzeus.com": {
         "epoch": 1596153600.0,
         "expiration_date": "31-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "pornzexx.com": {
         "epoch": 1609718400.0,
