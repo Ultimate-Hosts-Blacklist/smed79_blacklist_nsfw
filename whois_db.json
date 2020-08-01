@@ -1492,7 +1492,7 @@
     "69matureporn.com": {
         "epoch": 1596153600.0,
         "expiration_date": "31-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "69pornclips.com": {
         "epoch": 1616889600.0,
@@ -15095,8 +15095,8 @@
         "state": "future"
     },
     "cumpleaser.com": {
-        "epoch": 1596240000.0,
-        "expiration_date": "01-aug-2020",
+        "epoch": 1627776000.0,
+        "expiration_date": "01-aug-2021",
         "state": "future"
     },
     "cumsearcher.com": {
@@ -31117,7 +31117,7 @@
     "i-am-bored.com": {
         "epoch": 1596240000.0,
         "expiration_date": "01-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "i-dol.tv": {
         "epoch": 1602892800.0,
