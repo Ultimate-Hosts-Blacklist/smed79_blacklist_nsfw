@@ -24082,7 +24082,7 @@
     "friendfinder-x.com": {
         "epoch": 1596240000.0,
         "expiration_date": "01-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "friendfinder.com": {
         "epoch": 1614816000.0,
