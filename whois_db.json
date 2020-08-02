@@ -5645,8 +5645,8 @@
         "state": "future"
     },
     "anon-ib.ru": {
-        "epoch": 1596240000.0,
-        "expiration_date": "01-aug-2020",
+        "epoch": 1627776000.0,
+        "expiration_date": "01-aug-2021",
         "state": "future"
     },
     "anon-ib.su": {
@@ -25070,8 +25070,8 @@
         "state": "future"
     },
     "gameofporn.net": {
-        "epoch": 1596326400.0,
-        "expiration_date": "02-aug-2020",
+        "epoch": 1627862400.0,
+        "expiration_date": "02-aug-2021",
         "state": "future"
     },
     "gamerotic.com": {
@@ -26775,8 +26775,8 @@
         "state": "future"
     },
     "goodwapi.com": {
-        "epoch": 1595721600.0,
-        "expiration_date": "26-jul-2020",
+        "epoch": 1627257600.0,
+        "expiration_date": "26-jul-2021",
         "state": "future"
     },
     "goofap.com": {
@@ -32810,8 +32810,8 @@
         "state": "future"
     },
     "izlesem.org": {
-        "epoch": 1596326400.0,
-        "expiration_date": "02-aug-2020",
+        "epoch": 1627862400.0,
+        "expiration_date": "02-aug-2021",
         "state": "future"
     },
     "izporn.net": {
@@ -66202,7 +66202,7 @@
     "triplexstreams.com": {
         "epoch": 1596326400.0,
         "expiration_date": "02-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "trixhentai.com": {
         "epoch": 1637712000.0,
