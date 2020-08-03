@@ -20885,8 +20885,8 @@
         "state": "future"
     },
     "fapbase.com": {
-        "epoch": 1596412800.0,
-        "expiration_date": "03-aug-2020",
+        "epoch": 1627948800.0,
+        "expiration_date": "03-aug-2021",
         "state": "future"
     },
     "fapd.com": {
@@ -42372,7 +42372,7 @@
     "mysinpower.com": {
         "epoch": 1596412800.0,
         "expiration_date": "03-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "mystarlets.com": {
         "epoch": 1615161600.0,
@@ -76685,8 +76685,8 @@
         "state": "future"
     },
     "zeburlesque.com": {
-        "epoch": 1596153600.0,
-        "expiration_date": "31-jul-2020",
+        "epoch": 1627689600.0,
+        "expiration_date": "31-jul-2021",
         "state": "future"
     },
     "zehnporn.com": {
