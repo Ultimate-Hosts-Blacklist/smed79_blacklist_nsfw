@@ -11625,8 +11625,8 @@
         "state": "future"
     },
     "cafecoquin.com": {
-        "epoch": 1596412800.0,
-        "expiration_date": "03-aug-2020",
+        "epoch": 1627948800.0,
+        "expiration_date": "03-aug-2021",
         "state": "future"
     },
     "cafesexe.com": {
@@ -31800,8 +31800,8 @@
         "state": "future"
     },
     "imgrock.info": {
-        "epoch": 1596499200.0,
-        "expiration_date": "04-aug-2020",
+        "epoch": 1628035200.0,
+        "expiration_date": "04-aug-2021",
         "state": "future"
     },
     "imgrock.net": {
@@ -41852,7 +41852,7 @@
     "myfappening.org": {
         "epoch": 1596585600.0,
         "expiration_date": "05-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "myfavsexcams.xxx": {
         "epoch": 1601078400.0,
@@ -53197,7 +53197,7 @@
     "publicvideotube.com": {
         "epoch": 1596499200.0,
         "expiration_date": "04-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "puffynetwork.com": {
         "epoch": 1618099200.0,
@@ -60725,8 +60725,8 @@
         "state": "future"
     },
     "so-shiny.com": {
-        "epoch": 1596326400.0,
-        "expiration_date": "02-aug-2020",
+        "epoch": 1627862400.0,
+        "expiration_date": "02-aug-2021",
         "state": "future"
     },
     "soamadorasbr.com": {
@@ -74100,8 +74100,8 @@
         "state": "future"
     },
     "xxx-y.com": {
-        "epoch": 1596412800.0,
-        "expiration_date": "03-aug-2020",
+        "epoch": 1627948800.0,
+        "expiration_date": "03-aug-2021",
         "state": "future"
     },
     "xxx-yes.com": {
