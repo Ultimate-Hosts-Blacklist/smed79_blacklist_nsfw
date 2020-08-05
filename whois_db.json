@@ -26160,8 +26160,8 @@
         "state": "future"
     },
     "girlscanner.cc": {
-        "epoch": 1596412800.0,
-        "expiration_date": "03-aug-2020",
+        "epoch": 1627948800.0,
+        "expiration_date": "03-aug-2021",
         "state": "future"
     },
     "girlscanner.com": {
@@ -41930,9 +41930,9 @@
         "state": "future"
     },
     "myglamoursite.com": {
-        "epoch": 1596153600.0,
-        "expiration_date": "31-jul-2020",
-        "state": "past"
+        "epoch": 1627689600.0,
+        "expiration_date": "31-jul-2021",
+        "state": "future"
     },
     "mygully.com": {
         "epoch": 1755216000.0,
@@ -45540,8 +45540,8 @@
         "state": "future"
     },
     "omegle.com": {
-        "epoch": 1595721600.0,
-        "expiration_date": "26-jul-2020",
+        "epoch": 1879718400.0,
+        "expiration_date": "26-jul-2029",
         "state": "future"
     },
     "omg99.net": {
