@@ -2497,7 +2497,7 @@
     "adultdvdmarketplace.com": {
         "epoch": 1596931200.0,
         "expiration_date": "09-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "adultdvdtalk.com": {
         "epoch": 1627344000.0,
@@ -12465,8 +12465,8 @@
         "state": "future"
     },
     "caseirasshow.net": {
-        "epoch": 1596758400.0,
-        "expiration_date": "07-aug-2020",
+        "epoch": 1628294400.0,
+        "expiration_date": "07-aug-2021",
         "state": "future"
     },
     "cash-program.com": {
@@ -18172,7 +18172,7 @@
     "ebook-eros.com": {
         "epoch": 1596931200.0,
         "expiration_date": "09-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "eccie.net": {
         "epoch": 1646697600.0,
@@ -23357,7 +23357,7 @@
     "freematureworld.com": {
         "epoch": 1596931200.0,
         "expiration_date": "09-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "freemeet.net": {
         "epoch": 1612310400.0,
@@ -76347,7 +76347,7 @@
     "yourjav.com": {
         "epoch": 1596931200.0,
         "expiration_date": "09-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "yourlive.webcam": {
         "epoch": 1610928000.0,
