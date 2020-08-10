@@ -10410,8 +10410,8 @@
         "state": "future"
     },
     "boobstr.com": {
-        "epoch": 1597017600.0,
-        "expiration_date": "10-aug-2020",
+        "epoch": 1628553600.0,
+        "expiration_date": "10-aug-2021",
         "state": "future"
     },
     "boobstudy.com": {
@@ -13035,8 +13035,8 @@
         "state": "future"
     },
     "chat.fr": {
-        "epoch": 1596672000.0,
-        "expiration_date": "06-aug-2020",
+        "epoch": 1628208000.0,
+        "expiration_date": "06-aug-2021",
         "state": "future"
     },
     "chatbro.com": {
@@ -13937,7 +13937,7 @@
     "clubkatiesummers.com": {
         "epoch": 1597017600.0,
         "expiration_date": "10-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "clubkatsuni.com": {
         "epoch": 1618704000.0,
@@ -67790,8 +67790,8 @@
         "state": "future"
     },
     "ultimatehandjob.com": {
-        "epoch": 1596412800.0,
-        "expiration_date": "03-aug-2020",
+        "epoch": 1627948800.0,
+        "expiration_date": "03-aug-2021",
         "state": "future"
     },
     "ultoporn.com": {
