@@ -45240,8 +45240,8 @@
         "state": "future"
     },
     "ohoporn.com": {
-        "epoch": 1596931200.0,
-        "expiration_date": "09-aug-2020",
+        "epoch": 1628467200.0,
+        "expiration_date": "09-aug-2021",
         "state": "future"
     },
     "ohpornocasero.com": {
@@ -62352,7 +62352,7 @@
     "swapclips.com": {
         "epoch": 1597104000.0,
         "expiration_date": "11-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "swapfinder.com": {
         "epoch": 1619827200.0,
