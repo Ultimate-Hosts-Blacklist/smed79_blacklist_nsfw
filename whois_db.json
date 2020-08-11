@@ -25105,8 +25105,8 @@
         "state": "future"
     },
     "gandalfporn.com": {
-        "epoch": 1597104000.0,
-        "expiration_date": "11-aug-2020",
+        "epoch": 1628640000.0,
+        "expiration_date": "11-aug-2021",
         "state": "future"
     },
     "gangav.com": {
@@ -56210,9 +56210,9 @@
         "state": "future"
     },
     "sarajay.com": {
-        "epoch": 1596931200.0,
-        "expiration_date": "09-aug-2020",
-        "state": "past"
+        "epoch": 1628467200.0,
+        "expiration_date": "09-aug-2021",
+        "state": "future"
     },
     "sarapbeh.com": {
         "epoch": 1625875200.0,
@@ -64085,8 +64085,8 @@
         "state": "future"
     },
     "the-new-lagoon.com": {
-        "epoch": 1597104000.0,
-        "expiration_date": "11-aug-2020",
+        "epoch": 1628640000.0,
+        "expiration_date": "11-aug-2021",
         "state": "future"
     },
     "the-pork.com": {
@@ -65870,9 +65870,9 @@
         "state": "future"
     },
     "total-versaut.org": {
-        "epoch": 1596240000.0,
-        "expiration_date": "01-aug-2020",
-        "state": "past"
+        "epoch": 1627776000.0,
+        "expiration_date": "01-aug-2021",
+        "state": "future"
     },
     "totale-defonce.com": {
         "epoch": 1616716800.0,
