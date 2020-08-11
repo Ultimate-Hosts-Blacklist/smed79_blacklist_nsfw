@@ -1193,22 +1193,22 @@
         "cdn1.cutieporno.com": {
             "included_at_epoch": 1594778511.750399,
             "included_at_iso": "2020-07-15T02:01:51.750399",
-            "last_retested_at_epoch": 1596916736.907231,
-            "last_retested_at_iso": "2020-08-08T19:58:56.907231",
+            "last_retested_at_epoch": 1597135864.2689,
+            "last_retested_at_iso": "2020-08-11T08:51:04.268900",
             "status": "INACTIVE"
         },
         "cdn1.jizzbo.mobi": {
             "included_at_epoch": 1594790691.459597,
             "included_at_iso": "2020-07-15T05:24:51.459597",
-            "last_retested_at_epoch": 1596916734.065842,
-            "last_retested_at_iso": "2020-08-08T19:58:54.065842",
+            "last_retested_at_epoch": 1597135763.759821,
+            "last_retested_at_iso": "2020-08-11T08:49:23.759821",
             "status": "INACTIVE"
         },
         "cdn1.mobile.pornhub.com": {
             "included_at_epoch": 1588437666.0,
             "included_at_iso": "2020-05-02T16:41:06",
-            "last_retested_at_epoch": 1596946091.308953,
-            "last_retested_at_iso": "2020-08-09T04:08:11.308953",
+            "last_retested_at_epoch": 1597136381.264755,
+            "last_retested_at_iso": "2020-08-11T08:59:41.264755",
             "status": "INACTIVE"
         },
         "cdn1.my18tube.com": {
@@ -2306,8 +2306,8 @@
         "faketaxi.es": {
             "included_at_epoch": 1591130608.799941,
             "included_at_iso": "2020-06-02T20:43:28.799941",
-            "last_retested_at_epoch": 1596968468.565631,
-            "last_retested_at_iso": "2020-08-09T10:21:08.565631",
+            "last_retested_at_epoch": 1597135823.950336,
+            "last_retested_at_iso": "2020-08-11T08:50:23.950336",
             "status": "INACTIVE"
         },
         "fapcity.pw": {
@@ -2978,8 +2978,8 @@
         "google.pornhub.com": {
             "included_at_epoch": 1588519550.0,
             "included_at_iso": "2020-05-03T15:25:50",
-            "last_retested_at_epoch": 1596606097.626458,
-            "last_retested_at_iso": "2020-08-05T05:41:37.626458",
+            "last_retested_at_epoch": 1597136001.418566,
+            "last_retested_at_iso": "2020-08-11T08:53:21.418566",
             "status": "INACTIVE"
         },
         "gqigjgs.angelfire.com": {
@@ -3447,8 +3447,8 @@
         "images.yubuporn.com": {
             "included_at_epoch": 1595843412.954614,
             "included_at_iso": "2020-07-27T09:50:12.954614",
-            "last_retested_at_epoch": 1596882198.875367,
-            "last_retested_at_iso": "2020-08-08T10:23:18.875367",
+            "last_retested_at_epoch": 1597135704.399138,
+            "last_retested_at_iso": "2020-08-11T08:48:24.399138",
             "status": "INACTIVE"
         },
         "img.deepme.com": {
@@ -3524,8 +3524,8 @@
         "img02.xmissymedia.com": {
             "included_at_epoch": 1588522698.0,
             "included_at_iso": "2020-05-03T16:18:18",
-            "last_retested_at_epoch": 1596934098.245899,
-            "last_retested_at_iso": "2020-08-09T00:48:18.245899",
+            "last_retested_at_epoch": 1597136349.061083,
+            "last_retested_at_iso": "2020-08-11T08:59:09.061083",
             "status": "INACTIVE"
         },
         "img1.24video.net": {
@@ -5862,8 +5862,8 @@
         "s12.streamers.jetm-tech.net": {
             "included_at_epoch": 1588624663.784828,
             "included_at_iso": "2020-05-04T20:37:43.784828",
-            "last_retested_at_epoch": 1596342022.432992,
-            "last_retested_at_iso": "2020-08-02T04:20:22.432992",
+            "last_retested_at_epoch": 1597136292.852527,
+            "last_retested_at_iso": "2020-08-11T08:58:12.852527",
             "status": "INACTIVE"
         },
         "s13.streamers.jetm-tech.net": {
@@ -7140,6 +7140,13 @@
             "last_retested_at_iso": "2020-08-10T09:57:43.386458",
             "status": "INACTIVE"
         },
+        "thumbs.epornik.com": {
+            "included_at_epoch": 1597135811.075972,
+            "included_at_iso": "2020-08-11T08:50:11.075972",
+            "last_retested_at_epoch": 1597135811.075972,
+            "last_retested_at_iso": "2020-08-11T08:50:11.075972",
+            "status": "INACTIVE"
+        },
         "thumbs.films-amateurs.tv": {
             "included_at_epoch": 1582796137.0,
             "included_at_iso": "2020-02-27T09:35:37",
@@ -8221,8 +8228,8 @@
         "www.a1stars.net": {
             "included_at_epoch": 1597024794.389423,
             "included_at_iso": "2020-08-10T01:59:54.389423",
-            "last_retested_at_epoch": 1597024794.389423,
-            "last_retested_at_iso": "2020-08-10T01:59:54.389423",
+            "last_retested_at_epoch": 1597135751.973403,
+            "last_retested_at_iso": "2020-08-11T08:49:11.973403",
             "status": "INACTIVE"
         },
         "www.a1tb.com": {
@@ -8615,6 +8622,13 @@
             "included_at_iso": "2020-08-10T16:21:09.887651",
             "last_retested_at_epoch": 1597076469.887651,
             "last_retested_at_iso": "2020-08-10T16:21:09.887651",
+            "status": "INACTIVE"
+        },
+        "www.adultxpix.net": {
+            "included_at_epoch": 1597136291.830228,
+            "included_at_iso": "2020-08-11T08:58:11.830228",
+            "last_retested_at_epoch": 1597136291.830228,
+            "last_retested_at_iso": "2020-08-11T08:58:11.830228",
             "status": "INACTIVE"
         },
         "www.adultzz.com": {
@@ -9208,8 +9222,8 @@
         "www.angelclip.info": {
             "included_at_epoch": 1588527742.0,
             "included_at_iso": "2020-05-03T17:42:22",
-            "last_retested_at_epoch": 1597047933.413021,
-            "last_retested_at_iso": "2020-08-10T08:25:33.413021",
+            "last_retested_at_epoch": 1597135862.898549,
+            "last_retested_at_iso": "2020-08-11T08:51:02.898549",
             "status": "INACTIVE"
         },
         "www.angeldollars.com": {
@@ -9460,8 +9474,8 @@
         "www.ankaraescortbayan.net": {
             "included_at_epoch": 1588419782.0,
             "included_at_iso": "2020-05-02T11:43:02",
-            "last_retested_at_epoch": 1596934142.934956,
-            "last_retested_at_iso": "2020-08-09T00:49:02.934956",
+            "last_retested_at_epoch": 1597135941.233311,
+            "last_retested_at_iso": "2020-08-11T08:52:21.233311",
             "status": "INACTIVE"
         },
         "www.annamalicesissyselfhypnosis.com": {
@@ -10671,8 +10685,8 @@
         "www.cdn18tube.pro": {
             "included_at_epoch": 1588328476.0,
             "included_at_iso": "2020-05-01T10:21:16",
-            "last_retested_at_epoch": 1597042199.431113,
-            "last_retested_at_iso": "2020-08-10T06:49:59.431113",
+            "last_retested_at_epoch": 1597136556.134118,
+            "last_retested_at_iso": "2020-08-11T09:02:36.134118",
             "status": "INACTIVE"
         },
         "www.cdn19tube.pro": {
@@ -10979,8 +10993,8 @@
         "www.clubvirgins.com": {
             "included_at_epoch": 1582792059.0,
             "included_at_iso": "2020-02-27T08:27:39",
-            "last_retested_at_epoch": 1596978868.337871,
-            "last_retested_at_iso": "2020-08-09T13:14:28.337871",
+            "last_retested_at_epoch": 1597135706.397562,
+            "last_retested_at_iso": "2020-08-11T08:48:26.397562",
             "status": "INACTIVE"
         },
         "www.cluster3.adultadworld.com": {
@@ -12449,8 +12463,8 @@
         "www.faketaxi.es": {
             "included_at_epoch": 1591130608.818204,
             "included_at_iso": "2020-06-02T20:43:28.818204",
-            "last_retested_at_epoch": 1596968468.564691,
-            "last_retested_at_iso": "2020-08-09T10:21:08.564691",
+            "last_retested_at_epoch": 1597135824.018723,
+            "last_retested_at_iso": "2020-08-11T08:50:24.018723",
             "status": "INACTIVE"
         },
         "www.fallenangelfuns.com": {
@@ -12995,8 +13009,8 @@
         "www.free-tv-video-online.me": {
             "included_at_epoch": 1588428264.0,
             "included_at_iso": "2020-05-02T14:04:24",
-            "last_retested_at_epoch": 1597012988.607594,
-            "last_retested_at_iso": "2020-08-09T22:43:08.607594",
+            "last_retested_at_epoch": 1597136064.920882,
+            "last_retested_at_iso": "2020-08-11T08:54:24.920882",
             "status": "INACTIVE"
         },
         "www.free.atkpremium.com": {
@@ -13018,6 +13032,13 @@
             "included_at_iso": "2020-07-22T13:57:37.959202",
             "last_retested_at_epoch": 1596163148.204517,
             "last_retested_at_iso": "2020-07-31T02:39:08.204517",
+            "status": "INACTIVE"
+        },
+        "www.freebestsexstories.com": {
+            "included_at_epoch": 1597135974.866619,
+            "included_at_iso": "2020-08-11T08:52:54.866619",
+            "last_retested_at_epoch": 1597135974.866619,
+            "last_retested_at_iso": "2020-08-11T08:52:54.866619",
             "status": "INACTIVE"
         },
         "www.freecc.sex-explorer.com": {
@@ -13079,8 +13100,8 @@
         "www.freepornsearch.info": {
             "included_at_epoch": 1590655662.514535,
             "included_at_iso": "2020-05-28T08:47:42.514535",
-            "last_retested_at_epoch": 1597030918.467817,
-            "last_retested_at_iso": "2020-08-10T03:41:58.467817",
+            "last_retested_at_epoch": 1597136212.840488,
+            "last_retested_at_iso": "2020-08-11T08:56:52.840488",
             "status": "INACTIVE"
         },
         "www.freeporntubexx.com": {
@@ -13611,8 +13632,8 @@
         "www.google.pornhub.com": {
             "included_at_epoch": 1588539662.053614,
             "included_at_iso": "2020-05-03T21:01:02.053614",
-            "last_retested_at_epoch": 1596606097.744286,
-            "last_retested_at_iso": "2020-08-05T05:41:37.744286",
+            "last_retested_at_epoch": 1597136001.417609,
+            "last_retested_at_iso": "2020-08-11T08:53:21.417609",
             "status": "INACTIVE"
         },
         "www.goziga.com": {
@@ -13823,6 +13844,13 @@
             "included_at_iso": "2020-05-03T09:18:46",
             "last_retested_at_epoch": 1589331358.83627,
             "last_retested_at_iso": "2020-05-13T00:55:58.836270",
+            "status": "INACTIVE"
+        },
+        "www.hdero.com": {
+            "included_at_epoch": 1597136423.51695,
+            "included_at_iso": "2020-08-11T09:00:23.516950",
+            "last_retested_at_epoch": 1597136423.51695,
+            "last_retested_at_iso": "2020-08-11T09:00:23.516950",
             "status": "INACTIVE"
         },
         "www.hdgirls.tv": {
@@ -14308,6 +14336,13 @@
             "last_retested_at_iso": "2020-07-30T07:24:03.135756",
             "status": "INACTIVE"
         },
+        "www.hotxexperience.com": {
+            "included_at_epoch": 1597136498.377792,
+            "included_at_iso": "2020-08-11T09:01:38.377792",
+            "last_retested_at_epoch": 1597136498.377792,
+            "last_retested_at_iso": "2020-08-11T09:01:38.377792",
+            "status": "INACTIVE"
+        },
         "www.house-music.xyz": {
             "included_at_epoch": 1582983890.0,
             "included_at_iso": "2020-02-29T13:44:50",
@@ -14654,8 +14689,8 @@
         "www.impudiques-voisines.com": {
             "included_at_epoch": 1594797141.779068,
             "included_at_iso": "2020-07-15T07:12:21.779068",
-            "last_retested_at_epoch": 1596910408.301108,
-            "last_retested_at_iso": "2020-08-08T18:13:28.301108",
+            "last_retested_at_epoch": 1597136558.544148,
+            "last_retested_at_iso": "2020-08-11T09:02:38.544148",
             "status": "INACTIVE"
         },
         "www.in.blondexxxmag.com": {
@@ -14997,8 +15032,8 @@
         "www.jfporn.com": {
             "included_at_epoch": 1590918505.894349,
             "included_at_iso": "2020-05-31T09:48:25.894349",
-            "last_retested_at_epoch": 1596957455.437907,
-            "last_retested_at_iso": "2020-08-09T07:17:35.437907",
+            "last_retested_at_epoch": 1597135812.283795,
+            "last_retested_at_iso": "2020-08-11T08:50:12.283795",
             "status": "INACTIVE"
         },
         "www.jiztini.com": {
@@ -15452,8 +15487,8 @@
         "www.latestalisonangel.com": {
             "included_at_epoch": 1588524994.0,
             "included_at_iso": "2020-05-03T16:56:34",
-            "last_retested_at_epoch": 1596887127.423097,
-            "last_retested_at_iso": "2020-08-08T11:45:27.423097",
+            "last_retested_at_epoch": 1597135884.046019,
+            "last_retested_at_iso": "2020-08-11T08:51:24.046019",
             "status": "INACTIVE"
         },
         "www.latin-angel.com": {
@@ -15578,8 +15613,8 @@
         "www.lesbium.net": {
             "included_at_epoch": 1596973335.301738,
             "included_at_iso": "2020-08-09T11:42:15.301738",
-            "last_retested_at_epoch": 1596973335.301738,
-            "last_retested_at_iso": "2020-08-09T11:42:15.301738",
+            "last_retested_at_epoch": 1597136259.019165,
+            "last_retested_at_iso": "2020-08-11T08:57:39.019165",
             "status": "INACTIVE"
         },
         "www.leswebcams.com": {
@@ -16691,8 +16726,8 @@
         "www.mrstiff.fr": {
             "included_at_epoch": 1588433251.0,
             "included_at_iso": "2020-05-02T15:27:31",
-            "last_retested_at_epoch": 1596898945.836791,
-            "last_retested_at_iso": "2020-08-08T15:02:25.836791",
+            "last_retested_at_epoch": 1597135707.227015,
+            "last_retested_at_iso": "2020-08-11T08:48:27.227015",
             "status": "INACTIVE"
         },
         "www.msbehaviour.co.uk": {
@@ -17132,8 +17167,8 @@
         "www.newvideosxxx.com": {
             "included_at_epoch": 1588332804.0,
             "included_at_iso": "2020-05-01T11:33:24",
-            "last_retested_at_epoch": 1593699172.704469,
-            "last_retested_at_iso": "2020-07-02T14:12:52.704469",
+            "last_retested_at_epoch": 1597136321.450292,
+            "last_retested_at_iso": "2020-08-11T08:58:41.450292",
             "status": "INACTIVE"
         },
         "www.newvirgineveryday.com": {
@@ -17799,6 +17834,13 @@
             "included_at_iso": "2020-05-03T15:24:37",
             "last_retested_at_epoch": 1597053932.529197,
             "last_retested_at_iso": "2020-08-10T10:05:32.529197",
+            "status": "INACTIVE"
+        },
+        "www.pentasex.io": {
+            "included_at_epoch": 1597135909.164967,
+            "included_at_iso": "2020-08-11T08:51:49.164967",
+            "last_retested_at_epoch": 1597135909.164967,
+            "last_retested_at_iso": "2020-08-11T08:51:49.164967",
             "status": "INACTIVE"
         },
         "www.peperonity.com": {
@@ -19334,6 +19376,13 @@
             "last_retested_at_iso": "2020-02-27T08:26:12",
             "status": "INACTIVE"
         },
+        "www.real8teens.com": {
+            "included_at_epoch": 1597136108.867418,
+            "included_at_iso": "2020-08-11T08:55:08.867418",
+            "last_retested_at_epoch": 1597136108.867418,
+            "last_retested_at_iso": "2020-08-11T08:55:08.867418",
+            "status": "INACTIVE"
+        },
         "www.realbfporn.com": {
             "included_at_epoch": 1588310004.0,
             "included_at_iso": "2020-05-01T05:13:24",
@@ -19764,8 +19813,8 @@
         "www.scoreadate.com": {
             "included_at_epoch": 1588446991.0,
             "included_at_iso": "2020-05-02T19:16:31",
-            "last_retested_at_epoch": 1596910567.340857,
-            "last_retested_at_iso": "2020-08-08T18:16:07.340857",
+            "last_retested_at_epoch": 1597135781.943225,
+            "last_retested_at_iso": "2020-08-11T08:49:41.943225",
             "status": "INACTIVE"
         },
         "www.searchforit.com": {
@@ -19838,6 +19887,13 @@
             "last_retested_at_iso": "2020-02-29T05:54:14",
             "status": "INACTIVE"
         },
+        "www.seksifoorumi.net": {
+            "included_at_epoch": 1597135930.736634,
+            "included_at_iso": "2020-08-11T08:52:10.736634",
+            "last_retested_at_epoch": 1597135930.736634,
+            "last_retested_at_iso": "2020-08-11T08:52:10.736634",
+            "status": "INACTIVE"
+        },
         "www.seksxvideo.com": {
             "included_at_epoch": 1597076728.831156,
             "included_at_iso": "2020-08-10T16:25:28.831156",
@@ -19899,6 +19955,13 @@
             "included_at_iso": "2020-02-27T14:01:31",
             "last_retested_at_epoch": 1582812091.0,
             "last_retested_at_iso": "2020-02-27T14:01:31",
+            "status": "INACTIVE"
+        },
+        "www.sex-harem.com": {
+            "included_at_epoch": 1597136016.564002,
+            "included_at_iso": "2020-08-11T08:53:36.564002",
+            "last_retested_at_epoch": 1597136016.564002,
+            "last_retested_at_iso": "2020-08-11T08:53:36.564002",
             "status": "INACTIVE"
         },
         "www.sex-liveporno.com": {
@@ -20583,8 +20646,8 @@
         "www.shotathome.com": {
             "included_at_epoch": 1583138413.0,
             "included_at_iso": "2020-03-02T08:40:13",
-            "last_retested_at_epoch": 1597042440.260721,
-            "last_retested_at_iso": "2020-08-10T06:54:00.260721",
+            "last_retested_at_epoch": 1597136388.554935,
+            "last_retested_at_iso": "2020-08-11T08:59:48.554935",
             "status": "INACTIVE"
         },
         "www.showmenudes.com": {
@@ -20655,6 +20718,13 @@
             "included_at_iso": "2020-05-02T09:09:00",
             "last_retested_at_epoch": 1596611581.582682,
             "last_retested_at_iso": "2020-08-05T07:13:01.582682",
+            "status": "INACTIVE"
+        },
+        "www.sinfullyprecious.com": {
+            "included_at_epoch": 1597136146.739903,
+            "included_at_iso": "2020-08-11T08:55:46.739903",
+            "last_retested_at_epoch": 1597136146.739903,
+            "last_retested_at_iso": "2020-08-11T08:55:46.739903",
             "status": "INACTIVE"
         },
         "www.singlove.com": {
@@ -21607,6 +21677,13 @@
             "included_at_iso": "2020-05-12T14:43:14.959925",
             "last_retested_at_epoch": 1589294594.959925,
             "last_retested_at_iso": "2020-05-12T14:43:14.959925",
+            "status": "INACTIVE"
+        },
+        "www.thepornsurvey.com": {
+            "included_at_epoch": 1597136514.586684,
+            "included_at_iso": "2020-08-11T09:01:54.586684",
+            "last_retested_at_epoch": 1597136514.586684,
+            "last_retested_at_iso": "2020-08-11T09:01:54.586684",
             "status": "INACTIVE"
         },
         "www.thepornvideos.xyz": {
@@ -23026,8 +23103,8 @@
         "www.watchpornfree.ws": {
             "included_at_epoch": 1588506807.0,
             "included_at_iso": "2020-05-03T11:53:27",
-            "last_retested_at_epoch": 1597019004.172735,
-            "last_retested_at_iso": "2020-08-10T00:23:24.172735",
+            "last_retested_at_epoch": 1597136170.63589,
+            "last_retested_at_iso": "2020-08-11T08:56:10.635890",
             "status": "INACTIVE"
         },
         "www.watchxxxhq.com": {
@@ -23327,8 +23404,8 @@
         "www.xcelebritytube.com": {
             "included_at_epoch": 1588433154.0,
             "included_at_iso": "2020-05-02T15:25:54",
-            "last_retested_at_epoch": 1596989950.418068,
-            "last_retested_at_iso": "2020-08-09T16:19:10.418068",
+            "last_retested_at_epoch": 1597136391.97321,
+            "last_retested_at_iso": "2020-08-11T08:59:51.973210",
             "status": "INACTIVE"
         },
         "www.xfiles.cc": {
@@ -23744,6 +23821,13 @@
             "last_retested_at_iso": "2020-02-29T08:26:51",
             "status": "INACTIVE"
         },
+        "www.xxxland.org": {
+            "included_at_epoch": 1597136376.722233,
+            "included_at_iso": "2020-08-11T08:59:36.722233",
+            "last_retested_at_epoch": 1597136376.722233,
+            "last_retested_at_iso": "2020-08-11T08:59:36.722233",
+            "status": "INACTIVE"
+        },
         "www.xxxmalltheaters.tumblr.com": {
             "included_at_epoch": 1589142238.273472,
             "included_at_iso": "2020-05-10T20:23:58.273472",
@@ -23756,6 +23840,13 @@
             "included_at_iso": "2020-05-03T07:27:12",
             "last_retested_at_epoch": 1596905401.191903,
             "last_retested_at_iso": "2020-08-08T16:50:01.191903",
+            "status": "INACTIVE"
+        },
+        "www.xxxmonsterfile.com": {
+            "included_at_epoch": 1597136467.705669,
+            "included_at_iso": "2020-08-11T09:01:07.705669",
+            "last_retested_at_epoch": 1597136467.705669,
+            "last_retested_at_iso": "2020-08-11T09:01:07.705669",
             "status": "INACTIVE"
         },
         "www.xxxmoviestube.me": {
@@ -23936,8 +24027,8 @@
         "www.yfum.com": {
             "included_at_epoch": 1588432954.0,
             "included_at_iso": "2020-05-02T15:22:34",
-            "last_retested_at_epoch": 1597012843.022918,
-            "last_retested_at_iso": "2020-08-09T22:40:43.022918",
+            "last_retested_at_epoch": 1597135811.442539,
+            "last_retested_at_iso": "2020-08-11T08:50:11.442539",
             "status": "INACTIVE"
         },
         "www.ygxiewp.angelfire.com": {
@@ -23994,6 +24085,13 @@
             "included_at_iso": "2020-07-30T07:37:03.909649",
             "last_retested_at_epoch": 1596094623.909649,
             "last_retested_at_iso": "2020-07-30T07:37:03.909649",
+            "status": "INACTIVE"
+        },
+        "www.young-fuck.com": {
+            "included_at_epoch": 1597136544.212008,
+            "included_at_iso": "2020-08-11T09:02:24.212008",
+            "last_retested_at_epoch": 1597136544.212008,
+            "last_retested_at_iso": "2020-08-11T09:02:24.212008",
             "status": "INACTIVE"
         },
         "www.young-virgins.com": {
@@ -24104,8 +24202,8 @@
         "www.your-dating-future.com": {
             "included_at_epoch": 1588972932.671464,
             "included_at_iso": "2020-05-08T21:22:12.671464",
-            "last_retested_at_epoch": 1596990138.514536,
-            "last_retested_at_iso": "2020-08-09T16:22:18.514536",
+            "last_retested_at_epoch": 1597135825.011795,
+            "last_retested_at_iso": "2020-08-11T08:50:25.011795",
             "status": "INACTIVE"
         },
         "www.your-dating-future1.com": {
@@ -24601,8 +24699,8 @@
         "your-dating-future.com": {
             "included_at_epoch": 1590519817.182542,
             "included_at_iso": "2020-05-26T19:03:37.182542",
-            "last_retested_at_epoch": 1596990138.349323,
-            "last_retested_at_iso": "2020-08-09T16:22:18.349323",
+            "last_retested_at_epoch": 1597135825.009651,
+            "last_retested_at_iso": "2020-08-11T08:50:25.009651",
             "status": "INACTIVE"
         },
         "yourdarkqueenisis.tumblr.com": {
