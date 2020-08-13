@@ -19415,8 +19415,8 @@
         "state": "future"
     },
     "esboss.com": {
-        "epoch": 1597276800.0,
-        "expiration_date": "13-aug-2020",
+        "epoch": 1691884800.0,
+        "expiration_date": "13-aug-2023",
         "state": "future"
     },
     "escort-guide.ws": {
@@ -27390,8 +27390,8 @@
         "state": "future"
     },
     "hairy-arms.com": {
-        "epoch": 1597017600.0,
-        "expiration_date": "10-aug-2020",
+        "epoch": 1628553600.0,
+        "expiration_date": "10-aug-2021",
         "state": "future"
     },
     "hairy-beauty.com": {
@@ -56047,7 +56047,7 @@
     "safada.blog.br": {
         "epoch": 1597190400.0,
         "expiration_date": "12-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "safelinktracker.com": {
         "epoch": 1621123200.0,
@@ -70742,7 +70742,7 @@
     "watchmynewgf.com": {
         "epoch": 1597276800.0,
         "expiration_date": "13-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "watchmynudegf.com": {
         "epoch": 1617494400.0,
