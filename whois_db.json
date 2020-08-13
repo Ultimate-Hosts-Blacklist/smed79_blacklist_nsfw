@@ -14567,7 +14567,7 @@
     "cosplaydeviants.com": {
         "epoch": 1597276800.0,
         "expiration_date": "13-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "cosplayerotica.com": {
         "epoch": 1636329600.0,
@@ -29692,7 +29692,7 @@
     "hornyjourney.com": {
         "epoch": 1597276800.0,
         "expiration_date": "13-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "hornymatches.com": {
         "epoch": 1602806400.0,
@@ -50215,9 +50215,9 @@
         "state": "future"
     },
     "pornnerdnetwork.com": {
-        "epoch": 1597276800.0,
-        "expiration_date": "13-aug-2020",
-        "state": "past"
+        "epoch": 1628812800.0,
+        "expiration_date": "13-aug-2021",
+        "state": "future"
     },
     "pornnod.com": {
         "epoch": 1650240000.0,
@@ -66680,8 +66680,8 @@
         "state": "future"
     },
     "tubedope.com": {
-        "epoch": 1597017600.0,
-        "expiration_date": "10-aug-2020",
+        "epoch": 1628553600.0,
+        "expiration_date": "10-aug-2021",
         "state": "future"
     },
     "tubedupe.com": {
