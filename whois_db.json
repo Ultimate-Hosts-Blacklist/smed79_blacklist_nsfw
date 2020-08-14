@@ -3472,7 +3472,7 @@
     "alicetube.com": {
         "epoch": 1597363200.0,
         "expiration_date": "14-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "alison-angel-1.com": {
         "epoch": 1599696000.0,
@@ -44290,8 +44290,8 @@
         "state": "future"
     },
     "nuddess.com": {
-        "epoch": 1597104000.0,
-        "expiration_date": "11-aug-2020",
+        "epoch": 1628640000.0,
+        "expiration_date": "11-aug-2021",
         "state": "future"
     },
     "nude-and-famous.com": {
