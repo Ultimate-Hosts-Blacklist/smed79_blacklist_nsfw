@@ -23010,8 +23010,8 @@
         "state": "future"
     },
     "free-teen-porn.org": {
-        "epoch": 1597104000.0,
-        "expiration_date": "11-aug-2020",
+        "epoch": 1628640000.0,
+        "expiration_date": "11-aug-2021",
         "state": "future"
     },
     "free-tv-video-online.me": {
@@ -52847,7 +52847,7 @@
     "priva.us": {
         "epoch": 1597536000.0,
         "expiration_date": "16-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "privat-zapisi.com": {
         "epoch": 1613779200.0,
@@ -76360,9 +76360,9 @@
         "state": "future"
     },
     "yourjav.com": {
-        "epoch": 1596931200.0,
-        "expiration_date": "09-aug-2020",
-        "state": "past"
+        "epoch": 1628467200.0,
+        "expiration_date": "09-aug-2021",
+        "state": "future"
     },
     "yourlive.webcam": {
         "epoch": 1610928000.0,
