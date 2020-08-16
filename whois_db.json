@@ -6272,7 +6272,7 @@
     "artnudegalleries.com": {
         "epoch": 1597536000.0,
         "expiration_date": "16-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "artoferotica.info": {
         "epoch": 1609804800.0,
@@ -26105,8 +26105,8 @@
         "state": "future"
     },
     "girlsarepoetry.com": {
-        "epoch": 1597449600.0,
-        "expiration_date": "15-aug-2020",
+        "epoch": 1628985600.0,
+        "expiration_date": "15-aug-2021",
         "state": "future"
     },
     "girlsaskguys.com": {
@@ -33517,7 +33517,7 @@
     "javhub.tv": {
         "epoch": 1597449600.0,
         "expiration_date": "15-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "javichiban.com": {
         "epoch": 1610323200.0,
@@ -48500,8 +48500,8 @@
         "state": "future"
     },
     "popcorntimes.ws": {
-        "epoch": 1597363200.0,
-        "expiration_date": "14-aug-2020",
+        "epoch": 1628899200.0,
+        "expiration_date": "14-aug-2021",
         "state": "future"
     },
     "popjav.tv": {
