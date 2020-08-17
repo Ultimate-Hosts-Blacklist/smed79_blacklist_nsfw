@@ -29880,8 +29880,8 @@
         "state": "future"
     },
     "hotandmean.com": {
-        "epoch": 1597622400.0,
-        "expiration_date": "17-aug-2020",
+        "epoch": 1629158400.0,
+        "expiration_date": "17-aug-2021",
         "state": "future"
     },
     "hotanimebabes.net": {
@@ -72322,7 +72322,7 @@
     "xcritic.com": {
         "epoch": 1597622400.0,
         "expiration_date": "17-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "xcum.com": {
         "epoch": 1601251200.0,
