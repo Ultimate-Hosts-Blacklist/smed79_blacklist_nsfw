@@ -2282,7 +2282,7 @@
     "adult-banner-ads.com": {
         "epoch": 1597708800.0,
         "expiration_date": "18-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "adult-blogspot.com": {
         "epoch": 1607299200.0,
@@ -3425,8 +3425,8 @@
         "state": "future"
     },
     "alexisvirgin.com": {
-        "epoch": 1597708800.0,
-        "expiration_date": "18-aug-2020",
+        "epoch": 1629244800.0,
+        "expiration_date": "18-aug-2021",
         "state": "future"
     },
     "alexlegend.com": {
@@ -57430,9 +57430,9 @@
         "state": "future"
     },
     "sexe-videosgratuites.com": {
-        "epoch": 1597449600.0,
-        "expiration_date": "15-aug-2020",
-        "state": "past"
+        "epoch": 1628985600.0,
+        "expiration_date": "15-aug-2021",
+        "state": "future"
     },
     "sexe-videosgratuites.fr": {
         "epoch": 1597881600.0,
