@@ -4917,7 +4917,7 @@
     "angelascloset.com": {
         "epoch": 1597881600.0,
         "expiration_date": "20-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "angelass.com": {
         "epoch": 1604188800.0,
@@ -30580,8 +30580,8 @@
         "state": "future"
     },
     "hpjav.tv": {
-        "epoch": 1597881600.0,
-        "expiration_date": "20-aug-2020",
+        "epoch": 1629417600.0,
+        "expiration_date": "20-aug-2021",
         "state": "future"
     },
     "hpornstars.com": {
@@ -37145,9 +37145,9 @@
         "state": "future"
     },
     "lisaangeline.com": {
-        "epoch": 1597795200.0,
-        "expiration_date": "19-aug-2020",
-        "state": "past"
+        "epoch": 1629331200.0,
+        "expiration_date": "19-aug-2021",
+        "state": "future"
     },
     "listal.com": {
         "epoch": 1678752000.0,
@@ -62140,9 +62140,9 @@
         "state": "future"
     },
     "sunnygalleries.com": {
-        "epoch": 1597795200.0,
-        "expiration_date": "19-aug-2020",
-        "state": "past"
+        "epoch": 1629331200.0,
+        "expiration_date": "19-aug-2021",
+        "state": "future"
     },
     "sunnylanelive.com": {
         "epoch": 1740009600.0,
