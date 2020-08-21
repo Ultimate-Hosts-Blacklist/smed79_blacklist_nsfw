@@ -27894,6 +27894,11 @@
         "expiration_date": "07-jan-2021",
         "state": "future"
     },
+    "harem.pt": {
+        "epoch": 1613520000.0,
+        "expiration_date": "17-feb-2021",
+        "state": "future"
+    },
     "harmanit.co.il": {
         "epoch": 1618099200.0,
         "expiration_date": "11-apr-2021",
@@ -53772,7 +53777,7 @@
     "qrrro.com": {
         "epoch": 1597968000.0,
         "expiration_date": "21-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "qruq.com": {
         "epoch": 1611100800.0,
@@ -60635,8 +60640,8 @@
         "state": "future"
     },
     "smutmodels.com": {
-        "epoch": 1597622400.0,
-        "expiration_date": "17-aug-2020",
+        "epoch": 1629158400.0,
+        "expiration_date": "17-aug-2021",
         "state": "future"
     },
     "smutr.com": {
@@ -75535,9 +75540,9 @@
         "state": "future"
     },
     "yobtcams.com": {
-        "epoch": 1597795200.0,
-        "expiration_date": "19-aug-2020",
-        "state": "past"
+        "epoch": 1629331200.0,
+        "expiration_date": "19-aug-2021",
+        "state": "future"
     },
     "yobthd.com": {
         "epoch": 1625529600.0,
