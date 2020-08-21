@@ -22577,7 +22577,7 @@
     "follesducul.com": {
         "epoch": 1597968000.0,
         "expiration_date": "21-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "fookgle.com": {
         "epoch": 1620000000.0,
@@ -38945,9 +38945,9 @@
         "state": "future"
     },
     "maturedtube.com": {
-        "epoch": 1597795200.0,
-        "expiration_date": "19-aug-2020",
-        "state": "past"
+        "epoch": 1629331200.0,
+        "expiration_date": "19-aug-2021",
+        "state": "future"
     },
     "matureforsex.com": {
         "epoch": 1623196800.0,
@@ -39537,6 +39537,11 @@
     "megalatinatube.com": {
         "epoch": 1607212800.0,
         "expiration_date": "06-dec-2020",
+        "state": "future"
+    },
+    "megalistofporn.com": {
+        "epoch": 1629504000.0,
+        "expiration_date": "21-aug-2021",
         "state": "future"
     },
     "meganqt.com": {
