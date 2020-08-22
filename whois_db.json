@@ -42695,8 +42695,8 @@
         "state": "future"
     },
     "nakety.com": {
-        "epoch": 1598054400.0,
-        "expiration_date": "22-aug-2020",
+        "epoch": 1629590400.0,
+        "expiration_date": "22-aug-2021",
         "state": "future"
     },
     "nakliyeci.biz": {
@@ -51982,7 +51982,7 @@
     "porntower.com": {
         "epoch": 1598054400.0,
         "expiration_date": "22-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "porntoxico.com": {
         "epoch": 1603929600.0,
