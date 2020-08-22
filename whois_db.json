@@ -9510,9 +9510,9 @@
         "state": "future"
     },
     "bitchparadise.com": {
-        "epoch": 1597968000.0,
-        "expiration_date": "21-aug-2020",
-        "state": "past"
+        "epoch": 1629504000.0,
+        "expiration_date": "21-aug-2021",
+        "state": "future"
     },
     "bitchyourfamous.com": {
         "epoch": 1608422400.0,
@@ -66435,8 +66435,8 @@
         "state": "future"
     },
     "tube-mom.tv": {
-        "epoch": 1598054400.0,
-        "expiration_date": "22-aug-2020",
+        "epoch": 1629590400.0,
+        "expiration_date": "22-aug-2021",
         "state": "future"
     },
     "tube-ok.com": {
@@ -67355,9 +67355,9 @@
         "state": "future"
     },
     "tubgirl.me": {
-        "epoch": 1597881600.0,
-        "expiration_date": "20-aug-2020",
-        "state": "past"
+        "epoch": 1629417600.0,
+        "expiration_date": "20-aug-2021",
+        "state": "future"
     },
     "tubicash.com": {
         "epoch": 1607126400.0,
