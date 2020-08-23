@@ -26500,8 +26500,8 @@
         "state": "future"
     },
     "gnoccatime.net": {
-        "epoch": 1598054400.0,
-        "expiration_date": "22-aug-2020",
+        "epoch": 1629590400.0,
+        "expiration_date": "22-aug-2021",
         "state": "future"
     },
     "go-gaytube.com": {
@@ -51985,9 +51985,9 @@
         "state": "future"
     },
     "porntower.com": {
-        "epoch": 1598054400.0,
-        "expiration_date": "22-aug-2020",
-        "state": "past"
+        "epoch": 1629590400.0,
+        "expiration_date": "22-aug-2021",
+        "state": "future"
     },
     "porntoxico.com": {
         "epoch": 1603929600.0,
@@ -75977,7 +75977,7 @@
     "youngpornhot.com": {
         "epoch": 1598140800.0,
         "expiration_date": "23-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "youngporno.com": {
         "epoch": 1761696000.0,
@@ -76887,6 +76887,11 @@
     "zombiporn.com": {
         "epoch": 1621036800.0,
         "expiration_date": "15-may-2021",
+        "state": "future"
+    },
+    "zonaintima.pt": {
+        "epoch": 1608681600.0,
+        "expiration_date": "23-dec-2020",
         "state": "future"
     },
     "zonawebcams.com": {
