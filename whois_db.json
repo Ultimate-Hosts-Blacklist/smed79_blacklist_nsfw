@@ -555,8 +555,8 @@
         "state": "future"
     },
     "1man1jar.org": {
-        "epoch": 1597881600.0,
-        "expiration_date": "20-aug-2020",
+        "epoch": 1629417600.0,
+        "expiration_date": "20-aug-2021",
         "state": "future"
     },
     "1man2needles.com": {
@@ -26375,9 +26375,9 @@
         "state": "future"
     },
     "glamourhound.com": {
-        "epoch": 1597968000.0,
-        "expiration_date": "21-aug-2020",
-        "state": "past"
+        "epoch": 1629504000.0,
+        "expiration_date": "21-aug-2021",
+        "state": "future"
     },
     "glamourmilf.com": {
         "epoch": 1600819200.0,
