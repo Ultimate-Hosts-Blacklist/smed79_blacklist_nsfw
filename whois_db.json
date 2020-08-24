@@ -55112,7 +55112,7 @@
     "rencontres-adultes.biz": {
         "epoch": 1598227200.0,
         "expiration_date": "24-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "rencontres-femmes-en-ligne.com": {
         "epoch": 1600214400.0,
@@ -74415,8 +74415,8 @@
         "state": "future"
     },
     "xxxha.com": {
-        "epoch": 1598227200.0,
-        "expiration_date": "24-aug-2020",
+        "epoch": 1629763200.0,
+        "expiration_date": "24-aug-2021",
         "state": "future"
     },
     "xxxhardtube.com": {
@@ -76545,8 +76545,8 @@
         "state": "future"
     },
     "youwife.com": {
-        "epoch": 1598140800.0,
-        "expiration_date": "23-aug-2020",
+        "epoch": 1629676800.0,
+        "expiration_date": "23-aug-2021",
         "state": "future"
     },
     "youx.xxx": {
