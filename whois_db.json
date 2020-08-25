@@ -4205,9 +4205,9 @@
         "state": "future"
     },
     "amateurdumper.com": {
-        "epoch": 1598054400.0,
-        "expiration_date": "22-aug-2020",
-        "state": "past"
+        "epoch": 1629590400.0,
+        "expiration_date": "22-aug-2021",
+        "state": "future"
     },
     "amateuretsexe.com": {
         "epoch": 1619568000.0,
@@ -13450,8 +13450,8 @@
         "state": "future"
     },
     "chrono24.cl": {
-        "epoch": 1598227200.0,
-        "expiration_date": "24-aug-2020",
+        "epoch": 1629763200.0,
+        "expiration_date": "24-aug-2021",
         "state": "future"
     },
     "chrono24.co.uk": {
@@ -15862,7 +15862,7 @@
     "dangerouslilly.com": {
         "epoch": 1598313600.0,
         "expiration_date": "25-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "danielle-model.com": {
         "epoch": 1626307200.0,
@@ -43890,9 +43890,9 @@
         "state": "future"
     },
     "nnforum.club": {
-        "epoch": 1596499200.0,
-        "expiration_date": "04-aug-2020",
-        "state": "past"
+        "epoch": 1628035200.0,
+        "expiration_date": "04-aug-2021",
+        "state": "future"
     },
     "nnlopics.com": {
         "epoch": 1600560000.0,
@@ -64660,8 +64660,8 @@
         "state": "future"
     },
     "theseoffersforyou.com": {
-        "epoch": 1598140800.0,
-        "expiration_date": "23-aug-2020",
+        "epoch": 1629676800.0,
+        "expiration_date": "23-aug-2021",
         "state": "future"
     },
     "thesexcinema.com": {
