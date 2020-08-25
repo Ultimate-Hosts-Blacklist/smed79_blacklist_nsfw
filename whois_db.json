@@ -4892,7 +4892,7 @@
     "angelarchives.com": {
         "epoch": 1598313600.0,
         "expiration_date": "25-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "angelartnet.net": {
         "epoch": 1603238400.0,
@@ -51730,9 +51730,9 @@
         "state": "future"
     },
     "pornspark.com": {
-        "epoch": 1598227200.0,
-        "expiration_date": "24-aug-2020",
-        "state": "past"
+        "epoch": 1629763200.0,
+        "expiration_date": "24-aug-2021",
+        "state": "future"
     },
     "pornspirit.com": {
         "epoch": 1621209600.0,
@@ -60267,7 +60267,7 @@
     "siterips.co": {
         "epoch": 1598313600.0,
         "expiration_date": "25-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "siterips.org": {
         "epoch": 1627344000.0,
