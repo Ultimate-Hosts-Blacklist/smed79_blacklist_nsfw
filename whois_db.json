@@ -16710,8 +16710,8 @@
         "state": "future"
     },
     "dick-n-jane.com": {
-        "epoch": 1598313600.0,
-        "expiration_date": "25-aug-2020",
+        "epoch": 1629849600.0,
+        "expiration_date": "25-aug-2021",
         "state": "future"
     },
     "dickflash.com": {
@@ -56920,8 +56920,8 @@
         "state": "future"
     },
     "seventeenlive.com": {
-        "epoch": 1598313600.0,
-        "expiration_date": "25-aug-2020",
+        "epoch": 1629849600.0,
+        "expiration_date": "25-aug-2021",
         "state": "future"
     },
     "seventeenshop.com": {
@@ -57000,9 +57000,9 @@
         "state": "future"
     },
     "sex-ly.com": {
-        "epoch": 1598227200.0,
-        "expiration_date": "24-aug-2020",
-        "state": "past"
+        "epoch": 1629763200.0,
+        "expiration_date": "24-aug-2021",
+        "state": "future"
     },
     "sex-tapes.org": {
         "epoch": 1608163200.0,
