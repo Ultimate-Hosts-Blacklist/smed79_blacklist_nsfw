@@ -13837,7 +13837,7 @@
     "cliter.com": {
         "epoch": 1598659200.0,
         "expiration_date": "29-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "clitgames.com": {
         "epoch": 1617321600.0,
@@ -45775,8 +45775,8 @@
         "state": "future"
     },
     "onlyfatchiks.com": {
-        "epoch": 1598659200.0,
-        "expiration_date": "29-aug-2020",
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
         "state": "future"
     },
     "onlygayvideo.com": {
@@ -68420,9 +68420,9 @@
         "state": "future"
     },
     "velvetfantasies.com": {
-        "epoch": 1598486400.0,
-        "expiration_date": "27-aug-2020",
-        "state": "past"
+        "epoch": 1630022400.0,
+        "expiration_date": "27-aug-2021",
+        "state": "future"
     },
     "velvetveronica.com": {
         "epoch": 1649289600.0,
@@ -69790,8 +69790,8 @@
         "state": "future"
     },
     "virgins19.com": {
-        "epoch": 1598659200.0,
-        "expiration_date": "29-aug-2020",
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
         "state": "future"
     },
     "virgins4free.com": {
