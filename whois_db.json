@@ -8395,8 +8395,8 @@
         "state": "future"
     },
     "belle-fesse.fr": {
-        "epoch": 1598313600.0,
-        "expiration_date": "25-aug-2020",
+        "epoch": 1629849600.0,
+        "expiration_date": "25-aug-2021",
         "state": "future"
     },
     "bellebionde.com": {
@@ -17675,8 +17675,8 @@
         "state": "future"
     },
     "drmanga.com": {
-        "epoch": 1598659200.0,
-        "expiration_date": "29-aug-2020",
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
         "state": "future"
     },
     "drmanga.net": {
@@ -38735,9 +38735,9 @@
         "state": "future"
     },
     "massagegirls18.com": {
-        "epoch": 1598313600.0,
-        "expiration_date": "25-aug-2020",
-        "state": "past"
+        "epoch": 1629849600.0,
+        "expiration_date": "25-aug-2021",
+        "state": "future"
     },
     "massagem-exotica.com": {
         "epoch": 1605830400.0,
