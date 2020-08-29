@@ -2165,8 +2165,8 @@
         "state": "future"
     },
     "adam4adam.com": {
-        "epoch": 1598486400.0,
-        "expiration_date": "27-aug-2020",
+        "epoch": 1661558400.0,
+        "expiration_date": "27-aug-2022",
         "state": "future"
     },
     "adamandeve.com": {
@@ -2645,8 +2645,8 @@
         "state": "future"
     },
     "adultgamespartners.com": {
-        "epoch": 1598659200.0,
-        "expiration_date": "29-aug-2020",
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
         "state": "future"
     },
     "adultgamesportal.com": {
@@ -43185,8 +43185,8 @@
         "state": "future"
     },
     "netkozmos.com": {
-        "epoch": 1598572800.0,
-        "expiration_date": "28-aug-2020",
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
         "state": "future"
     },
     "netlaura.com": {
@@ -44617,7 +44617,7 @@
     "nudephotolinks.com": {
         "epoch": 1598659200.0,
         "expiration_date": "29-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "nudepics.ws": {
         "epoch": 1622419200.0,
@@ -69300,8 +69300,8 @@
         "state": "future"
     },
     "vieillemature.net": {
-        "epoch": 1598659200.0,
-        "expiration_date": "29-aug-2020",
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
         "state": "future"
     },
     "vieillemature.org": {
