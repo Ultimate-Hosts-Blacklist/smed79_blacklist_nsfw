@@ -5257,7 +5257,7 @@
     "angels4youleeds.co.uk": {
         "epoch": 1598659200.0,
         "expiration_date": "29-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "angelscasting.net": {
         "epoch": 1651536000.0,
@@ -12610,8 +12610,8 @@
         "state": "future"
     },
     "cdn.tax": {
-        "epoch": 1598745600.0,
-        "expiration_date": "30-aug-2020",
+        "epoch": 1630281600.0,
+        "expiration_date": "30-aug-2021",
         "state": "future"
     },
     "cdn1-ancensored.network": {
