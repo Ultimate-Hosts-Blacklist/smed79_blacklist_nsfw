@@ -17977,7 +17977,7 @@
     "dvdxvideos.com": {
         "epoch": 1598832000.0,
         "expiration_date": "31-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "dwarfstube.com": {
         "epoch": 1601942400.0,
@@ -23750,8 +23750,8 @@
         "state": "future"
     },
     "freesextuber.com": {
-        "epoch": 1598832000.0,
-        "expiration_date": "31-aug-2020",
+        "epoch": 1630368000.0,
+        "expiration_date": "31-aug-2021",
         "state": "future"
     },
     "freesexvideos24.com": {
@@ -27620,8 +27620,8 @@
         "state": "future"
     },
     "hardcamtube.com": {
-        "epoch": 1598832000.0,
-        "expiration_date": "31-aug-2020",
+        "epoch": 1630368000.0,
+        "expiration_date": "31-aug-2021",
         "state": "future"
     },
     "hardcartoon.com": {
@@ -55055,9 +55055,9 @@
         "state": "future"
     },
     "removedpix.com": {
-        "epoch": 1598400000.0,
-        "expiration_date": "26-aug-2020",
-        "state": "past"
+        "epoch": 1629936000.0,
+        "expiration_date": "26-aug-2021",
+        "state": "future"
     },
     "rencontre-5-a-7.com": {
         "epoch": 1608422400.0,
