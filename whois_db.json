@@ -1582,7 +1582,7 @@
     "7-7-7-partner.com": {
         "epoch": 1598832000.0,
         "expiration_date": "31-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "777-partner.com": {
         "epoch": 1611100800.0,
@@ -6645,8 +6645,8 @@
         "state": "future"
     },
     "assesinpublic.com": {
-        "epoch": 1598227200.0,
-        "expiration_date": "24-aug-2020",
+        "epoch": 1629763200.0,
+        "expiration_date": "24-aug-2021",
         "state": "future"
     },
     "assfilled.com": {
@@ -31375,8 +31375,8 @@
         "state": "future"
     },
     "ihookup.com": {
-        "epoch": 1598745600.0,
-        "expiration_date": "30-aug-2020",
+        "epoch": 1630281600.0,
+        "expiration_date": "30-aug-2021",
         "state": "future"
     },
     "iknowthatgirl.com": {
@@ -31865,8 +31865,8 @@
         "state": "future"
     },
     "imgstudio.org": {
-        "epoch": 1598745600.0,
-        "expiration_date": "30-aug-2020",
+        "epoch": 1630281600.0,
+        "expiration_date": "30-aug-2021",
         "state": "future"
     },
     "imgtaxi.com": {
@@ -36217,7 +36217,7 @@
     "leatube.com": {
         "epoch": 1598745600.0,
         "expiration_date": "30-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "lebaiseur.com": {
         "epoch": 1615766400.0,
@@ -67015,8 +67015,8 @@
         "state": "future"
     },
     "tubepornmix.com": {
-        "epoch": 1598832000.0,
-        "expiration_date": "31-aug-2020",
+        "epoch": 1630368000.0,
+        "expiration_date": "31-aug-2021",
         "state": "future"
     },
     "tubepornmovs.com": {
