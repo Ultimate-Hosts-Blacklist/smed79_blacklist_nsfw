@@ -69772,7 +69772,7 @@
     "virgins-off.com": {
         "epoch": 1598832000.0,
         "expiration_date": "31-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "virgins.info": {
         "epoch": 1626134400.0,
