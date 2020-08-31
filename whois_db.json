@@ -3235,8 +3235,8 @@
         "state": "future"
     },
     "aideclient.com": {
-        "epoch": 1598745600.0,
-        "expiration_date": "30-aug-2020",
+        "epoch": 1630281600.0,
+        "expiration_date": "30-aug-2021",
         "state": "future"
     },
     "aincest.com": {
@@ -33585,9 +33585,9 @@
         "state": "future"
     },
     "javon.tv": {
-        "epoch": 1598659200.0,
-        "expiration_date": "29-aug-2020",
-        "state": "past"
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
+        "state": "future"
     },
     "javout.net": {
         "epoch": 1616457600.0,
@@ -55772,7 +55772,7 @@
     "ruf777.com": {
         "epoch": 1598832000.0,
         "expiration_date": "31-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "ruinedorgasms.site": {
         "epoch": 1609891200.0,
