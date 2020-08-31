@@ -4775,8 +4775,8 @@
         "state": "future"
     },
     "ancensored.com": {
-        "epoch": 1598659200.0,
-        "expiration_date": "29-aug-2020",
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
         "state": "future"
     },
     "andrewblake.com": {
@@ -8485,8 +8485,8 @@
         "state": "future"
     },
     "best-hentai-games.com": {
-        "epoch": 1598659200.0,
-        "expiration_date": "29-aug-2020",
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
         "state": "future"
     },
     "best-paypornsites.com": {
@@ -12352,7 +12352,7 @@
     "cartoon-3x.com": {
         "epoch": 1598832000.0,
         "expiration_date": "31-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "cartoon-sex.tv": {
         "epoch": 1605916800.0,
@@ -67730,8 +67730,8 @@
         "state": "future"
     },
     "uflash.tv": {
-        "epoch": 1598745600.0,
-        "expiration_date": "30-aug-2020",
+        "epoch": 1630281600.0,
+        "expiration_date": "30-aug-2021",
         "state": "future"
     },
     "ugallery.xyz": {
