@@ -33255,9 +33255,9 @@
         "state": "future"
     },
     "jav24.us": {
-        "epoch": 1592352000.0,
-        "expiration_date": "17-jun-2020",
-        "state": "past"
+        "epoch": 1630454400.0,
+        "expiration_date": "01-sep-2021",
+        "state": "future"
     },
     "jav247.net": {
         "epoch": 1627516800.0,
@@ -52527,7 +52527,7 @@
     "portaildusexe.com": {
         "epoch": 1598918400.0,
         "expiration_date": "01-sep-2020",
-        "state": "future"
+        "state": "past"
     },
     "portalerotica.net": {
         "epoch": 1613520000.0,
