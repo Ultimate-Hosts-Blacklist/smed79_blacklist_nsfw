@@ -18255,8 +18255,8 @@
         "state": "future"
     },
     "egneek.com": {
-        "epoch": 1598659200.0,
-        "expiration_date": "29-aug-2020",
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
         "state": "future"
     },
     "egoallstars.com": {
@@ -55482,7 +55482,7 @@
     "robotubes.com": {
         "epoch": 1598918400.0,
         "expiration_date": "01-sep-2020",
-        "state": "future"
+        "state": "past"
     },
     "robsxxx.com": {
         "epoch": 1581984000.0,
@@ -71102,7 +71102,7 @@
     "weknowporn.com": {
         "epoch": 1598918400.0,
         "expiration_date": "01-sep-2020",
-        "state": "future"
+        "state": "past"
     },
     "welcometubes.com": {
         "epoch": 1598918400.0,
