@@ -3405,8 +3405,8 @@
         "state": "future"
     },
     "alexiskaylee.com": {
-        "epoch": 1598832000.0,
-        "expiration_date": "31-aug-2020",
+        "epoch": 1630368000.0,
+        "expiration_date": "31-aug-2021",
         "state": "future"
     },
     "alexistexas.com": {
@@ -6790,8 +6790,8 @@
         "state": "future"
     },
     "atkarchives.com": {
-        "epoch": 1598918400.0,
-        "expiration_date": "01-sep-2020",
+        "epoch": 1630454400.0,
+        "expiration_date": "01-sep-2021",
         "state": "future"
     },
     "atkebony.com": {
@@ -29202,7 +29202,7 @@
     "highratetube.com": {
         "epoch": 1598918400.0,
         "expiration_date": "01-sep-2020",
-        "state": "future"
+        "state": "past"
     },
     "highschoolvirgin.com": {
         "epoch": 1620864000.0,
@@ -76227,7 +76227,7 @@
     "youpornose.com": {
         "epoch": 1598918400.0,
         "expiration_date": "01-sep-2020",
-        "state": "future"
+        "state": "past"
     },
     "youpornpremium.com": {
         "epoch": 1599523200.0,
