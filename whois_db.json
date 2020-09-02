@@ -48825,8 +48825,8 @@
         "state": "future"
     },
     "porn2you.org": {
-        "epoch": 1598918400.0,
-        "expiration_date": "01-sep-2020",
+        "epoch": 1630454400.0,
+        "expiration_date": "01-sep-2021",
         "state": "future"
     },
     "porn300.com": {
@@ -48975,9 +48975,9 @@
         "state": "future"
     },
     "pornalarm.com": {
-        "epoch": 1598918400.0,
-        "expiration_date": "01-sep-2020",
-        "state": "past"
+        "epoch": 1630454400.0,
+        "expiration_date": "01-sep-2021",
+        "state": "future"
     },
     "pornalia.xxx": {
         "epoch": 1605312000.0,
