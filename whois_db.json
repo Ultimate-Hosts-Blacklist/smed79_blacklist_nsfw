@@ -6950,9 +6950,9 @@
         "state": "future"
     },
     "autoblow2turkiyebayi.site": {
-        "epoch": 1598572800.0,
-        "expiration_date": "28-aug-2020",
-        "state": "past"
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
+        "state": "future"
     },
     "autoblowsatis.com": {
         "epoch": 1624492800.0,
@@ -40552,7 +40552,7 @@
     "mobiletube.biz": {
         "epoch": 1598918400.0,
         "expiration_date": "01-sep-2020",
-        "state": "future"
+        "state": "past"
     },
     "mobilewap.info": {
         "epoch": 1625270400.0,
@@ -75575,8 +75575,8 @@
         "state": "future"
     },
     "yoloselfie.com": {
-        "epoch": 1599004800.0,
-        "expiration_date": "02-sep-2020",
+        "epoch": 1630540800.0,
+        "expiration_date": "02-sep-2021",
         "state": "future"
     },
     "yoslut.com": {
