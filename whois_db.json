@@ -16805,8 +16805,8 @@
         "state": "future"
     },
     "digitapub.com": {
-        "epoch": 1599091200.0,
-        "expiration_date": "03-sep-2020",
+        "epoch": 1630627200.0,
+        "expiration_date": "03-sep-2021",
         "state": "future"
     },
     "digporn.pro": {
@@ -27185,8 +27185,8 @@
         "state": "future"
     },
     "groingroin.com": {
-        "epoch": 1598918400.0,
-        "expiration_date": "01-sep-2020",
+        "epoch": 1630454400.0,
+        "expiration_date": "01-sep-2021",
         "state": "future"
     },
     "groovybus.com": {
@@ -65330,9 +65330,9 @@
         "state": "future"
     },
     "tokyomotion.net": {
-        "epoch": 1598832000.0,
-        "expiration_date": "31-aug-2020",
-        "state": "past"
+        "epoch": 1630368000.0,
+        "expiration_date": "31-aug-2021",
+        "state": "future"
     },
     "tokyoporn.com": {
         "epoch": 1611014400.0,
