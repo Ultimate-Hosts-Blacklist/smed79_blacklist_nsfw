@@ -29187,7 +29187,7 @@
     "highclassescortserena.com": {
         "epoch": 1599177600.0,
         "expiration_date": "04-sep-2020",
-        "state": "future"
+        "state": "past"
     },
     "highonsex.net": {
         "epoch": 1629763200.0,
@@ -33405,8 +33405,8 @@
         "state": "future"
     },
     "javfinder.top": {
-        "epoch": 1598918400.0,
-        "expiration_date": "01-sep-2020",
+        "epoch": 1630454400.0,
+        "expiration_date": "01-sep-2021",
         "state": "future"
     },
     "javfor.me": {
@@ -63330,8 +63330,8 @@
         "state": "future"
     },
     "teenmodels.club": {
-        "epoch": 1599177600.0,
-        "expiration_date": "04-sep-2020",
+        "epoch": 1630713600.0,
+        "expiration_date": "04-sep-2021",
         "state": "future"
     },
     "teenmodels.com": {
