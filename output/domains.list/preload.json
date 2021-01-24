@@ -1,0 +1,15 @@
+{
+    "abs_source": "/home/runner/work/smed79_blacklist_nsfw/smed79_blacklist_nsfw/domains.list",
+    "checker_type": "AVAILABILITY",
+    "destination": "domains.list",
+    "hash": "99b7a38127992a6e8bef638e8eb26448ddc7424ecb53eca28aefd6f9",
+    "line_number": 6002,
+    "output_dir": "/home/runner/work/smed79_blacklist_nsfw/smed79_blacklist_nsfw/output/domains.list",
+    "previous_hash": null,
+    "rel_source": "domains.list",
+    "session_id": "1f9a32bb8c101d74ab5a8dc9",
+    "source": "/home/runner/work/smed79_blacklist_nsfw/smed79_blacklist_nsfw/domains.list",
+    "subject": "/home/runner/work/smed79_blacklist_nsfw/smed79_blacklist_nsfw/domains.list",
+    "subject_type": "domain",
+    "type": "file"
+}

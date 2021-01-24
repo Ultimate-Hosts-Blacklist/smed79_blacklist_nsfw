@@ -1,41 +1,19 @@
 {
-    "current_stats": {
-        "builds": 2812,
-        "counter": {
-            "down": 0,
-            "invalid": 0,
-            "malicious": 0,
-            "sane": 0,
-            "tested": 0,
-            "up": 0,
-            "valid": 0
-        },
-        "volatile.list": 39930,
-        "whitelisted.list": 39898
-    },
     "currently_under_test": true,
+    "custom_pyfunceble_config": {},
     "days_until_next_test": 2,
     "description": "HOSTS file list, designed to block NSFW Adult domains",
     "end_datetime": "2020-03-03T15:41:18.267495",
     "end_epoch": 1582987885.204028,
     "issue_link": null,
-    "last_autosave_datetime": "2020-03-03T15:41:18.267512",
-    "last_autosave_epoch": 1583244985.781822,
     "link": "https://github.com/smed79/blacklist",
     "name": "smed79_blacklist_nsfw",
-    "previous_stats": {
-        "builds": 54,
-        "clean.list": 39930,
-        "counter": {
-            "down": 1892,
-            "invalid": 1,
-            "tested": 41824,
-            "up": 39931
-        },
-        "domains.list": 41824,
-        "ip.list": 1,
-        "volatile.list": 39930,
-        "whitelisted.list": 39899
+    "previous_end_datetime": "2020-01-25T04:20:07.548711",
+    "previous_end_epoch": 1579926007.548715,
+    "previous_start_datetime": "2020-01-25T04:20:07.548698",
+    "previous_start_epoch": 1579926007.548713,
+    "pyfunceble": {
+        "config": {}
     },
     "raw_link": "https://raw.githubusercontent.com/smed79/blacklist/master/extra/nsfw.txt",
     "start_datetime": "2020-03-03T15:41:18.272487",
