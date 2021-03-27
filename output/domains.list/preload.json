@@ -1,8 +1,8 @@
 {
     "checker_type": "AVAILABILITY",
     "destination": "domains.list",
-    "hash": "e01bf6496962fde2028944354b9944d38de6ea9be192e0e4fac6be9c",
-    "line_number": 9506,
+    "hash": "ee200d89a50e3ad8a35fb090d513214c56d9688c74feb4d1ebb00bf5",
+    "line_number": 9379,
     "output_dir": "/home/runner/work/smed79_blacklist_nsfw/smed79_blacklist_nsfw/output/domains.list",
     "previous_hash": null,
     "session_id": "7157d487144089fc73aa34cc",
