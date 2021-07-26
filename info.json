@@ -1,9 +1,9 @@
 {
-    "currently_under_test": true,
+    "currently_under_test": false,
     "days_until_next_test": 2,
     "description": "HOSTS file list, designed to block NSFW Adult domains",
-    "end_datetime": "2021-07-25T18:48:49.496756",
-    "end_epoch": 1627238929.496756,
+    "end_datetime": "2021-07-26T15:00:30.583658",
+    "end_epoch": 1627311630.583658,
     "issue_link": null,
     "link": "https://github.com/smed79/blacklist",
     "name": "smed79_blacklist_nsfw",
