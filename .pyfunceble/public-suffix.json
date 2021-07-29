@@ -4356,7 +4356,6 @@
         "wassamu.hokkaido.jp",
         "watarai.mie.jp",
         "watari.miyagi.jp",
-        "wazuka.kyoto.jp",
         "xn--0trq7p7nn.jp",
         "xn--1ctwo.jp",
         "xn--1lqs03n.jp",
@@ -4669,7 +4668,8 @@
         "gov.kw",
         "ind.kw",
         "net.kw",
-        "org.kw"
+        "org.kw",
+        "wazuka.kyoto.jp"
     ],
     "ky": [
         "com.ky",
