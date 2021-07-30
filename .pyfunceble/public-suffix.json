@@ -4356,6 +4356,7 @@
         "wassamu.hokkaido.jp",
         "watarai.mie.jp",
         "watari.miyagi.jp",
+        "wazuka.kyoto.jp",
         "xn--0trq7p7nn.jp",
         "xn--1ctwo.jp",
         "xn--1lqs03n.jp",
@@ -4668,8 +4669,7 @@
         "gov.kw",
         "ind.kw",
         "net.kw",
-        "org.kw",
-        "wazuka.kyoto.jp"
+        "org.kw"
     ],
     "ky": [
         "com.ky",
@@ -5541,7 +5541,6 @@
         "aero.mv",
         "biz.mv",
         "com.mv",
-        "coop.mv",
         "edu.mv",
         "gov.mv",
         "info.mv",
@@ -6335,6 +6334,7 @@
         "oppdal.no",
         "oppegard.no",
         "oppegård.no",
+        "org.sz",
         "orkanger.no",
         "orkdal.no",
         "orland.no",
@@ -7850,6 +7850,7 @@
     "sz": [
         "ac.sz",
         "co.sz",
+        "coop.mv",
         "org.sz"
     ],
     "tc": [
