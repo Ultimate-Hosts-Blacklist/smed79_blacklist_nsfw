@@ -1,5 +1,5 @@
 {
-    "currently_under_test": false,
+    "currently_under_test": true,
     "days_until_next_test": 2,
     "description": "HOSTS file list, designed to block NSFW Adult domains",
     "end_datetime": "2021-08-11T19:37:34.847315",
@@ -7,14 +7,14 @@
     "issue_link": null,
     "link": "https://github.com/smed79/blacklist",
     "name": "smed79_blacklist_nsfw",
-    "previous_end_datetime": "2021-08-10T01:29:07.817590",
-    "previous_end_epoch": 1628558947.81759,
-    "previous_start_datetime": "2021-08-09T09:42:21.898683",
-    "previous_start_epoch": 1628502141.898683,
+    "previous_end_datetime": "2021-08-11T19:37:34.847315",
+    "previous_end_epoch": 1628710654.847315,
+    "previous_start_datetime": "2021-08-10T03:37:03.971760",
+    "previous_start_epoch": 1628566623.97176,
     "pyfunceble": {
         "config": {}
     },
     "raw_link": "https://raw.githubusercontent.com/smed79/blacklist/master/extra/nsfw.txt",
-    "start_datetime": "2021-08-10T03:37:03.971760",
-    "start_epoch": 1628566623.97176
+    "start_datetime": "2021-08-12T11:14:04.131068",
+    "start_epoch": 1628766844.131068
 }
