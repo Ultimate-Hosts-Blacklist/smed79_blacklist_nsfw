@@ -1041,6 +1041,9 @@
         "dynns.com",
         "elasticbeanstalk.com",
         "elb.amazonaws.com",
+        "elluciancrmadvance.com",
+        "elluciancrmadvise.com",
+        "elluciancrmrecruit.com",
         "est-a-la-maison.com",
         "est-a-la-masion.com",
         "est-le-patron.com",
@@ -1870,8 +1873,7 @@
         "edu.gp",
         "mobi.gp",
         "net.gp",
-        "org.gp",
-        "org.hk"
+        "org.gp"
     ],
     "gr": [
         "blogspot.gr",
@@ -7112,6 +7114,7 @@
         "czeladz.pl",
         "czest.pl",
         "dlugoleka.pl",
+        "ecommerce-shop.pl",
         "edu.pl",
         "elblag.pl",
         "elk.pl",
@@ -7127,6 +7130,7 @@
         "grajewo.pl",
         "griw.gov.pl",
         "gsm.pl",
+        "homesklep.pl",
         "ic.gov.pl",
         "ilawa.pl",
         "info.pl",
