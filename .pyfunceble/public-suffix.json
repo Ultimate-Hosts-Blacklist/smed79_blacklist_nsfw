@@ -348,6 +348,7 @@
         "4.bg",
         "5.bg",
         "6.bg",
+        "7.bg",
         "8.bg",
         "9.bg",
         "a.bg",
@@ -774,7 +775,6 @@
         "svc.firenet.ch"
     ],
     "ci": [
-        "7.bg",
         "ac.ci",
         "asso.ci",
         "aéroport.ci",
@@ -7430,6 +7430,7 @@
     ],
     "ro": [
         "arts.ro",
+        "barsy.ro",
         "blogspot.ro",
         "co.ro",
         "com.ro",
@@ -7512,7 +7513,8 @@
         "development.run",
         "hs.run",
         "ravendb.run",
-        "repl.run"
+        "repl.run",
+        "servers.run"
     ],
     "rw": [
         "ac.rw",
