@@ -521,6 +521,7 @@
         "cim.br",
         "cng.br",
         "cnt.br",
+        "co.education",
         "com.br",
         "contagem.br",
         "coop.br",
@@ -886,7 +887,6 @@
         "ln.cn",
         "mil.cn",
         "mo.cn",
-        "mol.it",
         "net.cn",
         "nm.cn",
         "nx.cn",
@@ -1663,9 +1663,6 @@
     ],
     "edu": [
         "git-pages.rit.edu"
-    ],
-    "education": [
-        "co.education"
     ],
     "ee": [
         "aip.ee",
@@ -2464,6 +2461,7 @@
         "mn.it",
         "mo.it",
         "modena.it",
+        "mol.it",
         "molise.it",
         "monza-brianza.it",
         "monza-e-della-brianza.it",
