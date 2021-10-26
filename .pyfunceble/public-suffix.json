@@ -1047,9 +1047,6 @@
         "dynns.com",
         "elasticbeanstalk.com",
         "elb.amazonaws.com",
-        "elluciancrmadvance.com",
-        "elluciancrmadvise.com",
-        "elluciancrmrecruit.com",
         "est-a-la-maison.com",
         "est-a-la-masion.com",
         "est-le-patron.com",
@@ -8513,6 +8510,7 @@
         "com.ye",
         "edu.ye",
         "gov.ye",
+        "mil.ye",
         "net.ye",
         "org.ye"
     ],
@@ -8563,7 +8561,6 @@
         "ac.zw",
         "co.zw",
         "gov.zw",
-        "mil.ye",
         "mil.zw",
         "org.zw"
     ],
