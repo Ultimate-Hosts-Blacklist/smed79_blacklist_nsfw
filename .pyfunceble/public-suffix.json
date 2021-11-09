@@ -176,6 +176,7 @@
         "noop.app",
         "northflank.app",
         "ondigitalocean.app",
+        "onflashdrive.app",
         "platform0.app",
         "run.app",
         "telebit.app",
@@ -1068,6 +1069,7 @@
         "fentiger.mythic-beasts.com",
         "firebaseapp.com",
         "firewall-gateway.com",
+        "fldrv.com",
         "forgeblocks.com",
         "framercanvas.com",
         "freebox-os.com",
@@ -5198,6 +5200,7 @@
         "gorge.museum",
         "grandrapids.museum",
         "graz.museum",
+        "gs.ol.no",
         "guernsey.museum",
         "halloffame.museum",
         "hamburg.museum",
@@ -8498,10 +8501,6 @@
         "net.ws",
         "org.ws"
     ],
-    "xn--o3cw4h": [
-        "xn--m3ch0j3a.xn--o3cw4h",
-        "xn--o3cyx2a.xn--o3cw4h"
-    ],
     "xyz": [
         "blogsite.xyz",
         "crafting.xyz",
@@ -8609,6 +8608,8 @@
         "xn--12co0c3b4eva.xn--o3cw4h",
         "xn--h3cuzk1di.xn--o3cw4h",
         "xn--m3ch0j3a.xn--o3cw4h",
+        "xn--o3cyx2a.xn--o3cw4h",
+        "ทหาร.ไทย",
         "ธุรกิจ.ไทย",
         "รัฐบาล.ไทย",
         "ศึกษา.ไทย",
