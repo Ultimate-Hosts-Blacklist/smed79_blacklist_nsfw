@@ -6412,7 +6412,6 @@
         "sarpsborg.no",
         "sauda.no",
         "sauherad.no",
-        "sec.ps",
         "sel.no",
         "selbu.no",
         "selje.no",
@@ -7384,7 +7383,8 @@
         "gov.ps",
         "net.ps",
         "org.ps",
-        "plo.ps"
+        "plo.ps",
+        "sec.ps"
     ],
     "pt": [
         "blogspot.pt",
