@@ -446,7 +446,6 @@
         "com.bo",
         "cooperativa.bo",
         "democracia.bo",
-        "deporte.bo",
         "ecologia.bo",
         "economia.bo",
         "edu.bo",
@@ -786,6 +785,7 @@
         "aéroport.ci",
         "co.ci",
         "com.ci",
+        "deporte.bo",
         "ed.ci",
         "edu.ci",
         "fin.ci",
@@ -1535,7 +1535,6 @@
         "dyndns.ddnss.de",
         "dyndns1.de",
         "dynvpn.de",
-        "enterprisecloud.nu",
         "firewall-gateway.de",
         "frusky.de",
         "fuettertdasnetz.de",
@@ -4690,7 +4689,6 @@
     "ky": [
         "com.ky",
         "edu.ky",
-        "gov.ky",
         "net.ky",
         "org.ky"
     ],
