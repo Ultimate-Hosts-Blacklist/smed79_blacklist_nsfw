@@ -163,6 +163,7 @@
     ],
     "app": [
         "a.run.app",
+        "beget.app",
         "bookonline.app",
         "clerk.app",
         "clerkstage.app",
@@ -759,6 +760,7 @@
         "twmail.cc"
     ],
     "cd": [
+        "asso.ci",
         "gov.cd"
     ],
     "cf": [
@@ -1418,6 +1420,7 @@
         "uy.com",
         "vipsinaapp.com",
         "vs.mythic-beasts.com",
+        "vultrobjects.com",
         "wafflecell.com",
         "withgoogle.com",
         "withyoutube.com",
