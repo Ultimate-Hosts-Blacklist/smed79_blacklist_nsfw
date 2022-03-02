@@ -2715,8 +2715,7 @@
     "je": [
         "co.je",
         "net.je",
-        "of.je",
-        "org.je"
+        "of.je"
     ],
     "jm": [
         "jm"
@@ -5715,6 +5714,7 @@
         "mx.na",
         "name.na",
         "or.na",
+        "org.je",
         "org.na",
         "pro.na",
         "school.na",
