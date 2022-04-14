@@ -1,14 +1,16 @@
 {
     "counter": {
         "Danesco Trading Ltd.": 3,
+        "Hostinger, UAB": 1,
         "PDR Ltd. d/b/a PublicDomainRegistry.com": 1,
         "eNom, LLC": 1,
-        "total": 5
+        "total": 6
     },
     "percentage": {
-        "Danesco Trading Ltd.": 60.0,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 20.0,
-        "eNom, LLC": 20.0,
-        "total": 100.0
+        "Danesco Trading Ltd.": 50.0,
+        "Hostinger, UAB": 16.666666666666668,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 16.666666666666668,
+        "eNom, LLC": 16.666666666666668,
+        "total": 100.00000000000001
     }
 }
