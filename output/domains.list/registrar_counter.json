@@ -1,14 +1,24 @@
 {
     "counter": {
+        "ACTIVE-RU": 1,
+        "DOMAINSHOP-RU": 1,
+        "DYNADOT, LLC": 1,
         "Danesco Trading Ltd.": 2,
+        "NameCheap, Inc.": 3,
         "PDR Ltd. d/b/a PublicDomainRegistry.com": 1,
-        "eNom, LLC": 1,
-        "total": 4
+        "TLD Registrar Solutions Ltd.": 1,
+        "Tucows Domains Inc.": 1,
+        "total": 11
     },
     "percentage": {
-        "Danesco Trading Ltd.": 50.0,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 25.0,
-        "eNom, LLC": 25.0,
+        "ACTIVE-RU": 9.090909090909092,
+        "DOMAINSHOP-RU": 9.090909090909092,
+        "DYNADOT, LLC": 9.090909090909092,
+        "Danesco Trading Ltd.": 18.181818181818183,
+        "NameCheap, Inc.": 27.272727272727273,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 9.090909090909092,
+        "TLD Registrar Solutions Ltd.": 9.090909090909092,
+        "Tucows Domains Inc.": 9.090909090909092,
         "total": 100.0
     }
 }
