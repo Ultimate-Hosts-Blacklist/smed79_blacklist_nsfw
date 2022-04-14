@@ -1,38 +1,12 @@
 {
     "counter": {
-        "Danesco Trading Ltd.": 9,
-        "DropCatch.com 1486 LLC": 1,
-        "GMO Internet, Inc. d/b/a Onamae.com": 1,
-        "GoDaddy.com, LLC": 3,
-        "Instra Corporation Pty Ltd": 1,
-        "Mesh Digital Limited": 1,
-        "NameCheap, Inc.": 1,
-        "NameSilo, LLC": 1,
-        "Namespro Solutions Inc.": 1,
-        "OVH": 1,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 2,
-        "Registrar of Domain Names REG.RU, LLC": 1,
-        "Sav.com, LLC": 1,
-        "Wild West Domains, LLC": 1,
-        "eNom, LLC": 1,
-        "total": 26
+        "Danesco Trading Ltd.": 1,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 1,
+        "total": 2
     },
     "percentage": {
-        "Danesco Trading Ltd.": 34.61538461538461,
-        "DropCatch.com 1486 LLC": 3.8461538461538463,
-        "GMO Internet, Inc. d/b/a Onamae.com": 3.8461538461538463,
-        "GoDaddy.com, LLC": 11.538461538461538,
-        "Instra Corporation Pty Ltd": 3.8461538461538463,
-        "Mesh Digital Limited": 3.8461538461538463,
-        "NameCheap, Inc.": 3.8461538461538463,
-        "NameSilo, LLC": 3.8461538461538463,
-        "Namespro Solutions Inc.": 3.8461538461538463,
-        "OVH": 3.8461538461538463,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 7.6923076923076925,
-        "Registrar of Domain Names REG.RU, LLC": 3.8461538461538463,
-        "Sav.com, LLC": 3.8461538461538463,
-        "Wild West Domains, LLC": 3.8461538461538463,
-        "eNom, LLC": 3.8461538461538463,
-        "total": 99.99999999999996
+        "Danesco Trading Ltd.": 50.0,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 50.0,
+        "total": 100.0
     }
 }
