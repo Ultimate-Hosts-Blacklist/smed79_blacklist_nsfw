@@ -1,18 +1,18 @@
 {
     "counter": {
-        "Danesco Trading Ltd.": 5,
+        "Danesco Trading Ltd.": 7,
         "Name.com, Inc.": 1,
         "NameSilo, LLC": 1,
         "PDR Ltd. d/b/a PublicDomainRegistry.com": 1,
         "eNom, LLC": 1,
-        "total": 9
+        "total": 11
     },
     "percentage": {
-        "Danesco Trading Ltd.": 55.55555555555556,
-        "Name.com, Inc.": 11.11111111111111,
-        "NameSilo, LLC": 11.11111111111111,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 11.11111111111111,
-        "eNom, LLC": 11.11111111111111,
-        "total": 100.00000000000001
+        "Danesco Trading Ltd.": 63.63636363636363,
+        "Name.com, Inc.": 9.090909090909092,
+        "NameSilo, LLC": 9.090909090909092,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 9.090909090909092,
+        "eNom, LLC": 9.090909090909092,
+        "total": 100.0
     }
 }
