@@ -2,25 +2,27 @@
     "counter": {
         "Danesco Trading Ltd.": 8,
         "Dynadot5 LLC": 1,
-        "GoDaddy.com, LLC": 5,
+        "GoDaddy.com, LLC": 6,
         "Name.com, Inc.": 1,
         "NameCheap, Inc.": 3,
         "NameSilo, LLC": 3,
         "OVH sas": 1,
         "PDR Ltd. d/b/a PublicDomainRegistry.com": 1,
+        "Sav.com, LLC": 1,
         "eNom, LLC": 2,
-        "total": 25
+        "total": 27
     },
     "percentage": {
-        "Danesco Trading Ltd.": 32.0,
-        "Dynadot5 LLC": 4.0,
-        "GoDaddy.com, LLC": 20.0,
-        "Name.com, Inc.": 4.0,
-        "NameCheap, Inc.": 12.0,
-        "NameSilo, LLC": 12.0,
-        "OVH sas": 4.0,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 4.0,
-        "eNom, LLC": 8.0,
-        "total": 100.0
+        "Danesco Trading Ltd.": 29.62962962962963,
+        "Dynadot5 LLC": 3.7037037037037037,
+        "GoDaddy.com, LLC": 22.22222222222222,
+        "Name.com, Inc.": 3.7037037037037037,
+        "NameCheap, Inc.": 11.11111111111111,
+        "NameSilo, LLC": 11.11111111111111,
+        "OVH sas": 3.7037037037037037,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 3.7037037037037037,
+        "Sav.com, LLC": 3.7037037037037037,
+        "eNom, LLC": 7.407407407407407,
+        "total": 100.00000000000001
     }
 }
