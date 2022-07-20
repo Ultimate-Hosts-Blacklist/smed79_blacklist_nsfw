@@ -7416,6 +7416,7 @@
         "rawa-maz.pl",
         "realestate.pl",
         "rel.pl",
+        "ruovat.no",
         "rybnik.pl",
         "rzeszow.pl",
         "rzgw.gov.pl",
@@ -8553,7 +8554,6 @@
         "nc.us",
         "nd.us",
         "ne.us",
-        "nh.us",
         "nj.us",
         "nm.us",
         "noip.us",
@@ -8691,6 +8691,10 @@
         "mypets.ws",
         "net.ws",
         "org.ws"
+    ],
+    "xn--90a3ac": [
+        "nh.us",
+        "xn--90azh.xn--90a3ac"
     ],
     "xyz": [
         "blogsite.xyz",
