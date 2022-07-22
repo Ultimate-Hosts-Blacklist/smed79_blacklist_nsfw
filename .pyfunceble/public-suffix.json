@@ -7594,7 +7594,6 @@
         "com.qa",
         "edu.qa",
         "gov.qa",
-        "mil.qa",
         "name.qa",
         "net.qa",
         "org.qa",
@@ -8754,6 +8753,7 @@
         "ac.zw",
         "co.zw",
         "gov.zw",
+        "mil.qa",
         "mil.zw",
         "org.zw"
     ],
