@@ -4923,8 +4923,7 @@
     "link": [
         "cyon.link",
         "dweb.link",
-        "mypep.link",
-        "soundcast.me"
+        "mypep.link"
     ],
     "live": [
         "hlx.live"
@@ -5065,6 +5064,7 @@
         "priv.me",
         "ravendb.me",
         "site.transip.me",
+        "soundcast.me",
         "synology.me",
         "tbits.me",
         "tcp4.me",
