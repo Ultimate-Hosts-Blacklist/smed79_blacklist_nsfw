@@ -1,9 +1,9 @@
 {
     "counter": {
         "DYNADOT, LLC": 1,
-        "Danesco Trading Ltd.": 20,
+        "Danesco Trading Ltd.": 21,
         "Dynadot5 LLC": 1,
-        "GoDaddy.com, LLC": 7,
+        "GoDaddy.com, LLC": 8,
         "Name.com, Inc.": 1,
         "NameCheap, Inc.": 3,
         "NameSilo, LLC": 3,
@@ -12,27 +12,29 @@
         "OVH sas": 1,
         "PDR Ltd. d/b/a PublicDomainRegistry.com": 2,
         "PSI-USA, Inc. dba Domain Robot": 1,
+        "Realtime Register B.V.": 1,
         "Sav.com, LLC": 2,
         "Web Commerce Communications Ltd": 1,
         "eNom, LLC": 2,
-        "total": 48
+        "total": 51
     },
     "percentage": {
-        "DYNADOT, LLC": 2.0833333333333335,
-        "Danesco Trading Ltd.": 41.666666666666664,
-        "Dynadot5 LLC": 2.0833333333333335,
-        "GoDaddy.com, LLC": 14.583333333333334,
-        "Name.com, Inc.": 2.0833333333333335,
-        "NameCheap, Inc.": 6.25,
-        "NameSilo, LLC": 6.25,
-        "NameSilo,LLC": 2.0833333333333335,
-        "OVH": 4.166666666666667,
-        "OVH sas": 2.0833333333333335,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 4.166666666666667,
-        "PSI-USA, Inc. dba Domain Robot": 2.0833333333333335,
-        "Sav.com, LLC": 4.166666666666667,
-        "Web Commerce Communications Ltd": 2.0833333333333335,
-        "eNom, LLC": 4.166666666666667,
-        "total": 100.0
+        "DYNADOT, LLC": 1.9607843137254901,
+        "Danesco Trading Ltd.": 41.1764705882353,
+        "Dynadot5 LLC": 1.9607843137254901,
+        "GoDaddy.com, LLC": 15.686274509803921,
+        "Name.com, Inc.": 1.9607843137254901,
+        "NameCheap, Inc.": 5.882352941176471,
+        "NameSilo, LLC": 5.882352941176471,
+        "NameSilo,LLC": 1.9607843137254901,
+        "OVH": 3.9215686274509802,
+        "OVH sas": 1.9607843137254901,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 3.9215686274509802,
+        "PSI-USA, Inc. dba Domain Robot": 1.9607843137254901,
+        "Realtime Register B.V.": 1.9607843137254901,
+        "Sav.com, LLC": 3.9215686274509802,
+        "Web Commerce Communications Ltd": 1.9607843137254901,
+        "eNom, LLC": 3.9215686274509802,
+        "total": 99.99999999999996
     }
 }
