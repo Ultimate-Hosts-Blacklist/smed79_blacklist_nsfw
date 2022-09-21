@@ -1,7 +1,7 @@
 {
     "counter": {
         "DYNADOT, LLC": 1,
-        "Danesco Trading Ltd.": 21,
+        "Danesco Trading Ltd.": 22,
         "Dynadot5 LLC": 1,
         "GoDaddy.com, LLC": 8,
         "Name.com, Inc.": 1,
@@ -16,25 +16,25 @@
         "Sav.com, LLC": 2,
         "Web Commerce Communications Ltd": 1,
         "eNom, LLC": 2,
-        "total": 51
+        "total": 52
     },
     "percentage": {
-        "DYNADOT, LLC": 1.9607843137254901,
-        "Danesco Trading Ltd.": 41.1764705882353,
-        "Dynadot5 LLC": 1.9607843137254901,
-        "GoDaddy.com, LLC": 15.686274509803921,
-        "Name.com, Inc.": 1.9607843137254901,
-        "NameCheap, Inc.": 5.882352941176471,
-        "NameSilo, LLC": 5.882352941176471,
-        "NameSilo,LLC": 1.9607843137254901,
-        "OVH": 3.9215686274509802,
-        "OVH sas": 1.9607843137254901,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 3.9215686274509802,
-        "PSI-USA, Inc. dba Domain Robot": 1.9607843137254901,
-        "Realtime Register B.V.": 1.9607843137254901,
-        "Sav.com, LLC": 3.9215686274509802,
-        "Web Commerce Communications Ltd": 1.9607843137254901,
-        "eNom, LLC": 3.9215686274509802,
+        "DYNADOT, LLC": 1.9230769230769231,
+        "Danesco Trading Ltd.": 42.30769230769231,
+        "Dynadot5 LLC": 1.9230769230769231,
+        "GoDaddy.com, LLC": 15.384615384615385,
+        "Name.com, Inc.": 1.9230769230769231,
+        "NameCheap, Inc.": 5.769230769230769,
+        "NameSilo, LLC": 5.769230769230769,
+        "NameSilo,LLC": 1.9230769230769231,
+        "OVH": 3.8461538461538463,
+        "OVH sas": 1.9230769230769231,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 3.8461538461538463,
+        "PSI-USA, Inc. dba Domain Robot": 1.9230769230769231,
+        "Realtime Register B.V.": 1.9230769230769231,
+        "Sav.com, LLC": 3.8461538461538463,
+        "Web Commerce Communications Ltd": 1.9230769230769231,
+        "eNom, LLC": 3.8461538461538463,
         "total": 99.99999999999996
     }
 }
