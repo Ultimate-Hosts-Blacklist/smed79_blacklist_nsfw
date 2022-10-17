@@ -2183,7 +2183,8 @@
         "or.id",
         "ponpes.id",
         "rss.my.id",
-        "sch.id"
+        "sch.id",
+        "web.id"
     ],
     "ie": [
         "blogspot.ie",
@@ -2821,7 +2822,6 @@
         "vs.it",
         "vt.it",
         "vv.it",
-        "web.id",
         "xn--balsan-sdtirol-nsb.it",
         "xn--bozen-sdtirol-2ob.it",
         "xn--bulsan-sdtirol-nsb.it",
