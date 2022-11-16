@@ -139,7 +139,8 @@
         "edu.al",
         "gov.al",
         "mil.al",
-        "net.al"
+        "net.al",
+        "org.al"
     ],
     "am": [
         "blogspot.am",
@@ -471,7 +472,6 @@
         "net.bo",
         "nombre.bo",
         "noticias.bo",
-        "org.al",
         "org.bo",
         "patria.bo",
         "plurinacional.bo",
