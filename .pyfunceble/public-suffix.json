@@ -847,6 +847,7 @@
         "of.by"
     ],
     "bz": [
+        "co.bz",
         "com.bz",
         "edu.bz",
         "gov.bz",
@@ -893,7 +894,6 @@
         "fantasyleague.cc",
         "ftpaccess.cc",
         "game-server.cc",
-        "gov.qa",
         "instances.spawn.cc",
         "myphotos.cc",
         "scrapping.cc",
@@ -7946,6 +7946,7 @@
         "blogspot.qa",
         "com.qa",
         "edu.qa",
+        "gov.qa",
         "mil.qa",
         "name.qa",
         "net.qa",
