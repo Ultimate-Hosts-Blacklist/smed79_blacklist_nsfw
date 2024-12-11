@@ -1547,7 +1547,6 @@
         "hatenadiary.com",
         "health-carereform.com",
         "herokuapp.com",
-        "herokussl.com",
         "hk.com",
         "hobby-site.com",
         "homelinux.com",
@@ -2385,6 +2384,7 @@
         "loginline.dev",
         "mediatech.dev",
         "modx.dev",
+        "myaddr.dev",
         "ngrok-free.dev",
         "ngrok.dev",
         "odo.replit.dev",
@@ -3074,6 +3074,7 @@
         "mock.pstmn.io",
         "moonscale.io",
         "musician.io",
+        "myaddr.io",
         "myrdbx.io",
         "net.io",
         "ngrok.io",
@@ -8464,6 +8465,10 @@
     "today": [
         "prequalifyme.today"
     ],
+    "tools": [
+        "dyn.addr.tools",
+        "myaddr.tools"
+    ],
     "top": [
         "now-dns.top",
         "ntdll.top",
@@ -9077,9 +9082,6 @@
         "vinhlong.vn",
         "vinhphuc.vn",
         "yenbai.vn"
-    ],
-    "vodka": [
-        "aaa.vodka"
     ],
     "vu": [
         "com.vu",
