@@ -919,7 +919,6 @@
         "com.ci",
         "ed.ci",
         "edu.ci",
-        "fin.ci",
         "go.ci",
         "gouv.ci",
         "int.ci",
@@ -2809,7 +2808,6 @@
     ],
     "hr": [
         "com.hr",
-        "free.hr",
         "from.hr",
         "iz.hr",
         "name.hr",
@@ -4816,6 +4814,7 @@
         "oshima.yamaguchi.jp",
         "oshino.yamanashi.jp",
         "oshu.iwate.jp",
+        "osteroy.no",
         "ota.gunma.jp",
         "ota.tokyo.jp",
         "otake.hiroshima.jp",
@@ -5705,9 +5704,6 @@
         "net.lc",
         "org.lc",
         "oy.lc"
-    ],
-    "li": [
-        "caa.li"
     ],
     "link": [
         "cyon.link",
@@ -7935,8 +7931,7 @@
         "in.rs",
         "org.rs",
         "ox.rs",
-        "shop.brendly.rs",
-        "ua.rs"
+        "shop.brendly.rs"
     ],
     "ru": [
         "ac.ru",
@@ -8052,7 +8047,6 @@
         "brand.se",
         "c.se",
         "com.se",
-        "conf.se",
         "d.se",
         "e.se",
         "f.se",
