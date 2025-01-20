@@ -8640,7 +8640,6 @@
         "cc.az.us",
         "cc.ca.us",
         "cc.co.us",
-        "cc.ct.us",
         "cc.dc.us",
         "cc.de.us",
         "cc.fl.us",
@@ -9092,6 +9091,7 @@
     ],
     "zw": [
         "ac.zw",
+        "cc.ct.us",
         "co.zw",
         "gov.zw",
         "mil.zw",
