@@ -5829,9 +5829,6 @@
         "org.ma",
         "press.ma"
     ],
-    "management": [
-        "router.management"
-    ],
     "mc": [
         "asso.mc",
         "tm.mc"
@@ -7378,6 +7375,7 @@
         "doesntexist.org",
         "dontexist.org",
         "doomdns.org",
+        "dpdns.org",
         "dsmynas.org",
         "duckdns.org",
         "dvrdns.org",
