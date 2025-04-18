@@ -5882,7 +5882,8 @@
         "synology.me",
         "tcp4.me",
         "vp4.me",
-        "webhop.me"
+        "webhop.me",
+        "zone.id"
     ],
     "media": [
         "framer.media"
