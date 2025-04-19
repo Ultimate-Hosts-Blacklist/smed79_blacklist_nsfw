@@ -5788,7 +5788,6 @@
         "omg.lol"
     ],
     "lr": [
-        "com.lr",
         "edu.lr",
         "gov.lr",
         "net.lr",
@@ -5882,8 +5881,7 @@
         "synology.me",
         "tcp4.me",
         "vp4.me",
-        "webhop.me",
-        "zone.id"
+        "webhop.me"
     ],
     "media": [
         "framer.media"
@@ -8374,6 +8372,7 @@
     "th": [
         "ac.th",
         "co.th",
+        "com.lr",
         "go.th",
         "in.th",
         "mi.th",
