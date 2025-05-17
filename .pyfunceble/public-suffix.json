@@ -215,7 +215,6 @@
         "vercel.app",
         "wdh.app",
         "web.app",
-        "wielun.pl",
         "windsurf.app",
         "wnext.app",
         "zeabur.app",
@@ -2195,7 +2194,8 @@
         "xnbay.com",
         "yali.mythic-beasts.com",
         "yolasite.com",
-        "za.com"
+        "za.com",
+        "zone.id"
     ],
     "community": [
         "myforum.community",
@@ -7832,6 +7832,7 @@
         "warszawa.pl",
         "waw.pl",
         "wegrow.pl",
+        "wielun.pl",
         "wif.gov.pl",
         "wiih.gov.pl",
         "winb.gov.pl",
